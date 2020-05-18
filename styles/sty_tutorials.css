@@ -1,0 +1,127 @@
+.acp_locale > tbody > tr > td {
+    font-weight: bold;
+    text-align: center;
+}
+.acp_locale {
+    background-color: #00a0d2;
+    border-bottom: 1px solid #ddd !important;
+    font-family: sans-serif;
+    width: 103%;
+    padding: 10px;
+    color: #fff !important;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+
+.tutorial-ast-title, .tutorial-jur-title, .tutorial-title {
+    background: #8BC34A;
+    border-radius: 10px 10px 0 0;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    height: 46px;
+    text-shadow: 1px 0 0 #4CAF50;
+    text-align: center;
+}
+
+.tutorial-subtitle {
+	background-color: #eeeeee;
+    padding: 10px;
+    margin-left: -10px;
+    width: 103%;
+}
+
+.faColor {
+    color: #fff;
+    padding: 5px;
+}
+
+
+div.postbody .tutorial-ast-off:first-child, div.postbody .tutorial-jur, div.postbody .tutorial-off:first-child {
+    border-radius: 10px 10px 0 0;
+}
+
+.tutorial-ast-off, .tutorial-jur, .tutorial-jur-contain, .tutorial-off {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-spacing: 0;
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.tutorial-contain, .tutorial-jur-contain td {
+    border-left: 75px solid #eee;
+    border-right: 20px solid #eee;
+    padding: 10px 20px;
+}
+.tutorial-contain h2.post-content, .tutorial-jur-contain td h2.post-content {
+    background-color: #eee;
+    border-bottom: 1px solid #ddd !important;
+    font-family: sans-serif;
+    font-size: 1.5em;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding: 10px;
+    margin-bottom: 15px;
+    counter-increment: chapter;
+    counter-reset: subpart;
+    color: #333 !important;
+    margin-top: 0px;
+}
+
+.tutorial-contain h3.post-content, .tutorial-jur-contain td h3.post-content {
+    border-bottom: 1px solid #333;
+    color: #333;
+    counter-increment: subpart;
+    font-family: sans-serif;
+    padding-bottom: 5px;
+    text-transform: unset;
+}
+.tutorial-contain h2.post-content::before, .tutorial-jur-contain td h2.post-content::before {
+    background-color: #333;
+    border-radius: 31px;
+    box-sizing: border-box;
+    color: #fff;
+    content: counter(chapter, decimal);
+    display: inline-block;
+    height: 33px;
+    margin-right: 15px;
+    text-align: center;
+    width: 33px;
+}
+.tutorial-contain h3.post-content:before, .tutorial-jur-contain td h3.post-content::before {
+    content: counter(chapter) "." counter(subpart) ". ";
+}
+
+.tutorial-contain.reset, .tutorial-jur-contain.reset {
+    counter-reset: chapter;
+}
+
+.tutorial-contain, .tutorial-jur-contain td {
+    border-left: 10px solid #eee;
+    border-right: 10px solid #eee;
+    padding: 10px 10px;
+}
+
+.tutorial-ast-footer, .tutorial-footer {
+    background-color: #333;
+    border-radius: 0px 0px 10px 10px;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: .9em;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.tutorial-copy, .tutorial-ast-copy {
+    padding: 10px 20px;
+}
+
+.tutorial-copy::before, .tutorial-ast-copy::before {
+    content: "\f128";
+    float: right;
+    font-family: "FontAwesome";
+    font-size: 6em;
+    margin-top: 10px;
+}
