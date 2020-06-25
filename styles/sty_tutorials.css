@@ -152,3 +152,6 @@ code .str {
 .codebox code.prettyprint.linenums {
     font-size: 14px;
 }
+.codebox code.prettyprint.linenums ol {
+    margin-left: 2em;
+}
