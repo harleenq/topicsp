@@ -125,3 +125,30 @@ div.postbody .tutorial-ast-off:first-child, div.postbody .tutorial-jur, div.post
     font-size: 6em;
     margin-top: 10px;
 }
+code .pln {
+    color: #c5c8c6;
+}
+code .pun {
+    color: #c5c8c6;
+}
+code .lit {
+    color: #de935f;
+}
+code .kwd {
+    color: #b294bb;
+}
+code .tag {
+    color: #c66;
+}
+code .atv {
+    color: #8abeb7;
+}
+code .atn {
+    color: #de935f;
+}
+code .str {
+    color: #b5bd68;
+}
+.codebox code.prettyprint.linenums {
+    font-size: 14px;
+}
