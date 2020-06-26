@@ -152,9 +152,6 @@ code .str {
 .codebox code.prettyprint.linenums {
     font-size: 14px;
 }
-.codebox code.prettyprint.linenums ol {
-    margin-left: 2em;
-}
 .sceditor-button-inline-code div {
     background-image: url(https://i.servimg.com/u/f21/18/21/41/30/snippe10.png)!important;
 }
