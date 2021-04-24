@@ -163,6 +163,6 @@ code .str {
 		
 .row .forum-icon,
 ul.topiclist.search dl {
-  border-top-left-radius: calc(0.188rem - 1px);
+  border-top-left-radius: calc(0.188rem - 1px) !important;
 	
 }
