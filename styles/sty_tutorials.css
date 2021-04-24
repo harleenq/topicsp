@@ -158,11 +158,11 @@ code .str {
 
 .post .inner {
 	border-radius: calc(0.188rem - 1px);
-	}
+}
 	
 		
 .row .forum-icon,
 ul.topiclist.search dl {
-  border-top-left-radius: calc(0.188rem - 1px) !important;
-	
+        border-top-left-radius: calc(0.188rem - 1px) !important;
+	border-bottom-left-radius: calc(0.188rem - 1px) !important;
 }
