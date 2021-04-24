@@ -155,3 +155,9 @@ code .str {
 .sceditor-button-inline-code div {
     background-image: url(https://i.servimg.com/u/f21/18/21/41/30/snippe10.png)!important;
 }
+
+.post .inner {
+	border-radius: calc(0.188rem - 1px);
+	}
+	
+		
