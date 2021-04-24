@@ -161,9 +161,8 @@ code .str {
 	}
 	
 		
-li dl.forum-icon,
+.row .forum-icon,
 ul.topiclist.search dl {
-  -webkit-border-radius: 3px 0 0 3px;
-      -moz-border-radius: 3px 0 0 3px;
-                border-radius: 3px 0 0 3px;
+  border-top-left-radius: calc(0.188rem - 1px);
+	
 }
