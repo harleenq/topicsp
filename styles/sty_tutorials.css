@@ -516,3 +516,11 @@ template {
 [hidden] {
   display: none;
 }
+
+.row > .blog[style] {
+    background-image: none !important;
+}
+
+.row > .blog > .dterm {
+    background-position: top right !important;
+}
