@@ -524,3 +524,7 @@ template {
 .row > .blog > .dterm {
     background-position: top right !important;
 }
+
+.blog.dterm {
+    width: 100% !important;
+}
