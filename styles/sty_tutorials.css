@@ -536,3 +536,11 @@ template {
 .fa-awgreatjob:hover, .fa-awgreatjob:focus {
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAoCAYAAAACJPERAAABp0lEQVRYhe2UPWvCUBSGuxTqtVZvolJ08yf0F0RbNNIfkAh+4Vic+gcKjhk6dClFRHEVAl0rDtkkqw7ipmMGB/fm7ZDkxm9bbJdyHzjLO9znnnNPcnbG4XA4HA6Hw+FwOH+PmglBSQehSASKRKCmA6y8TEkHUbi9wkmishxFNU+hv0Qw7InI3Ais7HnKqWlyLR+0KLpaHNU8RfX++vsXKMlRaHUBw56I5SgBe55yRPYnK0+8K1+OEpj1RXw8B9GoEZTl6GF5MSeiq8VhT5Osm82D18R78uUoAcsQMNEpXh/OUcqJu8XFrDOahZnwx7chZeNdka5mq9KF6XQ87hBodQElObYtViWCQYuyt/ot6fw9grfHIAp3dFtazFK0G9TpdEX60ze1p0ksTH+8ZtPtdO+IcyITL0eu3L3Azu3dyDc7HHfI4Tf1tzcGre6sv2U4B61dwC0v90SW4cvHHYLe0wUaNYLSse1dl0dRkcNoN5wRTXSKiU4x64uwDAGWIWDWFzHRKcYdArNJmLQih49/KsdQ05f+n0ciUKUAK0Xy/0pqJnSa6N/xBee5Gre/w9/dAAAAAElFTkSuQmCC);
 }
+
+.mod_news .content + p {
+    background-color: transparent;
+    border-top: 1px dashed #ccc;
+    margin-top: 1.25rem;
+    padding-top: .5rem;
+    text-align: right;
+}
