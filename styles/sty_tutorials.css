@@ -568,3 +568,7 @@ template {
     border-spacing: 0;
     border-collapse: collapse;
 }
+
+.portal .column + td {
+    padding-left: 1rem;
+}
