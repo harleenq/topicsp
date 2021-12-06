@@ -1,0 +1,12 @@
+:root {
+  --fm-gray-700: #444444;
+  --fm-gray-400: #484848;
+}
+
+body {
+  background-color: var(--fm-gray-700);
+}
+
+#wrap {
+   background-color: var(--fm-gray-400); 
+}
