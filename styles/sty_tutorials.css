@@ -581,7 +581,7 @@ template {
     background-color: rgba(122, 191, 86, 0.02) !important;
 }
 .post[style="background-color:#f4f9fd;"] .profile-icons::after {
-    content: '\f00c Melhor resposta';
+    content: '\f00c  Melhor resposta';
     background-color: rgba(122, 191, 86, 0.16);
     border-radius: 24px;
     box-sizing: border-box;
@@ -597,5 +597,8 @@ template {
     user-select: none;
     color: #73bc4e;
     font-family: fontawesome, Verdana, Arial, Helvetica, sans-serif;
-
+    line-height: 1.2;
+}
+.profile-icons li > span {
+    line-height: 1.2;
 }
