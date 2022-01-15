@@ -602,3 +602,19 @@ template {
 .profile-icons li > span {
     line-height: 1.2;
 }
+ .award[class] {
+     background-clip: padding-box;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: inherit;
+     border-color: #EEE;
+     background-color: #F2F2F2;
+     border-width: 1px;
+ }
+ .notif_award {
+     background-size: inherit;
+     background-repeat: no-repeat;
+ }
+ #profile_awards_full .h3 {
+     margin-top: .25rem;
+ }
