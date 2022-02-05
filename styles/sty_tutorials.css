@@ -669,3 +669,7 @@ template {
 .sceditor-mention-user[style] {
   font-weight: 700;
 }
+
+#sceditor-mention-div:empty::before {
+  content: 'Oops, não encontramos resultados.';
+}
