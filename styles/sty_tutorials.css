@@ -673,3 +673,13 @@ template {
 #sceditor-mention-div:empty::before {
   content: 'Oops, não encontramos resultados.';
 }
+
+#profile-advanced-add a {
+  width: calc(100% - 0.25rem) !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+#profile-advanced-add {
+  margin: 0 !important;
+  padding: 0 !important;
+}
