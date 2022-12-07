@@ -722,3 +722,7 @@ template {
 .award_row, .awards_module .awards_block {
     padding: 1rem;
 }
+
+.award.award-gold-aju:after {
+	content: '2019' !Important;
+}
