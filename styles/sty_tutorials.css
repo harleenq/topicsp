@@ -683,3 +683,25 @@ template {
   margin: 0 !important;
   padding: 0 !important;
 }
+
+[class*="award"] .award {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+	border-radius: 50%;
+    border-width: 0 !important;
+}
+
+
+.award.award-gold-aju {
+    background: #F7BE67;
+    background: -webkit-linear-gradient(to right, #ffa751, #ffe259);
+    background: linear-gradient(to right, #F5AE42, #F7BE67);
+  
+}
+
+.award.award-gold-aju:before {
+    content: "\f1cd";
+    font-size: 22px;
+    font-family: 'FontAwesome';
+}
