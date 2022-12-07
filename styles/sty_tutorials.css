@@ -716,3 +716,7 @@ template {
 	background: linear-gradient(to bottom right, #ffeb3b 0%, #fbc02d 100%);
     color: #ffb300;
 }
+#profile_awards_full:empty::before {
+    content: 'Sem nenhuma conquista alcançada.';
+    display: block;
+}
