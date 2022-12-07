@@ -711,7 +711,6 @@ template {
     display: flex !important;
     justify-content: center;
     align-items: center;
-	border-radius: 50%;
     border-width: 0 !important;
 	background: linear-gradient(to bottom right, #ffeb3b 0%, #fbc02d 100%);
     color: #ffb300;
@@ -719,4 +718,7 @@ template {
 #profile_awards_full:empty::before {
     content: 'Sem nenhuma conquista alcançada.';
     display: block;
+}
+.award_row, .awards_module .awards_block {
+    padding: 1rem;
 }
