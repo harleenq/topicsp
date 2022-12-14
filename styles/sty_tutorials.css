@@ -683,6 +683,7 @@ template {
   margin: 0 !important;
   padding: 0 !important;
 }
+/*
 
 [class*="award"] .award:before {
     transform: rotate(60deg);
@@ -714,15 +715,16 @@ template {
     border-width: 0 !important;
 	background: linear-gradient(to bottom right, #ffeb3b 0%, #fbc02d 100%);
     color: #ffb300;
-}
+}*/
 #profile_awards_full:empty::before {
     content: 'Sem nenhuma conquista alcançada.';
     display: block;
 }
-.award_row, .awards_module .awards_block {
+/*.award_row, .awards_module .awards_block {
     padding: 1rem;
 }
 
 .award.award-gold-aju:after {
 	content: '2019' !Important;
 }
+*/
