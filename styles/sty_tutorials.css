@@ -602,7 +602,7 @@ template {
 .profile-icons li > span {
     line-height: 1.2;
 }
- .award[class] {
+/* .award[class] {
      background-clip: padding-box;
      background-position: center center;
      background-repeat: no-repeat;
@@ -610,7 +610,7 @@ template {
      border-color: #EEE;
      background-color: #F2F2F2;
      border-width: 1px;
- }
+ }*/
  .notif_award {
      background-size: inherit;
      background-repeat: no-repeat;
@@ -708,6 +708,7 @@ template {
 }
 
 
+
 [class*="award"] .award {
     display: flex !important;
     justify-content: center;
@@ -728,3 +729,12 @@ template {
 	content: '2019' !Important;
 }
 */
+.award {
+    filter: drop-shadow(0px 1px 3px #DDD);
+    background-clip: padding-box;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: inherit;
+    border-width: 0 !important;
+    background-color: transparent !important;
+}
