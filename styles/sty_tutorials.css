@@ -738,3 +738,13 @@ template {
     border-width: 0 !important;
     background-color: transparent !important;
 }
+.award_tooltiptext {
+    background-color: #2D3134;
+    color: #fafafa;
+    border-color: #2D3134;
+    border-radius: 3px;
+}
+
+body>.award_tooltiptext.profile::after, body>.award_tooltiptext.right::after, .dd_award.right .award_tooltiptext::after, .module .award_tooltiptext::after {
+    border-color: transparent transparent transparent #2D3134;
+}
