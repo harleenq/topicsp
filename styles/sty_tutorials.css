@@ -757,3 +757,29 @@ body>.award_tooltiptext.profile::after, body>.award_tooltiptext.right::after, .d
     padding: 0 !important;
     padding-top: 1rem !IMPORTANT;
 }
+[face*="::"] {
+    border-bottom: 1px dashed #999;
+}
+[face*="::"]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+}
+[face*="::"]:after {
+    content: attr(face);
+background-color: #2D3134;
+    color: #fafafa;
+    border-color: #2D3134;
+    border-radius: 3px;
+    position: absolute;
+    padding: 1px 5px 2px 5px;
+    bottom: -1.6em;
+    left: 100%;
+    white-space: nowrap;
+    opacity: 0;
+    z-index: 99999;
+    visibility: hidden;
+}
+[face*="::"] {
+    position: relative;
+}
