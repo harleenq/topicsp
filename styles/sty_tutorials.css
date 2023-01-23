@@ -777,7 +777,7 @@ background-color: #2D3134;
     left: 100%;
     white-space: nowrap;
     opacity: 0;
-    z-index: 99999;
+    z-index: 99999 !important;
     visibility: hidden;
 }
 [face*="::"] {
