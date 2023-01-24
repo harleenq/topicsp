@@ -1,16 +1,23 @@
-.acp_locale > tbody > tr > td {
-    font-weight: bold;
-    text-align: center;
-}
 .acp_locale {
     background-color: #00a0d2;
     border-bottom: 1px solid #ddd !important;
     font-family: sans-serif;
-    width: 103%;
-    padding: 10px;
     color: #fff !important;
-    margin-top: 10px;
-    margin-left: -10px;
+    display: block;
+    width: 100%;
+    border-radius: 3px;
+    padding: 10px;
+}
+.acp_locale tbody,
+.acp_locale thead {
+    display: block;
+    width: 100%;
+}
+
+.acp_locale tbody tr {
+    display: flex;
+    justify-content: center;
+        width: 100%;
 }
 
 .faq-subtitle {
