@@ -12,6 +12,10 @@
     font-weight: 700;
 }
 
+.fm-tuto-steps tbody tr:hover {
+    background: transparent !important;
+	color: inherit !important;
+}
 
 .acp_locale > tbody > tr > td {
     font-weight: bold;
