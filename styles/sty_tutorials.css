@@ -790,3 +790,7 @@ content: attr(face);
 [face*="::"] {
     position: relative;
 }
+
+.faq-contain .table1 td {
+    padding: 1rem;
+}
