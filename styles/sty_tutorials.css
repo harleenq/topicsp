@@ -49,9 +49,19 @@
 	color: #EF3333 !important;
 }
 
-.color-admin {
-   background-color: rgba(239, 51, 51, 0.06) !important; 
-	color: #EF3333 !important;
+.color-mod {
+   background-color: rgba(104,184,0,0.06) !important; 
+	color: #68B800 !important;
+}
+
+.color-aju {
+   background-color: rgba(245,174,66,0.06) !important; 
+	color: #F5AE42 !important;
+}
+
+.color-art {
+   background-color: rgba(120,125,234,0.06) !important; 
+	color: #787DEA !important;
 }
 
 .acp_locale > tbody > tr > td {
