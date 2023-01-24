@@ -44,6 +44,16 @@
     border-bottom: 1px solid #ddd !important;
 }
 
+.color-admin {
+   background-color: rgba(239, 51, 51, 0.06) !important; 
+	color: #EF3333 !important;
+}
+
+.color-admin {
+   background-color: rgba(239, 51, 51, 0.06) !important; 
+	color: #EF3333 !important;
+}
+
 .acp_locale > tbody > tr > td {
     font-weight: bold;
     text-align: center;
