@@ -1,15 +1,30 @@
 .fm-tuto-steps {
     counter-reset: row-num;
+    display: block;
+}
+
+.fm-tuto-steps tbody,
+.fm-tuto-steps thead {
+    display: block;
+    width: 100%;
 }
 
 .fm-tuto-steps tbody tr {
     counter-increment: row-num;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-width: 0;
+    background-color: #fafafa;
+}
+
+.fm-tuto-steps tbody tr:nth-child(2n + 1) {
+    background-color: #f6f6f6 !important;
 }
 
 .fm-tuto-steps tr td:first-child::before {
     content: counter(row-num) ". ";
 	color: #39C;
-    font-weight: 700;
 }
 
 .fm-tuto-steps tbody tr:hover {
