@@ -758,7 +758,11 @@ body>.award_tooltiptext.profile::after, body>.award_tooltiptext.right::after, .d
     padding-top: 1rem !IMPORTANT;
 }
 [face*="::"] {
-    border-bottom: 1px dashed #999;
+     -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+    cursor: help;
+    -webkit-text-decoration-skip-ink: none;
+    text-decoration-skip-ink: none;
 }
 [face*="::"]:hover:after {
     opacity: 1;
