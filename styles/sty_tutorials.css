@@ -102,10 +102,11 @@
 	color: #787DEA !important;
 }
 
-.acp_locale > tbody > tr > td {
-    font-weight: bold;
-    text-align: center;
+.color-default {
+	   background-color: #d8ecf5 !important; 
+	color: #2d8cbb !important;
 }
+
 /*.acp_locale {
     background-color: #00a0d2;
     border-bottom: 1px solid #ddd !important;
@@ -115,6 +116,10 @@
     color: #fff !important;
     margin-top: 10px;
     margin-left: -10px;
+}
+.acp_locale > tbody > tr > td {
+    font-weight: bold;
+    text-align: center;
 }*/
 
 .tutorial-ast-title, .tutorial-jur-title, .tutorial-title {
