@@ -37,7 +37,10 @@
     flex-direction: column;
     width: 100%;
     border-width: 0 !important;
-    background-color: #fafafa !important;
+}
+
+.fm-tuto-steps tbody tr:not([class]) {
+	    background-color: #fafafa !important;
 }
 
 .fm-tuto-steps tbody tr:nth-child(2n + 2) {
