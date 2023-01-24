@@ -43,7 +43,7 @@
 	    background-color: #fafafa !important;
 }
 
-.fm-tuto-steps tbody tr:nth-child(2n + 2) {
+.fm-tuto-steps tbody tr:not([class]):nth-child(2n + 2) {
     background-color: #f6f6f6 !important;
 }
 
