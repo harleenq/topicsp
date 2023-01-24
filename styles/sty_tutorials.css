@@ -24,7 +24,6 @@
 
 .fm-tuto-steps tr td:first-child::before {
     content: counter(row-num) ". ";
-	color: #39C;
 }
 
 .fm-tuto-steps tbody tr:hover {
