@@ -81,6 +81,9 @@
 .fm-tuto-steps tbody tr:not(:last-child) {
     border-bottom: 1px solid #ddd !important;
 }
+.faq-contain .table1 td + td {
+    padding-top: 0 !important;
+}
 
 .color-admin {
    background-color: rgba(239, 51, 51, 0.06) !important; 
