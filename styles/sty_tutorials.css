@@ -1,7 +1,23 @@
+[data-post-forum="42"] .tuto-off.ann .tuto-title,
+[data-post-forum="28"] .tuto-off.ann .tuto-title,
+[data-post-forum="40"] .tuto-off.ann .tuto-title,
+[data-post-forum="41"] .tuto-off.ann .tuto-title,
+[data-post-forum="43"] .tuto-off.ann .tuto-title,
+[data-post-forum="70"] .tuto-off.ann .tuto-title,
 [data-post-forum="42"] .tuto-off.ann .tuto-title {
     border-color: #57983a !important;    
     background: #89ba5b url(https://i.imgur.com/d8gCGFF.png) no-repeat scroll 0 -4px !important;    
 	text-shadow: 1px 0 0 #57983a !important;    
+}
+
+[data-post-forum="42"] .tuto-fa,
+[data-post-forum="28"] .tuto-fa,
+[data-post-forum="40"] .tuto-fa,
+[data-post-forum="41"] .tuto-fa,
+[data-post-forum="43"] .tuto-fa,
+[data-post-forum="70"] .tuto-fa,
+[data-post-forum="42"] .tuto-fa {
+    font-size: 0 !important;
 }
 
 .fm-tuto-steps {
