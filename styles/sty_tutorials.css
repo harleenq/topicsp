@@ -26,6 +26,9 @@
     content: counter(row-num) ". ";
 }
 
+.fm-tuto-steps tr td {
+    border-width: 0 !important;
+}
 .fm-tuto-steps tbody tr:hover {
     background: transparent !important;
 	color: inherit !important;
