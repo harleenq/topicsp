@@ -1,3 +1,9 @@
+[data-post-forum="42"] .tuto-off.ann .tuto-title {
+    border-color: #57983a !important;    
+    background: #89ba5b url(https://i.imgur.com/d8gCGFF.png) no-repeat scroll 0 -4px !important;    
+	text-shadow: 1px 0 0 #57983a !important;    
+}
+
 .fm-tuto-steps {
     counter-reset: row-num;
     display: block;
