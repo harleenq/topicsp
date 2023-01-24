@@ -1,14 +1,18 @@
-table.table1.fm-tuto-steps tr td:first-child::before {
+.fm-tuto-steps {
+    counter-reset: row-num;
+}
+
+.fm-tuto-steps tbody tr {
+    counter-increment: row-num;
+}
+
+.fm-tuto-steps tr td:first-child::before {
     content: counter(row-num) ". ";
+	color: #39C;
     font-weight: 700;
 }
 
-table.table1.fm-tuto-steps tbody tr {
-    counter-increment: row-num;
-}
-table.table1.fm-tuto-steps {
-    counter-reset: row-num;
-}
+
 .acp_locale > tbody > tr > td {
     font-weight: bold;
     text-align: center;
