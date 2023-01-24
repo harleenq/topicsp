@@ -14,11 +14,11 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    border-width: 0;
-    background-color: #fafafa;
+    border-width: 0 !important;
+    background-color: #fafafa !important;
 }
 
-.fm-tuto-steps tbody tr:nth-child(2n + 1) {
+.fm-tuto-steps tbody tr:nth-child(2n + 2) {
     background-color: #f6f6f6 !important;
 }
 
@@ -29,6 +29,10 @@
 .fm-tuto-steps tbody tr:hover {
     background: transparent !important;
 	color: inherit !important;
+}
+
+.fm-tuto-steps tbody tr:not(:last-child) {
+    border-bottom: 1px solid #ddd !important;
 }
 
 .acp_locale > tbody > tr > td {
