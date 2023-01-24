@@ -20,6 +20,22 @@
     font-size: 0 !important;
 }
 
+[data-post-forum="42"] .faq-copy::before,
+[data-post-forum="28"] .faq-copy::before,
+[data-post-forum="40"] .faq-copy::before,
+[data-post-forum="41"] .faq-copy::before,
+[data-post-forum="43"] .faq-copy::before,
+[data-post-forum="70"] .faq-copy::before,
+[data-post-forum="42"] .faq-copy::before,
+[data-post-forum="42"] .faq-copy::before,
+[data-post-forum="28"] .faq-ast-copy::before,
+[data-post-forum="40"] .faq-ast-copy::before,
+[data-post-forum="41"] .faq-ast-copy::before,
+[data-post-forum="43"] .faq-ast-copy::before,
+[data-post-forum="70"] .faq-ast-copy::before,
+[data-post-forum="42"] .faq-ast-copy::before {
+	content: "\f129";
+}
 .fm-tuto-steps {
     counter-reset: row-num;
     display: block;
