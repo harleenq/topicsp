@@ -75,7 +75,8 @@
 	color: inherit !important;
 }
 .fm-tuto-steps tbody td {
-    color: inherit !important;
+    color: inherit  !important;
+    padding: 0 !important;
 }
 .fm-tuto-steps tbody tr:not(:last-child) {
     border-bottom: 1px solid #ddd !important;
