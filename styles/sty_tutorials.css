@@ -770,19 +770,22 @@ body>.award_tooltiptext.profile::after, body>.award_tooltiptext.right::after, .d
     visibility: visible;
 }
 [face*="::"]:after {
-    content: attr(face);
-background-color: #2D3134;
+content: attr(face);
+    background-color: #2D3134;
     color: #fafafa;
     border-color: #2D3134;
     border-radius: 3px;
     position: absolute;
-    padding: 1px 5px 2px 5px;
-    bottom: -1.6em;
-    left: 100%;
-    white-space: nowrap;
+    padding: .25rem;
     opacity: 0;
     z-index: 99999 !important;
     visibility: hidden;
+    word-break: break-word;
+    white-space: normal;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
 }
 [face*="::"] {
     position: relative;
