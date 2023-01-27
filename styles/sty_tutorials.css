@@ -1,3 +1,4 @@
+[data-post-topic="117415"] .tuto-off.ann .tuto-title,
 [data-post-forum="42"] .tuto-off.ann .tuto-title,
 [data-post-forum="28"] .tuto-off.ann .tuto-title,
 [data-post-forum="40"] .tuto-off.ann .tuto-title,
@@ -10,6 +11,7 @@
 	text-shadow: 1px 0 0 #57983a !important;    
 }
 
+[data-post-topic="117415"] .tuto-fa,
 [data-post-forum="42"] .tuto-fa,
 [data-post-forum="28"] .tuto-fa,
 [data-post-forum="40"] .tuto-fa,
@@ -20,6 +22,7 @@
     font-size: 0 !important;
 }
 
+[data-post-topic="117415"] .faq-copy::before,
 [data-post-forum="42"] .faq-copy::before,
 [data-post-forum="28"] .faq-copy::before,
 [data-post-forum="40"] .faq-copy::before,
@@ -28,6 +31,7 @@
 [data-post-forum="70"] .faq-copy::before,
 [data-post-forum="42"] .faq-copy::before,
 [data-post-forum="42"] .faq-copy::before,
+[data-post-topic="117415"] .faq-ast-copy::before,
 [data-post-forum="28"] .faq-ast-copy::before,
 [data-post-forum="40"] .faq-ast-copy::before,
 [data-post-forum="41"] .faq-ast-copy::before,
