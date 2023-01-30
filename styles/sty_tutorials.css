@@ -4,8 +4,8 @@
 span.notification_time {
     display: flex;
     padding-top: 3px!important;
-    color: gray;
-    float: right;
+    color: #9f9f9f;
+    align-items: flex-end;
 }
 
 [data-post-topic="117415"] .tuto-off.ann .tuto-title,
