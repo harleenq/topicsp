@@ -1,3 +1,13 @@
+#fa_toolbar #fa_right #notif_list li .contentText {
+    height: -webkit-fill-available;
+}
+span.notification_time {
+    display: flex;
+    padding-top: 3px!important;
+    color: gray;
+    float: right;
+}
+
 [data-post-topic="117415"] .tuto-off.ann .tuto-title,
 [data-post-forum="42"] .tuto-off.ann .tuto-title,
 [data-post-forum="28"] .tuto-off.ann .tuto-title,
