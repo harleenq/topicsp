@@ -133,3 +133,26 @@ div.postbody .faq-ast-off:first-child, div.postbody .faq-jur, div.postbody .faq-
     font-size: 6em;
     margin-top: 10px;
 }
+
+
+blink {
+  animation: blink 0.5s steps(1, end) infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+marquee {
+  overflow: hidden;
+}
+
+@keyframes marquee {
+  0% {text-indent: 100%;}
+  100% {text-indent: -100%;}
+}
