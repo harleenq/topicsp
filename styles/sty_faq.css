@@ -1,5 +1,7 @@
 .tuto-list {
-    display: block;
+        display: block;
+    padding: 1rem;
+    margin-bottom: 1rem;
 }
 
 .tuto-list tbody,
@@ -15,6 +17,10 @@
     border-width: 0 !important;
 }
 
+.tuto-list-title {
+    font-size: 22px;
+    font-weight: bold;
+}
 
 .acp_locale {
     background-color: #00a0d2;
