@@ -1,3 +1,21 @@
+.tuto-list {
+    display: block;
+}
+
+.tuto-list tbody,
+.tuto-list thead {
+    display: block;
+    width: 100%;
+}
+
+.tuto-list tbody tr {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-width: 0 !important;
+}
+
+
 .acp_locale {
     background-color: #00a0d2;
     border-bottom: 1px solid #ddd !important;
