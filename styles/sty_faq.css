@@ -41,6 +41,7 @@
     flex-direction: row;
     width: 100%;
     border-width: 0 !important;
+        justify-content: space-between;
 }
 .acp_locale {
     background-color: #00a0d2;
