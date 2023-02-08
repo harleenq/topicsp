@@ -23,6 +23,25 @@
     margin-bottom: 0.5rem;
 }
 
+
+.tuto-list-row {
+        display: block;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.tuto-list-row tbody,
+.tuto-list-row thead {
+    display: block;
+    width: 100%;
+}
+
+.tuto-list-row tbody tr {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    border-width: 0 !important;
+}
 .acp_locale {
     background-color: #00a0d2;
     border-bottom: 1px solid #ddd !important;
