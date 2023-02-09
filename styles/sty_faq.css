@@ -23,19 +23,19 @@
     margin-bottom: 0.5rem;
 }
 
-.tuto-cat-list {
+.tuto-list-cat {
         display: block;
     padding: 1rem;
     margin-bottom: 1rem;
 }
 
-.tuto-cat-list tbody,
-.tuto-cat-list thead {
+.tuto-list-cat tbody,
+.tuto-list-cat thead {
     display: block;
     width: 100%;
 }
 
-.tuto-cat-list tbody tr {
+.tuto-list-cat tbody tr {
     display: flex;
     flex-direction: column;
     width: 100%;
