@@ -50,6 +50,7 @@
 .tuto-list-row td {
     width: 100%;
         background-color: #F7F7F7;
+            align-self: stretch;
 }
 
 .tuto-list-row td:nth-child(2n+2) {
