@@ -25,7 +25,8 @@
 
 .tuto-list-row {
         display: block;
-    padding: 1rem;
+        border: 1px solid #EEE;
+    background-color: #F7F7F7;
     margin-bottom: 1rem;
 }
 
@@ -45,8 +46,12 @@
 
 .tuto-list-row td {
     width: 100%;
+        background-color: #F7F7F7;
 }
 
+.tuto-list-row td:nth-child(2n+2) {
+    background-color: #F2F2F2;
+}
 
 .acp_locale {
     background-color: #00a0d2;
