@@ -1,5 +1,7 @@
 .tuto-list {
+            width: 100%;
         display: block;
+            margin-bottom: 1rem;
 }
 
 .tuto-list tbody,
