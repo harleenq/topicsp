@@ -13,6 +13,7 @@
     flex-direction: column;
     width: 100%;
     border-width: 0 !important;
+        gap: 1rem;
 }
 
 .tuto-list-description {
