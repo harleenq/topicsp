@@ -99,7 +99,7 @@ span.notification_time {
     padding-top: 0 !important;
 }
 
-.mod-action[class^="color-"] {
+[class^="mod-action color-"] {
     color: #555 !important;
 }
 
