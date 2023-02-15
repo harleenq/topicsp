@@ -99,29 +99,38 @@ span.notification_time {
     padding-top: 0 !important;
 }
 
+.mod-action[class^="color-"] {
+    color: #555 !important;
+}
+
 .color-admin {
    background-color: #FEF0F0 !important; 
 	color: #EF3333 !important;
+	    border-color: #FEF0F0 !important;
 }
 
 .color-mod {
    background-color: #F6FFEB !important; 
 	color: #68B800 !important;
+	    border-color: #F6FFEB !important;
 }
 
 .color-aju {
    background-color: #FDECD4 !important; 
 	color: #F5AE42 !important;
+	    border-color: #FDECD4 !important;
 }
 
 .color-art {
    background-color: #E6E7FB !important; 
 	color: #787DEA !important;
+	    border-color: #E6E7FB !important;
 }
 
 .color-default {
 	   background-color: #D9ECF6 !important; 
 	color: #2d8cbb !important;
+	    border-color: #D9ECF6 !important;
 }
 
 /*.acp_locale {
