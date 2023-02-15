@@ -101,6 +101,8 @@ span.notification_time {
 
 [class^="mod-action color-"] {
     color: #555 !important;
+	    margin-left: 0;
+    margin-right: 0;
 }
 
 .color-admin {
