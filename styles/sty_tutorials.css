@@ -105,31 +105,31 @@ span.notification_time {
 
 .color-admin {
    background-color: #FEF0F0 !important; 
-	color: #EF3333 !important;
+	color: #EF3333;
 	    border-color: #FEF0F0 !important;
 }
 
 .color-mod {
    background-color: #F6FFEB !important; 
-	color: #68B800 !important;
+	color: #68B800;
 	    border-color: #F6FFEB !important;
 }
 
 .color-aju {
    background-color: #FDECD4 !important; 
-	color: #F5AE42 !important;
+	color: #F5AE42;
 	    border-color: #FDECD4 !important;
 }
 
 .color-art {
    background-color: #E6E7FB !important; 
-	color: #787DEA !important;
+	color: #787DEA;
 	    border-color: #E6E7FB !important;
 }
 
 .color-default {
 	   background-color: #D9ECF6 !important; 
-	color: #2d8cbb !important;
+	color: #2d8cbb;
 	    border-color: #D9ECF6 !important;
 }
 
