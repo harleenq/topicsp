@@ -105,7 +105,7 @@ span.notification_time {
     margin-right: 0;
 }
 
-[class^="mod-action color-"]:hover {
+[class^="mod-action color-"] a:hover {
     color: #f60 !important;
 }
 .color-admin {
