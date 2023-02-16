@@ -42,6 +42,10 @@
     justify-content: center;
 }
 
+.tuto-list-row tr:nth-child(2n+2) {
+    background-color: #F2F2F2;
+}
+
 .tuto-list-row a:before {
     content: "\f101";
     font-family: 'FontAwesome';
