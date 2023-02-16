@@ -29,7 +29,8 @@
     font-size: 12px;
 }
 
-.tuto-list-row-cat td {
+.tuto-list-row-cat td,
+.tuto-list-row tr td:last-child {
     border-right-width: 0 !important;
 }
 .tuto-list-row-header-mark:before {
