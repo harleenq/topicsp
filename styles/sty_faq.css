@@ -43,7 +43,7 @@
 }
 
 .tuto-list-row tr:nth-child(2n+2) {
-    background-color: #F2F2F2;
+    background: #fbfbfb !important;
 }
 
 .tuto-list-row a:before {
