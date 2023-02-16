@@ -49,7 +49,9 @@
 
 .tuto-list-row-header {
     background-color: #39C !important;
-    color: #fff;
+}
+.tuto-list-row-header td {
+                color: #fff !important;
     font-weight: 400;
     text-transform: uppercase;
 }
