@@ -28,6 +28,17 @@
 .tuto-list-row {
 
 }
+.tuto-list-row-header-mark {
+    display: flex;
+    justify-content: center;
+}
+
+td.tuto-list-row-header-mark:before {
+    content: "\f058";
+    font-family: 'FontAwesome';
+    color: #68b800;
+    font-size: 1rem;
+}
 
 .tuto-list-row-header {
     background-color: #39C;
