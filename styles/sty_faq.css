@@ -40,6 +40,12 @@ td.tuto-list-row-header-mark:before {
     font-size: 1rem;
 }
 
+.tuto-list-row a:before {
+    content: "\f101";
+    font-family: 'FontAwesome';
+    padding-right: 0.5rem;
+}
+
 .tuto-list-row-header {
     background-color: #39C !important;
     color: #fff;
