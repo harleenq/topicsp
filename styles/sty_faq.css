@@ -25,8 +25,17 @@
     padding: 5px 10px;
 }
 
-
 .tuto-list-row {
+
+}
+
+.tuto-list-row-header {
+    background-color: #39C;
+    color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+/*.tuto-list-row {
         display: block;
         border: 1px solid #EEE;
     background-color: #F7F7F7;
@@ -55,7 +64,7 @@
 
 .tuto-list-row td:nth-child(2n+2) {
     background-color: #F2F2F2;
-}
+}*/
 
 .acp_locale {
     background-color: #00a0d2;
