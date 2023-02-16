@@ -26,14 +26,15 @@
 }
 
 .tuto-list-row {
-
+    font-size: 12px;
 }
+
 .tuto-list-row-header-mark {
     display: flex;
     justify-content: center;
 }
 
-td.tuto-list-row-header-mark:before {
+.tuto-list-row-header-mark:before {
     content: "\f058";
     font-family: 'FontAwesome';
     color: #68b800;
