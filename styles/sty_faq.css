@@ -29,16 +29,14 @@
     font-size: 12px;
 }
 
-.tuto-list-row-header-mark {
-    display: flex;
-    justify-content: center;
-}
 
 .tuto-list-row-header-mark:before {
     content: "\f058";
     font-family: 'FontAwesome';
     color: #68b800;
     font-size: 1rem;
+                display: flex;
+    justify-content: center;
 }
 
 .tuto-list-row a:before {
