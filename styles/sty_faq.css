@@ -29,7 +29,9 @@
     font-size: 12px;
 }
 
-
+.tuto-list-row-cat td {
+    border-right-width: 0 !important;
+}
 .tuto-list-row-header-mark:before {
     content: "\f058";
     font-family: 'FontAwesome';
