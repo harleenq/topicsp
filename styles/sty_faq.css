@@ -54,6 +54,7 @@
     padding-right: 0.5rem;
 }
 
+.tuto-list-row-cat a:before { content: none !important; }
 .tuto-list-row-header {
     background-color: #39C !important;
 }
