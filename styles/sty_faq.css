@@ -45,6 +45,7 @@
 .tuto-list-row tr:not([class]):nth-child(2n+2) {
     background: #fbfbfb !important;
 }
+.tuto-list-row-cat a,
 .tuto-list-row-cat td {
     color: inherit !important;
 }
