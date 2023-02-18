@@ -80,13 +80,13 @@
 .tuto-list-row-all tbody tr {
     display: flex;
     flex-direction: row;
-    width: 33,33%;
+    width: 33,33% !important;
     border-width: 0 !important;
         justify-content: space-between;
 }
 
 .tuto-list-row-all td {
-    width: 100%;
+    width: 33,33% !important;
         background-color: #F7F7F7;
             align-self: stretch;
 }
