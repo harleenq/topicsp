@@ -91,7 +91,7 @@
             align-self: stretch;
 }
 
-.tuto-list-row-all td:nth-child(2n+2) {
+.tuto-list-row-all tr:nth-child(2n+2) {
     background-color: #F2F2F2;
 }
 
