@@ -80,7 +80,7 @@
 .tuto-list-row-all tbody tr {
     display: flex;
     flex-direction: row;
-    width: 100%;
+    width: 33,33%;
     border-width: 0 !important;
         justify-content: space-between;
 }
