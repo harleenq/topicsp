@@ -1,3 +1,12 @@
+[data-post-topic="117431"] .postprofile {
+    display: none;
+}
+
+[data-post-topic="117431"] .postbody {
+    margin: auto;
+    width: 100%;
+}
+
 .tuto-list {
             width: 100%;
         display: block;
@@ -80,13 +89,13 @@
 .tuto-list-row-all tbody tr {
     display: flex;
     flex-direction: row;
-    width: 33,33% !important;
+    width: 33.333% !important;
     border-width: 0 !important;
         justify-content: space-between;
 }
 
 .tuto-list-row-all td {
-    width: 33,33% !important;
+    width: 33.333% !important;
         background-color: #F7F7F7;
             align-self: stretch;
 }
