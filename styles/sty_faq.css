@@ -25,7 +25,7 @@
     width: 100%;
 }
 
-.tuto-list-flex td {
+.tuto-list-flex > tbody > tr > td {
     display: flex;
     justify-content: space-between;   
     gap: 1rem;
