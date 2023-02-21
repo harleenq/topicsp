@@ -6,7 +6,10 @@
     margin: auto;
     width: 100%;
 }
-
+.tuto-list-row-cat td:last-child {
+    display: flex;
+    justify-content: center;
+}
 .tuto-list {
             width: 100%;
         display: block;
