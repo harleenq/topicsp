@@ -1,3 +1,25 @@
+.tuto-list-row-all + a,
+.tuto-list-row-all + a + a{
+    background-color: red;
+    color: #FFF!important;
+    font-size: 11px;
+    font-weight: 700;
+    background: #39C;
+    border: none;
+    border-bottom: 2px solid #17A;
+    border-radius: 3px;
+    display: inline-block;
+    line-height: normal!important;
+    padding: 6px 9px!important;
+    margin: 2px;
+    transition: .3s;
+}
+
+.tuto-list-row-all + a + a{
+background-color: #2d3134;
+    border-color: #1a1c1e;
+}
+
 [data-post-topic="117431"] .postprofile {
     display: none;
 }
