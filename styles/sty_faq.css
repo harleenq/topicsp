@@ -62,7 +62,7 @@
     justify-content: center;
 }
 
-.tuto-list-row tr:not([class]):nth-child(2n+2) {
+.tuto-list-row tr:not([class]):nth-child(odd) {
     background: #fbfbfb !important;
 }
 .tuto-list-row-cat a,
@@ -112,7 +112,7 @@
             align-self: stretch;
 }
 
-.tuto-list-row-all tr:nth-child(2n+2) {
+.tuto-list-row-all tr:nth-child(odd) {
     background-color: #F2F2F2;
 }
 
