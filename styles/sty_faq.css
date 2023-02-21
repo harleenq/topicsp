@@ -91,10 +91,7 @@
 }
 .tuto-list-row-all {
         display: block;
-        border: 1px solid #EEE;
-    background-color: #F7F7F7;
     margin-bottom: 1rem;
-        width: 25%;
 }
 
 .tuto-list-row-all tbody,
@@ -104,22 +101,16 @@
 }
 
 .tuto-list-row-all tbody tr {
-    display: flex;
+    display: inline-flex;
     flex-direction: row;
-    width: 100% !important;
+    width: 20% !important;
     border-width: 0 !important;
-        justify-content: space-between;
 }
 
 .tuto-list-row-all td {
     width: 100% !important;
-        background-color: #F7F7F7;
-            align-self: stretch;
 }
 
-.tuto-list-row-all tr:nth-child(odd) {
-    background-color: #F2F2F2;
-}
 
 .acp_locale {
     background-color: #00a0d2;
