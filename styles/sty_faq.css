@@ -10,18 +10,25 @@
     display: flex;
     justify-content: center;
 }
-.tuto-list {
+.tuto-list,
+.tuto-list-flex {
             width: 100%;
         display: block;
-            margin-bottom: 1rem;
 }
+.tuto-list { margin-bottom: 1rem; }
 
 .tuto-list tbody,
-.tuto-list thead {
+.tuto-list thead,
+.tuto-list-flex tbody,
+.tuto-list-flex thead {
     display: block;
     width: 100%;
 }
 
+.tuto-list-flex td {
+    display: flex;
+    justify-content: space-between;
+}
 .tuto-list tbody tr {
     display: flex;
     flex-direction: column;
