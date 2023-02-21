@@ -10,6 +10,7 @@
     display: flex;
     justify-content: center;
 }
+.tuto-list-flex-twice,
 .tuto-list,
 .tuto-list-flex {
             width: 100%;
@@ -17,6 +18,8 @@
 }
 .tuto-list { margin-bottom: 1rem; }
 
+.tuto-list-flex-twice tbody,
+.tuto-list-flex-twice thead,
 .tuto-list tbody,
 .tuto-list thead,
 .tuto-list-flex tbody,
@@ -24,6 +27,8 @@
     display: block;
     width: 100%;
 }
+
+.tuto-list-flex-twice { width: 60%;}
 
 .tuto-list-flex > tbody > tr > td {
     display: flex;
