@@ -6,7 +6,7 @@
     margin: auto;
     width: 100%;
 }
-.tuto-list-row-cat td:last-child {
+.tuto-list-row-cat td:not(:empty):last-child {
     display: flex;
     justify-content: center;
 }
