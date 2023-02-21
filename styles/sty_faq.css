@@ -27,7 +27,8 @@
 
 .tuto-list-flex td {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;   
+    gap: 1rem;
 }
 .tuto-list tbody tr {
     display: flex;
@@ -88,6 +89,7 @@
         border: 1px solid #EEE;
     background-color: #F7F7F7;
     margin-bottom: 1rem;
+        width: 25%;
 }
 
 .tuto-list-row-all tbody,
@@ -99,13 +101,13 @@
 .tuto-list-row-all tbody tr {
     display: flex;
     flex-direction: row;
-    width: 33.333% !important;
+    width: 100% !important;
     border-width: 0 !important;
         justify-content: space-between;
 }
 
 .tuto-list-row-all td {
-    width: 33.333% !important;
+    width: 100% !important;
         background-color: #F7F7F7;
             align-self: stretch;
 }
