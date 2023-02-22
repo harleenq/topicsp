@@ -15,6 +15,15 @@
     transition: .3s;
 }
 
+.tuto-list-row-all + div hr {
+    height: 12px;
+    background: url(//redcdn.net/frmste/images/separator.png) no-repeat center center;
+    border: 0;
+    width: 100%;
+    margin: 50px auto;
+    float: left;
+}
+
 .tuto-list-row-all + div a + a{
 background-color: #2d3134;
     border-color: #1a1c1e;
