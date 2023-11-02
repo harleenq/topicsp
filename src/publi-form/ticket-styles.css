@@ -354,3 +354,9 @@ body {
     line-height: 1.5;
     background-color: #FAFAFA;
 }
+
+.wrap {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
