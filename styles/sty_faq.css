@@ -99,10 +99,13 @@ background-color: #2d3134;
 }
 
 .tuto-list-row-header-star {
-    color: #e6ad1d;
-    font-size: 1rem;
      display: flex;
     justify-content: center;
+}
+
+.tuto-list-row-header-star font {
+    color: #e6ad1d;
+    font-size: 1rem;
 }
 
 .tuto-list-row tr:not([class]):nth-child(odd) {
