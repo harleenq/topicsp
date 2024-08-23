@@ -269,7 +269,7 @@ marquee {
 
 
 .mm-rang {
-background: linear-gradient(to right, #000 10%, #1c93fd 50%, #000 60%);
+background: linear-gradient(to right, #000 10%, #EF3333 50%, #000 60%);
 background-size: 200% auto;
 color: #fff;
 -webkit-background-clip: text;
@@ -279,6 +279,6 @@ animation: textclip 1.5s linear infinite alternate;
 
 @keyframes textclip {
     to {
-        background-position:150% center
+        background-position: 150% center;
     }
 }
