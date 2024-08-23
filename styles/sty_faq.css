@@ -106,42 +106,23 @@ background-color: #2d3134;
     font-size: 1rem;
     display: flex;
     justify-content: center;
+    letter-spacing: 0.15rem;
 }
 
 .tuto-list-row-header-star[data-tutorial-level="2"]:before {
     content: "\f005 \f123 \f006 \f006 \f006";
-    font-family: 'FontAwesome';
-    color: #e6ad1d;
-    font-size: 1rem;
-    display: flex;
-    justify-content: center;
 }
 
 .tuto-list-row-header-star[data-tutorial-level="3"]:before {
     content: "\f005 \f005 \f123 \f006 \f006";
-    font-family: 'FontAwesome';
-    color: #e6ad1d;
-    font-size: 1rem;
-    display: flex;
-    justify-content: center;
 }
 
 .tuto-list-row-header-star[data-tutorial-level="4"]:before {
     content: "\f005 \f005 \f005 \f123 \f006";
-    font-family: 'FontAwesome';
-    color: #e6ad1d;
-    font-size: 1rem;
-    display: flex;
-    justify-content: center;
 }
 
 .tuto-list-row-header-star[data-tutorial-level="5"]:before {
     content: "\f005 \f005 \f005 \f005 \f005";
-    font-family: 'FontAwesome';
-    color: #e6ad1d;
-    font-size: 1rem;
-    display: flex;
-    justify-content: center;
 }
 
 .tuto-list-row tr:not([class]):nth-child(odd) {
