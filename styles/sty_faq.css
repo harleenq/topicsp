@@ -98,6 +98,18 @@ background-color: #2d3134;
     justify-content: center;
 }
 
+.tuto-list-row-header-star:before {
+    content: "\f005 \f005 \f005 \f005 \f005";
+    font-family: 'FontAwesome';
+    color: #68b800;
+    font-size: 1rem;
+                display: flex;
+    justify-content: center;
+}
+.tuto-list-row-header-star[data-tutorial-level="2"]:before {
+    content: "----";
+}
+
 .tuto-list-row tr:not([class]):nth-child(odd) {
     background: #fbfbfb !important;
 }
