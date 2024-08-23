@@ -98,14 +98,14 @@ background-color: #2d3134;
     justify-content: center;
 }
 
-.tuto-list-row-header-star {
-     display: flex;
-    justify-content: center;
-}
 
-.tuto-list-row-header-star font {
+.tuto-list-row-header-star:before {
+    content: "\f123 \f006 \f006 \f006 \f006";
+    font-family: 'FontAwesome';
     color: #e6ad1d;
     font-size: 1rem;
+    display: flex;
+    justify-content: center;
 }
 
 .tuto-list-row tr:not([class]):nth-child(odd) {
