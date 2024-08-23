@@ -94,20 +94,15 @@ background-color: #2d3134;
     font-family: 'FontAwesome';
     color: #68b800;
     font-size: 1rem;
-                display: flex;
+    display: flex;
     justify-content: center;
 }
 
-.tuto-list-row-header-star:before {
-    content: "\f005 \f005 \f005 \f005 \f005";
-    font-family: 'FontAwesome';
-    color: #68b800;
+.tuto-list-row-header-star {
+    color: #e6ad1d;
     font-size: 1rem;
-                display: flex;
+     display: flex;
     justify-content: center;
-}
-.tuto-list-row-header-star[data-tutorial-level="2"]:before {
-    content: "----";
 }
 
 .tuto-list-row tr:not([class]):nth-child(odd) {
