@@ -71,7 +71,6 @@ background-color: #2d3134;
     flex-direction: column;
     width: 100%;
     border-width: 0 !important;
-        gap: 1rem;
 }
 
 .tuto-list-description {
@@ -157,6 +156,7 @@ background-color: #2d3134;
       display: flex;
     justify-content: space-between;
     width: 100%;
+           gap: 1rem;
 }
 
 .tuto-list-row-all tbody tr {
