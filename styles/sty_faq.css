@@ -161,7 +161,6 @@ background-color: #2d3134;
 
 .tuto-list-row-all tbody tr {
 display: inline-flex;
-width: 20% !important;
 background-color: #F7F7F7;
 border-radius: 3px;
 border: 1px solid #DDD;
