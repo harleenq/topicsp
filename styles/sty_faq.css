@@ -149,7 +149,7 @@ background-color: #2d3134;
 }
 .tuto-list-row-all {
         display: block;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 .tuto-list-row-all tbody,
@@ -161,22 +161,27 @@ background-color: #2d3134;
 
 .tuto-list-row-all tbody tr {
 display: inline-flex;
-    width: 20% !important;
-    background-color: #fafafa;
-    border-radius: 3px;
-    border: 1px solid #DDD;
-    margin-right: 1rem;
-    margin-bottom: 1rem;
-    height: 50px;
-    align-items: center;
+width: 20% !important;
+background-color: #fafafa;
+border-radius: 3px;
+border: 1px solid #DDD;
+padding: 0.375rem 0.75rem;
+align-items: center;
+text-align: center;
+word-break: keep-all;
 }
+
 
 .tuto-list-row-all td {
         width: 100% !important;
     display: flex;
     justify-content: center;
+       background-color: #F7F7F7;
 }
 
+.tuto-list-row-all tr td:nth-child(2n + 2) {
+    background-color:#F2F2F2
+}
 
 .acp_locale {
     background-color: #00a0d2;
