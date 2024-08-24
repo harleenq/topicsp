@@ -1,6 +1,5 @@
 .tuto-list-row-all + div a,
 .tuto-list-row-all + div a + a {
-    background-color: red;
     color: #FFF!important;
     font-size: 11px;
     font-weight: 700;
@@ -10,8 +9,7 @@
     border-radius: 3px;
     display: inline-block;
     line-height: normal!important;
-    padding: 6px 9px!important;
-    margin: 2px;
+    padding: 0.75rem 1.25rem!important;
     transition: .3s;
 }
 
@@ -27,6 +25,7 @@
 .tuto-list-row-all + div a + a{
 background-color: #2d3134;
     border-color: #1a1c1e;
+    margin-left: 1rem;
 }
 
 [data-post-topic="117431"] .postprofile {
