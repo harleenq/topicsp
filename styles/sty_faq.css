@@ -162,7 +162,7 @@ background-color: #2d3134;
 .tuto-list-row-all tbody tr {
 display: inline-flex;
 width: 20% !important;
-background-color: #fafafa;
+background-color: #F7F7F7;
 border-radius: 3px;
 border: 1px solid #DDD;
 padding: 0.375rem 0.75rem;
@@ -176,10 +176,9 @@ word-break: keep-all;
         width: 100% !important;
     display: flex;
     justify-content: center;
-       background-color: #F7F7F7;
 }
 
-.tuto-list-row-all tr td:nth-child(2n + 2) {
+.tuto-list-row-all tbody tr:nth-child(2n + 2) {
     background-color:#F2F2F2
 }
 
