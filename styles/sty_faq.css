@@ -337,8 +337,10 @@ a.fa-quote-expand {
    text-align:center;
    text-decoration:none;
    color:inherit;
-   background-color:#fff;
-   border:1px #999 solid;
+    background: #7abf56;
+color: white;
+padding: 4px;
+border-radius: 6px;
 }
 .fa-quote-collapsed a.fa-quote-expand {
    display: block;
