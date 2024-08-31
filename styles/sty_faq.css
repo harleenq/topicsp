@@ -2,11 +2,11 @@
     font-weight: 500 !important; 
     font-size: 1.1em; 
     line-height: 1.2; 
-    margin-bottom: 1rem;
+    margin-bottom: .75rem;
 }
 
 .tuto-list-faq tr:not([class]) td {
-padding: 1rem;
+    padding: 1rem;
 }
 
 .tuto-list-row-all + div a,
