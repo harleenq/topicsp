@@ -142,7 +142,7 @@ background-color: #2d3134;
 .tuto-list-faq td {
     position: relative;
 }
-.tuto-list-faq a[href^="/t"] {
+.tuto-list-faq a:empty {
     position: absolute;
     bottom: 0;
     right: 0;
