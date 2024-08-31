@@ -28,10 +28,14 @@ background-color: #2d3134;
     margin-left: 1rem;
 }
 
+[data-post-topic="6745"] .postprofile,
+[data-post-topic="23"] .postprofile,
 [data-post-topic="117431"] .postprofile {
     display: none;
 }
 
+[data-post-topic="6745"] .postbody,
+[data-post-topic="23"] .postbody,
 [data-post-topic="117431"] .postbody {
     margin: auto;
     width: 100%;
