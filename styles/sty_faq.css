@@ -1,3 +1,10 @@
+.tuto-list-faq h4 {
+    font-weight: 500 !important; 
+    font-size: 1.1em; 
+    line-height: 1.2; 
+    margin-bottom: 1rem;
+}
+
 .tuto-list-row-all + div a,
 .tuto-list-row-all + div a + a {
     color: #FFF!important;
