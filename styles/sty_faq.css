@@ -1,3 +1,11 @@
+.fm-tuto-steps .table1 td:before {
+content: none !important;
+}
+
+.fm-tuto-steps .table1 tr {
+display: table-row;
+}
+
 .tuto-list-faq h4 {
     font-weight: 500 !important; 
     font-size: 1.1em; 
