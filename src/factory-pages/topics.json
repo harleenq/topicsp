@@ -5,6 +5,7 @@
             "cat": 4,
             "title": "Sistema de conquistas",
             "desc": "O sistema de recompensas (premiações) permite premiar o empenho dos membros da sua comunidade atribuindo-lhes um (ou mais) emblema que serão exibidos no seu perfil e/ou mensagem (assuntos).",
+            "new": 1, 
             "tagnew": 1,
             "tagupdate": 0
         },{
@@ -13,6 +14,7 @@
             "cat": 8,
             "title": "Ferramentas do Fundador-administrador",
             "desc": "As ferramentas do fundador dão acesso remoto a gestão da sua comunidade.",
+            "new": 1, 
             "tagnew": 1,
             "tagupdate": 0
         },{
