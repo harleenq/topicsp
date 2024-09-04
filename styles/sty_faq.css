@@ -10,6 +10,10 @@
   color: #787DEA;
 }
 
+.tuto-list-pub h4 {
+  color: #00B5D1;
+}
+
 .tuto-list-row-cat:not([class*="color"]) {
   font-weight: 700;
   background-color: #fff;
