@@ -1,3 +1,15 @@
+.tuto-list-adm h4 {
+  color: #EF3333;
+}
+
+.tuto-list-mod h4 {
+  color: #71be47;
+}
+
+.tuto-list-art h4 {
+  color: #787DEA;
+}
+
 .tuto-list-row-cat:not([class*="color"]) {
   font-weight: 700;
   background-color: #fff;
