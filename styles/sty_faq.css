@@ -6,6 +6,10 @@
   color: #71be47;
 }
 
+.tuto-list-aju h4 {
+  color: #F5AE42;
+}
+
 .tuto-list-art h4 {
   color: #787DEA;
 }
@@ -137,7 +141,7 @@ background-color: #2d3134;
     background-color:#7BB92B
 }
 
-.tuto-list-descriptionajuda {
+.tuto-list-description.aju {
     background-color:#F5AE42
 }
 
