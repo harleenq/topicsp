@@ -14,8 +14,12 @@
   color: #00B5D1;
 }
 
-.tuto-list-row-cat:not([class*="color"]) {
+
+.tuto-list-row-cat {
   font-weight: 700;
+}
+
+.tuto-list-row-cat:not([class*="color"]) {
   background-color: #fff;
 }
 
