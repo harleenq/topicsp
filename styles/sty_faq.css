@@ -125,6 +125,22 @@ background-color: #2d3134;
     padding: 5px 10px;
 }
 
+.tuto-list-description.mod {
+    background-color:#7BB92B
+}
+
+.tuto-list-descriptionajuda {
+    background-color:#F5AE42
+}
+
+.tuto-list-description.art {
+    background-color:#787DEA
+}
+
+.tuto-list-description.pub {
+    background-color:#00B5D1
+}
+
 .tuto-list-row {
     font-size: 12px;
 }
