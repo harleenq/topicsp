@@ -1,3 +1,8 @@
+.tuto-list-row-cat:not([class*="color"]) {
+  font-weight: 700;
+  background-color: #fff;
+}
+
 .tuto-list-row td,
 .fm-tuto-steps td {
     font-size: 13px !important;
