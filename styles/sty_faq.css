@@ -1,3 +1,8 @@
+.fm-tuto-steps td {
+    font-size: 13px !important;
+    line-height: 1.5;
+}
+
 .fm-tuto-steps .table1 td:before {
 content: none !important;
 }
