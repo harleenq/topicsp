@@ -18,6 +18,10 @@
   color: #00B5D1;
 }
 
+.tuto-list-dev h4 {
+  color: #2E3133;
+}
+
 
 .tuto-list-row-cat {
   font-weight: 700;
@@ -155,6 +159,9 @@ background-color: #2d3134;
     background-color:#00B5D1
 }
 
+.tuto-list-description.dev {
+    background-color:#2E3133
+}
 .tuto-list-row {
     font-size: 12px;
 }
