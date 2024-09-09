@@ -53,7 +53,7 @@ display: table-row;
 }
 
 .tuto-list-faq tr:not([class]) td {
-    padding: 1rem;
+    padding: .75rem;
 }
 
 .tuto-list-row-all + div a,
