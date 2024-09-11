@@ -1,5 +1,41 @@
 {
     "listin": [{
+            "t": "118081",
+            "list": 1,
+            "cat": 4,
+            "title": "Widget externo Forumeiros",
+            "desc": "O widget Forumeiros permite incorporar os tópicos mais recentes do fórum em um site externo, ou numa página HTML. Assim, dando a possibilidade de exibir as últimas discussões do fórum em quaisquer sites: blogs, outros fóruns, etc.",
+            "new": 1, 
+            "tagnew": 1,
+            "tagupdate": 0
+        }, {
+            "t": "118079",
+            "list": 1,
+            "cat": 4,
+            "title": "Imagens compartilhadas nos tópicos",
+            "desc": "Com este recurso é fácil navegar pelas imagens publicadas, classificadas das mais recentes às mais antigas. Uma maneira simples de redescobrir as discussões de forma diferente!",
+            "new": 1, 
+            "tagnew": 1,
+            "tagupdate": 0
+        }, {
+            "t": "118077",
+            "list": 1,
+            "cat": 4,
+            "title": "Seguimento entre membros no fórum",
+            "desc": "Membros a seguir são os membros que segues e queres receber notificações do conteúdo deles, como: novos tópicos e mensagens (dependendo das preferências do perfil). Uma forma interessante de descobrir cada publicação de um membro específico.",
+            "new": 1, 
+            "tagnew": 1,
+            "tagupdate": 0
+        }, {
+            "t": "118075",
+            "list": 1,
+            "cat": 4,
+            "title": "Organize os tópicos com a vista em grelha",
+            "desc": "A vista em grelha permite que a sua comunidade possa encontrar os tópicos de interesse de forma rápida e eficaz através de um design moderno e de destaque.",
+            "new": 1, 
+            "tagnew": 1,
+            "tagupdate": 0
+        }, {
             "t": "118068",
             "list": 1,
             "cat": 4,
