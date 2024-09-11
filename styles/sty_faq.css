@@ -304,6 +304,10 @@ word-break: keep-all;
     padding: 5px;
 }
 
+.faq-copy a {
+color: #fff !important;
+font-weight: 700;
+}
 
 div.postbody .faq-ast-off:first-child, div.postbody .faq-jur, div.postbody .faq-off:first-child {
     border-radius: 10px 10px 0 0;
