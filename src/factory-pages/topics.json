@@ -6,7 +6,7 @@
             "title": "Widget externo Forumeiros",
             "desc": "O widget Forumeiros permite incorporar os tópicos mais recentes do fórum em um site externo, ou numa página HTML. Assim, dando a possibilidade de exibir as últimas discussões do fórum em quaisquer sites: blogs, outros fóruns, etc.",
             "new": 1, 
-            "tagnew": 0,
+            "tagnew": 1,
             "tagupdate": 0
         }, {
             "t": "118079",
@@ -15,7 +15,7 @@
             "title": "Imagens compartilhadas nos tópicos",
             "desc": "Com este recurso é fácil navegar pelas imagens publicadas, classificadas das mais recentes às mais antigas. Uma maneira simples de redescobrir as discussões de forma diferente!",
             "new": 1, 
-            "tagnew": 0,
+            "tagnew": 1,
             "tagupdate": 0
         }, {
             "t": "118077",
@@ -24,7 +24,7 @@
             "title": "Seguimento entre membros no fórum",
             "desc": "Membros a seguir são os membros que segues e queres receber notificações do conteúdo deles, como: novos tópicos e mensagens (dependendo das preferências do perfil). Uma forma interessante de descobrir cada publicação de um membro específico.",
             "new": 1, 
-            "tagnew": 0,
+            "tagnew": 1,
             "tagupdate": 0
         }, {
             "t": "118075",
@@ -33,7 +33,7 @@
             "title": "Organize os tópicos com a vista em grelha",
             "desc": "A vista em grelha permite que a sua comunidade possa encontrar os tópicos de interesse de forma rápida e eficaz através de um design moderno e de destaque.",
             "new": 1, 
-            "tagnew": 0,
+            "tagnew": 1,
             "tagupdate": 0
         }, {
             "t": "118068",
@@ -42,7 +42,7 @@
             "title": "Sistema de conquistas",
             "desc": "O sistema de recompensas (premiações) permite premiar o empenho dos membros da sua comunidade atribuindo-lhes um (ou mais) emblema que serão exibidos no seu perfil e/ou mensagem (assuntos).",
             "new": 1, 
-            "tagnew": 0,
+            "tagnew": 1,
             "tagupdate": 0
         },{
             "t": "118067",
@@ -51,7 +51,7 @@
             "title": "Ferramentas do Administrador-fundador",
             "desc": "As ferramentas do fundador dão acesso remoto a gestão da sua comunidade.",
             "new": 1, 
-            "tagnew": 0,
+            "tagnew": 1,
             "tagupdate": 0
         },{
             "t": "107876",
