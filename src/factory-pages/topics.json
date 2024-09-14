@@ -6,7 +6,7 @@
             "title": "Widget externo Forumeiros",
             "desc": "O widget Forumeiros permite incorporar os tópicos mais recentes do fórum em um site externo, ou numa página HTML. Assim, dando a possibilidade de exibir as últimas discussões do fórum em quaisquer sites: blogs, outros fóruns, etc.",
             "new": 1, 
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }, {
             "t": "118079",
@@ -15,7 +15,7 @@
             "title": "Imagens compartilhadas nos tópicos",
             "desc": "Com este recurso é fácil navegar pelas imagens publicadas, classificadas das mais recentes às mais antigas. Uma maneira simples de redescobrir as discussões de forma diferente!",
             "new": 1, 
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }, {
             "t": "118077",
@@ -24,7 +24,7 @@
             "title": "Seguimento entre membros no fórum",
             "desc": "Membros a seguir são os membros que segues e queres receber notificações do conteúdo deles, como: novos tópicos e mensagens (dependendo das preferências do perfil). Uma forma interessante de descobrir cada publicação de um membro específico.",
             "new": 1, 
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }, {
             "t": "118075",
@@ -33,7 +33,7 @@
             "title": "Organize os tópicos com a vista em grelha",
             "desc": "A vista em grelha permite que a sua comunidade possa encontrar os tópicos de interesse de forma rápida e eficaz através de um design moderno e de destaque.",
             "new": 1, 
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }, {
             "t": "118068",
@@ -42,7 +42,7 @@
             "title": "Sistema de conquistas",
             "desc": "O sistema de recompensas (premiações) permite premiar o empenho dos membros da sua comunidade atribuindo-lhes um (ou mais) emblema que serão exibidos no seu perfil e/ou mensagem (assuntos).",
             "new": 1, 
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         },{
             "t": "118067",
@@ -51,7 +51,7 @@
             "title": "Ferramentas do Administrador-fundador",
             "desc": "As ferramentas do fundador dão acesso remoto a gestão da sua comunidade.",
             "new": 1, 
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         },{
             "t": "107876",
@@ -5003,7 +5003,7 @@
             "cat": 12,
             "title": "Efeito de ondas no headerbar",
             "desc": "Nos dias atuais, os usuários da internet têm a tendência de se fascinar com efeitos e detalhes inovadores jamais vistos em execução. Este tutorial tem como objetivo adicionar a animação ondas no topo do seu fórum",
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }, {
             "t": "115589",
@@ -5011,7 +5011,7 @@
             "cat": 20,
             "title": "Som ao receber notificações",
             "desc": "Por meio deste tutorial será possível adicionar um efeito sonoro ao receber uma notificação no fórum. No entanto, é importante reforçar que a barra de ferramentas deve estar ativada.",
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }, {
             "t": "115588",
@@ -5019,7 +5019,7 @@
             "cat": 20,
             "title": "Adição de imagens no fundo do SCEditor",
             "desc": "A personalização de um fórum é fundamental para que este tenha sucesso. Portanto, por meio deste tutorial, será possível personalizar a área de texto, ou editor, do seu fórum, podendo adicionar imagens como no Fórum dos Fóruns.",
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }, {
             "t": "115587",
@@ -5027,7 +5027,7 @@
             "cat": 20,
             "title": "Como adicionar links âncora no fórum",
             "desc": "O mundo da programação está em constante mudança e precisamos nos adaptar a ele. Pensando nisso, esse tutorial lhe ensina a adicionar links âncora que direcionam o usuário para um determinado local de uma página.",
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }, {
             "t": "115586",
@@ -5035,7 +5035,7 @@
             "cat": 20,
             "title": "Excluir todas as mensagens de um membro",
             "desc": "Por vezes, é necessário excluir todas as mensagens de um membro, como por exemplo em situações de flood ou desrespeito em diversas mensagens. Criamos este código para excluir todas as publicações deste usuário com apenas um clique.",
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }, {
             "t": "115594",
@@ -5043,7 +5043,7 @@
             "cat": 19,
             "title": "Alterar cor de uma imagem com Matriz e saturação",
             "desc": "Neste tutorial você ira aprender como alterar a cor de uma imagem pelas ferramentas matriz e saturação pelo Photoshop.",
-            "tagnew": 1,
+            "tagnew": 0,
             "tagupdate": 0
         }
     ],
