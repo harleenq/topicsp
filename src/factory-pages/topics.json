@@ -2,7 +2,7 @@
     "listin": [{
             "t": "118081",
             "list": 1,
-            "cat": 4,
+            "cat": 6,
             "title": "Widget externo Forumeiros",
             "desc": "O widget Forumeiros permite incorporar os tópicos mais recentes do fórum em um site externo, ou numa página HTML. Assim, dando a possibilidade de exibir as últimas discussões do fórum em quaisquer sites: blogs, outros fóruns, etc.",
             "new": 1, 
@@ -11,7 +11,7 @@
         }, {
             "t": "118079",
             "list": 1,
-            "cat": 4,
+            "cat": 6,
             "title": "Imagens compartilhadas nos tópicos",
             "desc": "Com este recurso é fácil navegar pelas imagens publicadas, classificadas das mais recentes às mais antigas. Uma maneira simples de redescobrir as discussões de forma diferente!",
             "new": 1, 
@@ -29,7 +29,7 @@
         }, {
             "t": "118075",
             "list": 1,
-            "cat": 4,
+            "cat": 5,
             "title": "Organize os tópicos com a vista em grelha",
             "desc": "A vista em grelha permite que a sua comunidade possa encontrar os tópicos de interesse de forma rápida e eficaz através de um design moderno e de destaque.",
             "new": 1, 
@@ -48,7 +48,7 @@
             "t": "118067",
             "list": 1,
             "cat": 8,
-            "title": "Ferramentas do Fundador-administrador",
+            "title": "Ferramentas do Administrador-fundador",
             "desc": "As ferramentas do fundador dão acesso remoto a gestão da sua comunidade.",
             "new": 1, 
             "tagnew": 1,
