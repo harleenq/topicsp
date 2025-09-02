@@ -1,1 +1,149 @@
-{"categorys":[{"key":"1","list": 1,"name": "Principais configurações do fórum e segurança","desc": "Conheça as diversas funções para configurar o fórum além de vários outras funções disponíveis no Painel de Controle para aumentar a segurança de seu fórum."},{"key":"2","list": 1,"name": "Gerenciamento das Categorias, Fóruns e Tópicos","desc": "Desfrute das ferramentas de criação e manutenção das categorias, fóruns e subfóruns assim como fóruns do tipo &quot;Blog&quot;."},{"key":"3","list": 1,"name": "Imagens e Cores, CSS e Hitskin.com","desc": "Os diversos assuntos sobre as funções de personalização do fórum, usando Hitskin, temas diversos com uso de templates, cores e exportação de arquivo de temas para o computador."},{"key":"4","list": 1,"name": "Usuários e Grupos","desc": "Gerencie os grupos de usuários, administração dos ranks além das permissões para usuários especiais usando perfil personalizado e realizando as mudanças no perfil de um membro específico."},{"key":"5","list": 1,"name": "Mensagens e e-mails","desc": "Descubra como criar e responder aos tópicos e usar as funções da moderação, e a função de envio de E-mail em massa para todos os membros do fórum."},{"key":"6","list": 1,"name": "Widgets personalizados, JavaScript e RPG","desc": "Conheça as diversas funções adicionais do seu Painel de Controle para aumentar a interação entre os usuários com Widgets no portal e fórum, portal, ChatBox, JavaScript, HTML e muito mais!"},{"key":"7","list": 1,"name": "Publicidade do fórum","desc": "Aprenda a gerir as ferramentas de divulgação do fórum, dos banners e os métodos para se fazer publicidade."},{"key":"8","list": 1,"name": "Questões jurídicas","desc": "Veja quais são as principais questões da parte jurídica que envolvem o seu fórum. Desde os conteúdos ilícitos até o plágio."},{"key":"9","list": 1,"name": "Outros","desc": "Encontre os diversos tipo de assuntos que estão ligados ao seus fóruns, que ainda não sabe."},{"key":"13","list": 2,"name": "Widgets e módulos personalizados","desc": "Veja os tutoriais relacionados com os widgets laterais, o portal e outros módulos personalizáveis."},{"key":"12","list": 2,"name": "Topo do fórum","desc": "Veja os tutoriais relacionados com a área do topo do fórum, assim como o logo, a barra de navegação e a mensagem da homepage."},{"key":"14","list": 2,"name": "Chatbox","desc": "Veja os tutoriais relacionados com o chatbox."},{"key":"15","list": 2,"name": "Categorias e Sub-fóruns","desc": "Veja os tutoriais relacionados com a área das categorias e personalização dos sub-fóruns."},{"key":"16","list": 2,"name": "Tópicos e Mensagens","desc": "Veja os tutoriais relacionados com a área dos tópicos e das mensagens."},{"key":"17","list": 2,"name": "Perfil e avatar","desc": "Veja os tutoriais relacionados com a área do perfil e avatar."},{"key":"18","list": 2,"name": "Rodapé e fundo do fórum","desc": "Veja os tutoriais relacionados com a área do rodapé do fórum, assim como as estatísticas e o &quot;Quem está conetado&quot;."},{"key":"19","list": 2,"name": "Artes Gráficas","desc": "Lista dos tutoriais e dicas envolvendo o assunto de Criações gráficas"},{"key":"20","list": 2,"name": "Diversos","desc": "Veja os tutoriais que não estão nas outras seções e que englobam o fórum em geral."}],"cat_count":18}
+{
+  "categorys": [
+    {
+      "key": "1",
+      "list": 1,
+      "name": "Segurança",
+      "desc": "Conheça as diversas funções para configurar o fórum além de vários outras funções disponíveis no Painel de Controle para aumentar a segurança de seu fórum."
+    },
+    {
+      "key": "2",
+      "list": 1,
+      "name": "Gerenciamento das Categorias, Fóruns e Tópicos",
+      "desc": "Desfrute das ferramentas de criação e manutenção das categorias, fóruns e subfóruns assim como fóruns do tipo &quot;Blog&quot;."
+    },
+    {
+      "key": "3",
+      "list": 1,
+      "name": "Hitskin",
+      "desc": "Os diversos assuntos sobre as funções de personalização do fórum, usando Hitskin, temas diversos com uso de templates, cores e exportação de arquivo de temas para o computador."
+    },
+    {
+      "key": "4",
+      "list": 1,
+      "name": "Membros",
+      "desc": "Gerencie os grupos de usuários, administração dos ranks além das permissões para usuários especiais usando perfil personalizado e realizando as mudanças no perfil de um membro específico."
+    },
+    {
+      "key": "5",
+      "list": 1,
+      "name": "Mensagens e e-mails",
+      "desc": "Descubra como criar e responder aos tópicos e usar as funções da moderação, e a função de envio de E-mail em massa para todos os membros do fórum."
+    },
+    {
+      "key": "6",
+      "list": 1,
+      "name": "Módulos",
+      "desc": "Conheça as diversas funções adicionais do seu Painel de Controle para aumentar a interação entre os usuários com Widgets no portal e fórum, portal, ChatBox, JavaScript, HTML e muito mais!"
+    },
+    {
+      "key": "7",
+      "list": 1,
+      "name": "Publicidade do fórum",
+      "desc": "Aprenda a gerir as ferramentas de divulgação do fórum, dos banners e os métodos para se fazer publicidade."
+    },
+    {
+      "key": "8",
+      "list": 1,
+      "name": "Questões jurídicas",
+      "desc": "Veja quais são as principais questões da parte jurídica que envolvem o seu fórum. Desde os conteúdos ilícitos até o plágio."
+    },
+    {
+      "key": "9",
+      "list": 1,
+      "name": "Outros",
+      "desc": "Encontre os diversos tipo de assuntos que estão ligados ao seus fóruns, que ainda não sabe."
+    },
+    {
+      "key": "13",
+      "list": 2,
+      "name": "Widgets e outros módulos",
+      "desc": "Veja os tutoriais relacionados com os widgets laterais, o portal e outros módulos personalizáveis."
+    },
+    {
+      "key": "12",
+      "list": 2,
+      "name": "Topo do fórum",
+      "desc": "Veja os tutoriais relacionados com a área do topo do fórum, assim como o logo, a barra de navegação e a mensagem da homepage."
+    },
+    {
+      "key": "14",
+      "list": 2,
+      "name": "Chatbox",
+      "desc": "Veja os tutoriais relacionados com o chatbox."
+    },
+    {
+      "key": "15",
+      "list": 2,
+      "name": "Categorias e sub-fóruns",
+      "desc": "Veja os tutoriais relacionados com a área das categorias e personalização dos sub-fóruns."
+    },
+    {
+      "key": "16",
+      "list": 2,
+      "name": "Tópicos e mensagens",
+      "desc": "Veja os tutoriais relacionados com a área dos tópicos e das mensagens."
+    },
+    {
+      "key": "17",
+      "list": 2,
+      "name": "Perfil e avatar",
+      "desc": "Veja os tutoriais relacionados com a área do perfil e avatar."
+    },
+    {
+      "key": "18",
+      "list": 2,
+      "name": "Rodapé e fundo do fórum",
+      "desc": "Veja os tutoriais relacionados com a área do rodapé do fórum, assim como as estatísticas e o &quot;Quem está conetado&quot;."
+    },
+    {
+      "key": "19",
+      "list": 2,
+      "name": "Artes Gráficas",
+      "desc": "Lista dos tutoriais e dicas envolvendo o assunto de Criações gráficas"
+    },
+    {
+      "key": "20",
+      "list": 2,
+      "name": "Diversos",
+      "desc": "Veja os tutoriais que não estão nas outras seções e que englobam o fórum em geral."
+    },
+    {
+      "key": "21",
+      "list": 1,
+      "name": "Começando o fórum",
+      "desc": "Veja os tutoriais que não estão nas outras seções e que englobam o fórum em geral."
+    },
+    {
+      "key": "22",
+      "list": 1,
+      "name": "Administrador",
+      "desc": "Veja os tutoriais que não estão nas outras seções e que englobam o fórum em geral."
+    },
+    {
+      "key": "23",
+      "list": 1,
+      "name": "Créditos",
+      "desc": "Veja os tutoriais que não estão nas outras seções e que englobam o fórum em geral."
+    },
+    {
+      "key": "24",
+      "list": 1,
+      "name": "Grupos e ranks",
+      "desc": "Veja os tutoriais que não estão nas outras seções e que englobam o fórum em geral."
+    },
+    {
+      "key": "25",
+      "list": 1,
+      "name": "Perfil",
+      "desc": "Veja os tutoriais que não estão nas outras seções e que englobam o fórum em geral."
+    },
+    {
+      "key": "26",
+      "list": 1,
+      "name": "Moderadores e administradores",
+      "desc": "Veja os tutoriais que não estão nas outras seções e que englobam o fórum em geral."
+    }
+  ],
+  "cat_count": 18
+}
