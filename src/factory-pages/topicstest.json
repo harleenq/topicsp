@@ -3,12 +3,16 @@
     {
       "t": "25019",
       "list": 1,
+      "cat": 1,
+      "status": 2,
       "title": "Primeiros passos no fórum",
       "desc": "Conselhos agrupados desde a criação do fórum até a sua atividade para ter um fórum ativo!"
     },
     {
       "t": "93907",
       "list": 1,
+      "cat": 1,
+      "status": 1,
       "title": "Aumente a segurança do fórum",
       "desc": "Sabia que é possível ter controle do fórum através do Painel administrativo? E existe riscos a quem dá acesso!"
     },
