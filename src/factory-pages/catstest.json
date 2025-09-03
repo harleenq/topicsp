@@ -4,8 +4,134 @@
       "key": "1",
       "list": 1,
       "group": 1,
+      "name": "Começando o fórum"
+    },
+    {
+      "key": "2",
+      "list": 1,
+      "group": 1,
+      "name": "Administrador"
+    },
+    {
+      "key": "3",
+      "list": 1,
+      "group": 2,
+      "name": "Referência do seu fórum"
+    },
+    {
+      "key": "4",
+      "list": 1,
+      "group": 3,
+      "name": "Segurança"
+    },
+    {
+      "key": "5",
+      "list": 1,
+      "group": 3,
+      "name": "Módulos"
+    },
+    {
+      "key": "5",
+      "list": 1,
+      "group": 3,
+      "name": "Mensagens e e-mails"
+    },
+    {
+      "key": "6",
+      "list": 1,
+      "group": 3,
+      "name": "Créditos"
+    },
+    {
+      "key": "7",
+      "list": 1,
+      "group": 4,
+      "name": "Membros"
+    },
+    {
+      "key": "8",
+      "list": 1,
+      "group": 4,
+      "name": "Grupos e ranks"
+    },
+    {
+      "key": "9",
+      "list": 1,
+      "group": 4,
+      "name": "Perfil"
+    },
+    {
+      "key": "10",
+      "list": 1,
+      "group": 4,
+      "name": "Moderadores e administradores"
+    },
+    {
+      "key": "11",
+      "list": 1,
+      "group": 5,
+      "name": "Tema"
+    },
+    {
+      "key": "12",
+      "list": 1,
+      "group": 5,
+      "name": "Templates"
+    },
+    {
+      "key": "13",
+      "list": 1,
+      "group": 5,
+      "name": "Perfil"
+    },
+    {
+      "key": "14",
+      "list": 1,
+      "group": 5,
+      "name": "Hitskin"
+    },
+    {
+      "key": "15",
+      "list": 2,
+      "group": 6,
       "name": "Topo do fórum"
     },
+    {
+      "key": "16",
+      "list": 2,
+      "group": 6,
+      "name": "Widgets e outros módulos"
+    },
+    {
+      "key": "17",
+      "list": 2,
+      "group": 6,
+      "name": "Categorias e sub-fóruns"
+    },
+    {
+      "key": "18",
+      "list": 2,
+      "group": 6,
+      "name": "Tópicos e mensagens"
+    },
+    {
+      "key": "19",
+      "list": 2,
+      "group": 6,
+      "name": "Diversos"
+    },
+    {
+      "key": "20",
+      "list": 2,
+      "group": 7,
+      "name": "Aperfeiçoe o fórum"
+    },
+    {
+      "key": "21",
+      "list": 2,
+      "group": 8,
+      "name": "Aumente a criatividade e experiência"
+    }
   ],
-  "cat_count": 18
+  "cat_count": 21
 }
