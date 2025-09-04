@@ -6,7 +6,7 @@
       "name": "Pontos importantes, para ler imperativamente",
       "desc": "Tópicos importantes sobre a fundação e a segurança do seu fórum.",
       "subcats": [
-        { "id": 1, "name": "Começando o fórum",  "id": 2, "name": "Administrador"}
+        { "id": 1, "name": "Começando o fórum" } ,  { "id": 2, "name": "Administrador" }
       ]
     },
     {
