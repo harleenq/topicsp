@@ -4,6 +4,7 @@
       "t": "25019",
       "list": 1,
       "cat": 1,
+      "subcat": 1,
       "status": 2,
       "title": "Primeiros passos no fórum",
       "desc": "Conselhos agrupados desde a criação do fórum até a sua atividade para ter um fórum ativo!"
@@ -12,6 +13,7 @@
       "t": "93907",
       "list": 1,
       "cat": 1,
+      "subcat": 1,
       "status": 1,
       "title": "Aumente a segurança do fórum",
       "desc": "Sabia que é possível ter controle do fórum através do Painel administrativo? E existe riscos a quem dá acesso!"
@@ -19,96 +21,119 @@
     {
       "t": "112365",
       "list": 1,
+      "cat": 1,
+      "subcat": 1,
       "title": "Benefícios de um fórum",
       "desc": "Crie um fórum grátis facilmente e desfrutar de muitos recursos e personalizações para ter um fórum único."
     },
     {
       "t": "102551",
       "list": 1,
+      "cat": 1,
+      "subcat": 1,
       "title": "Mensagens de problemas técnicos nos fóruns",
       "desc": "Apresentação das várias mensagens de erro técnicas nos fóruns."
     },
     {
       "t": "93381",
       "list": 1,
+      "cat": 1,
+      "subcat": 1,
       "title": "Recuperação ou Transferência de uma Conta Fundadora",
       "desc": "Perda da palavra-passe, recuperação ou backup do fórum"
     },
     {
       "t": "21652",
       "list": 1,
+      "cat": 1,
+      "subcat": 1,
       "title": "Registo da atividade do Administrador e Moderador",
       "desc": "Apresentação das várias mensagens de erro técnicas nos fóruns."
     },
     {
       "t": "118067",
       "list": 1,
+      "cat": 1,
+      "subcat": 2,
       "title": "Ferramentas do Fundador-administrador",
       "desc": "As ferramentas do fundador dão acesso remoto a gestão da sua comunidade."
     },
     {
       "t": "118091",
       "list": 1,
+      "cat": 1,
+      "subcat": 2,
       "title": "Os administradores",
       "desc": "Administradores são os membros com poder absoluto no fórum como a capacidade de aceder e executar ações dentro do painel administrativo."
     },
     {
       "t": "118093",
       "list": 1,
+      "cat": 1,
+      "subcat": 2,
       "title": "Permissões especiais",
       "desc": "Permissões especiais são restrições de acesso aos quatro principais grupos de membros do fórum. Ao selecionar um grupo a uma opção está a tirar o acesso de visualização."
     },
     {
       "t": "93961",
       "list": 1,
+      "cat": 2,
       "title": "Escolher um nome para o fórum",
       "desc": "Responsável por grande parte da construção da identidade do espaço de discussão e será uma marca do seu trabalho enquanto administrador."
     },
     {
       "t": "20132",
       "list": 1,
+      "cat": 2,
       "title": "Gerir a descrição e título do fórum",
       "desc": "Através da descrição do fórum poderá atribuir a sua comunidade o tema simplificado do fórum para que os visitantes vejam."
     },
     {
       "t": "27132",
       "list": 1,
+      "cat": 2,
       "title": "Convidar amigos",
       "desc": "Convide vários amigos a participar no fórum com poucos cliques."
     },
     {
       "t": "17785",
       "list": 1,
+      "cat": 2,
       "title": "Ganhar mais visitas no fórum",
       "desc": "Publicitar um fórum é o melhor modo para fazê-lo ser reconhecido e com isso atrair mais visitas."
     },
     {
       "t": "30444",
       "list": 1,
+      "cat": 2,
       "title": "O Diretório dos Fóruns",
       "desc": "É uma ferramenta de busca eficiente, que lhe permite encontrar o Fórum dos seus sonhos ou uma informação dentre todos os fóruns de Forumeiros."
     },
     {
       "t": "17786",
       "list": 1,
+      "cat": 2,
       "title": "Divulgação do fórum",
       "desc": "O Banner é uma das imagens mais importantes que um fórum necessita ter. Apartir dela pode-se firmar parcerias."
     },
     {
       "t": "107876",
       "list": 1,
+      "cat": 2,
       "title": "Ative o certificado SSL: Guia para uma passagem bem-sucedida do fórum em HTTPS",
       "desc": "Um guia com as diferentes informações e etapas a seguir para mudar o seu fórum para HTTPS."
     },
     {
       "t": "39787",
       "list": 1,
+      "cat": 2,
       "title": "Melhorar o SEO do fórum",
       "desc": "Etapas para melhorar a busca do fórum nos motores de busca."
     },
     {
       "t": "21033",
       "list": 1,
+      "cat": 2,
       "title": "Adicionar código \"Google Analytics\"",
       "desc": "O Google Analytics é a solução de análise da web de cunho empresarial que fornece a você uma ótima visibilidade do tráfego e da eficiência do marketing do seu website."
     },
@@ -116,71 +141,92 @@
       "t": "96165",
       "list": 1,
       "title": "O meu fórum sofre uma penalidade do Google",
+      "cat": 2,
       "desc": "Uma perda de visitas no seu fórum, ou uma diminuição de posição nas páginas de resultados do Google?"
     },
     {
       "t": "44898",
       "list": 1,
       "title": "Troca de tráfego",
+      "cat": 2,
       "desc": "Aumente o SEO com a interligação dos tópicos semelhantes dos fóruns Forumeiros."
     },
     {
       "t": "21150",
       "list": 1,
       "title": "Compartilhar um tópico",
+      "cat": 2,
       "desc": "Em todos os tópicos do fórum agora aparece um novo link \"Compartilhar\", que abre um menu que lista todas as suas redes sociais favoritas. (54 serviços)"
     },
     {
       "t": "17182",
       "list": 1,
+      "cat": 3,
+      "subcat": 1,
       "title": "Excluir um Fórum",
       "desc": "-"
     },
     {
       "t": "22688",
       "list": 1,
+      "cat": 3,
+      "subcat": 1,
       "title": "Redirecionar um domínio para um fórum",
       "desc": "-"
     },
     {
       "t": "34199",
       "list": 1,
+      "cat": 3,
+      "subcat": 1,
       "title": "Segurança em Forumeiros",
       "desc": "-"
     },
     {
       "t": "115350",
       "list": 1,
+      "cat": 3,
+      "subcat": 1,
       "title": "Suprimindo e restaurando um fórum",
       "desc": "A supressão de um fórum o tornará inacessível permanentemente (Condições implícitas no conteúdo da FAQ)."
     },
     {
       "t": "23026",
       "list": 1,
+      "cat": 3,
+      "subcat": 1,
       "title": "Ativar/desativar supressão de cookies",
       "desc": "Cookies são arquivos que contem informações de páginas da internet, tanto pode ser informações de login ou de sessão."
     },
     {
       "t": "17751",
       "list": 1,
+      "cat": 3,
+      "subcat": 1,
       "title": "Utilizar as Ferramentas de Usuários",
       "desc": "-"
     },
     {
       "t": "45096",
       "list": 1,
+      "cat": 3,
+      "subcat": 1,
       "title": "Vínculos externos, anti-spam",
       "desc": "-"
     },
     {
       "t": "16003",
       "list": 1,
+      "cat": 3,
+      "subcat": 1,
       "title": "Gestão das estatísticas do fórum",
       "desc": "-"
     },
     {
       "t": "9293",
       "list": 1,
+      "cat": 3,
+      "subcat": 1,
       "title": "Censura de palavras",
       "desc": "Aprenda"
     },
