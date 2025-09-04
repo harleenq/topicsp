@@ -5,6 +5,7 @@
       "list": 1,
       "name": "Pontos importantes, para ler imperativamente",
       "desc": "Tópicos importantes sobre a fundação e a segurança do seu fórum.",
+      "rgba": "239, 51, 51",
       "subcats": [
         {
           "id": 1,
@@ -20,6 +21,7 @@
       "key": "2",
       "list": 1,
       "name": "Referência do seu fórum",
+      "rgba": "0, 181, 209",
       "desc": "Dicas para otimizar sua referência no Google e em outros mecanismos de pesquisa."
     },
     {
