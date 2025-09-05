@@ -74,6 +74,14 @@
       "title": "Permissões especiais",
       "desc": "Permissões especiais são restrições de acesso aos quatro principais grupos de membros do fórum. Ao selecionar um grupo a uma opção está a tirar o acesso de visualização."
     },
+        {
+      "t": "86029",
+      "list": 1,
+      "cat": 1,
+      "subcat": 2,
+      "title": "Conheça o Painel administrativo do fórum",
+      "desc": "Através do Painel administrativo, podemos controlar nosso fórum de uma forma geral. Podendo assim, adicionar, editar ou remover cada detalhe, de cada parte do fórum. Podemos melhorar a aparência, adicionar conteúdo, enfim, podemos fazer de tudo, com poucas restrições."
+    },
     {
       "t": "70923",
       "list": 1,
@@ -413,14 +421,6 @@
       "desc": "-"
     },
     {
-      "t": "829",
-      "list": 1,
-      "cat": 3,
-      "subcat": 2,
-      "title": "Gerir as Fichas de personagem e o Módulo RPG",
-      "desc": "-"
-    },
-    {
       "t": "16946",
       "list": 1,
       "cat": 3,
@@ -573,14 +573,6 @@
       "desc": "-"
     },
     {
-      "t": "8470",
-      "list": 1,
-      "cat": 3,
-      "subcat": 3,
-      "title": "Ferramentas de Moderação",
-      "desc": "-"
-    },
-    {
       "t": "95433",
       "list": 1,
       "cat": 3,
@@ -705,7 +697,7 @@
       "list": 1,
       "cat": 3,
       "subcat": 3,
-      "title": "Variáveis",
+      "title": "Variáveis do fórum",
       "desc": "-"
     },
     {
@@ -1012,6 +1004,14 @@
       "subcat": 4,
       "title": "Moderadores: Como moderar",
       "desc": "Uma ferramenta para moderar o fórum eficazmente."
+    },
+        {
+      "t": "110577",
+      "list": 1,
+      "cat": 5,
+      "subcat": 1,
+      "title": "Uma forma fácil e rápida de se escrever um código em CSS",
+      "desc": "Um código crucial no Fórum dos Fóruns é o CSS. Usamos ele aqui basicamente para todas as questões que envolvem um mínimo de JavaScript ou que estão relacionadas à aparência do fórum. Como já devemos saber, é o CSS que cria e estiliza as nossas páginas HTML."
     },
     {
       "t": "15664",
