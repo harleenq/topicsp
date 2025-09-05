@@ -390,270 +390,438 @@
       "title": "Página HTML personalizada",
       "desc": "-"
     },
-      {
-    "t": "114436",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Redigir e enviar uma notificação push personalizada",
-    "desc": "-"
-  },
-  {
-    "t": "8479",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Adicionar ícones de mensagens",
-    "desc": "-"
-  },
-  {
-    "t": "17151",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Ativar a caixa de \"Resposta rápida\"",
-    "desc": "-"
-  },
-  {
-    "t": "13791",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Anúncios rotativos",
-    "desc": "-"
-  },
-  {
-    "t": "22335",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Colorir o título dos tópicos",
-    "desc": "-"
-  },
-  {
-    "t": "384",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Caixa de edição de mensagens",
-    "desc": "-"
-  },
-  {
-    "t": "14076",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Criar e gerir as Mensagens Privadas",
-    "desc": "-"
-  },
-  {
-    "t": "16404",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Criar mensagem (MP) de boas-vindas",
-    "desc": "-"
-  },
-  {
-    "t": "16446",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Configurar a ferramenta \"Fale conosco\"",
-    "desc": "-"
-  },
-  {
-    "t": "12427",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Como criar e gerir os Smileys",
-    "desc": "-"
-  },
-  {
-    "t": "17210",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Criar e gerir a mensagem na Home Page",
-    "desc": "-"
-  },
-  {
-    "t": "16777",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Criar uma caixa de entrada para seus e-mails",
-    "desc": "-"
-  },
-  {
-    "t": "9649",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Fixar / anunciar um tópico e personalizar post-it e anúncio",
-    "desc": "-"
-  },
-  {
-    "t": "8470",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Ferramentas de Moderação",
-    "desc": "-"
-  },
-  {
-    "t": "95433",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Gerenciamento do BBcode H2, H3 e H4",
-    "desc": "-"
-  },
-  {
-    "t": "27247",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Gerir a função de anexar arquivos (anexos)",
-    "desc": "-"
-  },
-  {
-    "t": "21090",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Inserir descrição em tópicos",
-    "desc": "-"
-  },
-  {
-    "t": "26579",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Limitar o número de citações numa mensagem",
-    "desc": "-"
-  },
-  {
-    "t": "13842",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Multi citação",
-    "desc": "-"
-  },
-  {
-    "t": "21858",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Permitir / Proibir a mudança do título dos tópicos",
-    "desc": "-"
-  },
-  {
-    "t": "7165",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Redigir e enviar uma newsletter ou e-mail em massa",
-    "desc": "-"
-  },
-  {
-    "t": "99009",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Redigir e enviar uma Mensagem Privada (MP) em massa",
-    "desc": "-"
-  },
-  {
-    "t": "9444",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Relatório de alerta",
-    "desc": "-"
-  },
-  {
-    "t": "26431",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Redimensionamento de imagens",
-    "desc": "-"
-  },
-  {
-    "t": "13925",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Sistema anti-flood",
-    "desc": "-"
-  },
-  {
-    "t": "22211",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Tempo limite para editar uma mensagem",
-    "desc": "-"
-  },
-  {
-    "t": "27207",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Tópicos especiais: Anúncio global",
-    "desc": "-"
-  },
-  {
-    "t": "27813",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Utilização de spoilers",
-    "desc": "-"
-  },
-  {
-    "t": "30498",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Visualizar o botão resolvido",
-    "desc": "-"
-  },
-  {
-    "t": "9204",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Variáveis",
-    "desc": "-"
-  },
-  {
-    "t": "16564",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Configurações do e-mail do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "93909",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Gerenciar categorias para suas imagens Servimg",
-    "desc": "-"
-  },
-  {
-    "t": "20351",
-    "list": 1,
-    "cat": 3,
-    "subcat": 3,
-    "title": "Utilizar o Servimg",
-    "desc": "-"
-  }
+    {
+      "t": "114436",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Redigir e enviar uma notificação push personalizada",
+      "desc": "-"
+    },
+    {
+      "t": "8479",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Adicionar ícones de mensagens",
+      "desc": "-"
+    },
+    {
+      "t": "17151",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Ativar a caixa de \"Resposta rápida\"",
+      "desc": "-"
+    },
+    {
+      "t": "13791",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Anúncios rotativos",
+      "desc": "-"
+    },
+    {
+      "t": "22335",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Colorir o título dos tópicos",
+      "desc": "-"
+    },
+    {
+      "t": "384",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Caixa de edição de mensagens",
+      "desc": "-"
+    },
+    {
+      "t": "14076",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Criar e gerir as Mensagens Privadas",
+      "desc": "-"
+    },
+    {
+      "t": "16404",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Criar mensagem (MP) de boas-vindas",
+      "desc": "-"
+    },
+    {
+      "t": "16446",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Configurar a ferramenta \"Fale conosco\"",
+      "desc": "-"
+    },
+    {
+      "t": "12427",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Como criar e gerir os Smileys",
+      "desc": "-"
+    },
+    {
+      "t": "17210",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Criar e gerir a mensagem na Home Page",
+      "desc": "-"
+    },
+    {
+      "t": "16777",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Criar uma caixa de entrada para seus e-mails",
+      "desc": "-"
+    },
+    {
+      "t": "9649",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Fixar / anunciar um tópico e personalizar post-it e anúncio",
+      "desc": "-"
+    },
+    {
+      "t": "8470",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Ferramentas de Moderação",
+      "desc": "-"
+    },
+    {
+      "t": "95433",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Gerenciamento do BBcode H2, H3 e H4",
+      "desc": "-"
+    },
+    {
+      "t": "27247",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Gerir a função de anexar arquivos (anexos)",
+      "desc": "-"
+    },
+    {
+      "t": "21090",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Inserir descrição em tópicos",
+      "desc": "-"
+    },
+    {
+      "t": "26579",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Limitar o número de citações numa mensagem",
+      "desc": "-"
+    },
+    {
+      "t": "13842",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Multi citação",
+      "desc": "-"
+    },
+    {
+      "t": "21858",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Permitir / Proibir a mudança do título dos tópicos",
+      "desc": "-"
+    },
+    {
+      "t": "7165",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Redigir e enviar uma newsletter ou e-mail em massa",
+      "desc": "-"
+    },
+    {
+      "t": "99009",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Redigir e enviar uma Mensagem Privada (MP) em massa",
+      "desc": "-"
+    },
+    {
+      "t": "9444",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Relatório de alerta",
+      "desc": "-"
+    },
+    {
+      "t": "26431",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Redimensionamento de imagens",
+      "desc": "-"
+    },
+    {
+      "t": "13925",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Sistema anti-flood",
+      "desc": "-"
+    },
+    {
+      "t": "22211",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Tempo limite para editar uma mensagem",
+      "desc": "-"
+    },
+    {
+      "t": "27207",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Tópicos especiais: Anúncio global",
+      "desc": "-"
+    },
+    {
+      "t": "27813",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Utilização de spoilers",
+      "desc": "-"
+    },
+    {
+      "t": "30498",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Visualizar o botão resolvido",
+      "desc": "-"
+    },
+    {
+      "t": "9204",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Variáveis",
+      "desc": "-"
+    },
+    {
+      "t": "16564",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Configurações do e-mail do fórum",
+      "desc": "-"
+    },
+    {
+      "t": "93909",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Gerenciar categorias para suas imagens Servimg",
+      "desc": "-"
+    },
+    {
+      "t": "20351",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "title": "Utilizar o Servimg",
+      "desc": "-"
+    },
+    {
+      "t": "16253",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Gestão dos usuários",
+      "desc": "Pode gerenciar os seus membros ativos ou não, advertindo-os por e-mail sobre a sua inatividade podendo excluindo-os ou desativar."
+    },
+    {
+      "t": "17340",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Ativar novos membros",
+      "desc": "Quando um membro novo registra-se no Fórum, a conta pode ser ativada por e-mail, pelo administrador do fórum ou ativada automaticamente, dando a escolha ao administrador."
+    },
+    {
+      "t": "14811",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Permitir assinaturas e suas permissões",
+      "desc": "Uma assinatura é uma mensagem personalizada que é exibida abaixo de cada mensagem do publicador. Como configurá-lo?"
+    },
+    {
+      "t": "25756",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Cancelamento da inscrição",
+      "desc": "Às vezes, por diversos motivo, os membros do fórum preferem apagar a sua conta no fórum."
+    },
+    {
+      "t": "93962",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Gestão de banimentos",
+      "desc": "Aprenda como gerenciar o banimento do membro do fórum."
+    },
+    {
+      "t": "9293",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Censura de nomes de usuário",
+      "desc": "Aprenda a bloquear nomes de usuário ao registrar do fórum."
+    },
+    {
+      "t": "15419",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Escolha e configuração de avatares",
+      "desc": "Quando regista-se em um fórum, tem a opção de adicionar um avatar no seu perfil."
+    },
+    {
+      "t": "22010",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Gestão de aniversários",
+      "desc": "O gerenciamento de aniversários oferece opções para comemorar os aniversários dos membros do fórum."
+    },
+    {
+      "t": "26525",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Tempo limite para o membro ser considerado como \"Offline\"",
+      "desc": "Esta opção permite definir o tempo em minutos em que um membro é considerado \"offline\" se não tiver em atividade."
+    },
+    {
+      "t": "12839",
+      "list": 1,
+      "cat": 4,
+      "subcat": 2,
+      "title": "Os grupos",
+      "desc": "Este tutorial explica como criar um grupo, personalizá-lo e como ele funciona, para que você possa gerenciar os seus grupos facilmente."
+    },
+    {
+      "t": "9077",
+      "list": 1,
+      "cat": 4,
+      "subcat": 2,
+      "title": "Classificação (ranks)",
+      "desc": "Como criar uma classificação? O que é uma classificação especial? Como atribuir uma classificação? Como personalizar uma classificação? Todas essas questões são respondidas neste tópico."
+    },
+    {
+      "t": "18896",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Posição do perfil nas mensagens (exceto em PhpBB2)",
+      "desc": "Permite que você coloque seus perfis à direita ou à esquerda nos tópicos."
+    },
+    {
+      "t": "14012",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Sistema de pontos",
+      "desc": "O sistema de pontos permite atribuir pontos aos membros de acordo com o número de mensagens, data de inscrição, etc."
+    },
+    {
+      "t": "118068",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Sistema de conquistas",
+      "desc": "As conquistas são como troféus. Recompensas desbloqueadas ao alcançar um determinado valor em uma determinada área."
+    },
+    {
+      "t": "17049",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Gestão de campos de perfil",
+      "desc": "Este tutorial explica como alterar os campos de perfil, adaptados com o perfil avançado."
+    },
+    {
+      "t": "829",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Gestão da Ficha de personagem e o Módulo RPG",
+      "desc": "Este tutorial detalha o procedimento para ativar e configurar uma folha de personagem."
+    },
+    {
+      "t": "25528",
+      "list": 1,
+      "cat": 4,
+      "subcat": 4,
+      "title": "Permitir que moderadores vejam membros invisíveis",
+      "desc": "Por vezes, é proveitoso que os \"moderadores\" possam visualizar os membros invisíveis do fórum, agora verá como pode permitir a utilização desta ferramenta."
+    },
+    {
+      "t": "27025",
+      "list": 1,
+      "cat": 4,
+      "subcat": 4,
+      "title": "Permissão para ver o IP do membro numa mensagem",
+      "desc": "Escolha o nível de permissão de quem pode ver o IP de quem publicou."
+    },
+    {
+      "t": "20078",
+      "list": 1,
+      "cat": 4,
+      "subcat": 4,
+      "title": "Permitir que moderadores possam banir um membro",
+      "desc": "Escolha se quer ou não que os moderadores do fórum possam banir membros."
+    },
+    {
+      "t": "20324",
+      "list": 1,
+      "cat": 4,
+      "subcat": 4,
+      "title": "Desativar o envio de uma nova senha para administradores e moderadores",
+      "desc": "Esta opção desativa o uso do 'Esqueci-me da senha' para administradores e moderadores."
+    },
+    {
+      "t": "8470",
+      "list": 1,
+      "cat": 4,
+      "subcat": 4,
+      "title": "Moderadores: Como moderar",
+      "desc": "Uma ferramenta para moderar o fórum eficazmente."
+    }
   ],
   "topic_count": 624
 }
