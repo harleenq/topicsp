@@ -158,240 +158,238 @@
       "cat": 2,
       "desc": "Em todos os tópicos do fórum agora aparece um novo link \"Compartilhar\", que abre um menu que lista todas as suas redes sociais favoritas. (54 serviços)"
     },
- {
-    "t": "17182",
-    "list": 1,
-    "cat": 3,
-    "subcat": 1,
-    "title": "Excluir um Fórum",
-    "desc": "-"
-  },
-  {
-    "t": "22688",
-    "list": 1,
-    "cat": 3,
-    "subcat": 1,
-    "title": "Redirecionar um domínio para um fórum",
-    "desc": "-"
-  },
-  {
-    "t": "34199",
-    "list": 1,
-    "cat": 3,
-    "subcat": 1,
-    "title": "Segurança em Forumeiros",
-    "desc": "-"
-  },
-  {
-    "t": "115350",
-    "list": 1,
-    "cat": 3,
-    "subcat": 1,
-    "title": "Suprimindo e restaurando um fórum",
-    "desc": "A supressão de um fórum o tornará inacessível permanentemente (Condições implícitas no conteúdo da FAQ)."
-  },
-  {
-    "t": "23026",
-    "list": 1,
-    "cat": 3,
-    "subcat": 1,
-    "title": "Ativar/desativar supressão de cookies",
-    "desc": "Cookies são arquivos que contem informações de páginas da internet, tanto pode ser informações de login ou de sessão."
-  },
-  {
-    "t": "17751",
-    "list": 1,
-    "cat": 3,
-    "subcat": 1,
-    "title": "Utilizar as Ferramentas de Usuários",
-    "desc": "-"
-  },
-  {
-    "t": "45096",
-    "list": 1,
-    "cat": 3,
-    "subcat": 1,
-    "title": "Vínculos externos, anti-spam",
-    "desc": "-"
-  },
-  {
-    "t": "16003",
-    "list": 1,
-    "cat": 3,
-    "subcat": 1,
-    "title": "Gestão das estatísticas do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "9293",
-    "list": 1,
-    "cat": 3,
-    "subcat": 1,
-    "title": "Censura de palavras",
-    "desc": "Aprenda"
-  },
-      {
-    "t": "108992",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Ativar e gerenciar as \"Publicações\" no fórum",
-    "desc": "-"
-  },
-  {
-    "t": "90299",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Ativar botão \"Curtir\" em tópicos",
-    "desc": "-"
-  },
-  {
-    "t": "1297",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Administração e instalação do portal / widgets",
-    "desc": "-"
-  },
-  {
-    "t": "9192",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Ativação do Chatbox do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "30566",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Ativar conexão com Facebook Connect",
-    "desc": "-"
-  },
-  {
-    "t": "114324",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Configurar o progressive web app (PWA) no fórum",
-    "desc": "-"
-  },
-  {
-    "t": "1315",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Calendário",
-    "desc": "-"
-  },
-  {
-    "t": "109343",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Criação e gerenciamento dos Eventos do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "7164",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Criar votação/enquete e adicionar ao Portal",
-    "desc": "-"
-  },
-  {
-    "t": "15885",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Gerenciar os Widgets do Fórum",
-    "desc": "-"
-  },
-  {
-    "t": "22448",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Gestão do widget \"Palavras-chave\"",
-    "desc": "-"
-  },
-  {
-    "t": "22904",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Gestão do widget \"Novidades\"",
-    "desc": "-"
-  },
-  {
-    "t": "2010",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Gerir a galeria do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "829",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Gerir as Fichas de personagem e o Módulo RPG",
-    "desc": "-"
-  },
-  {
-    "t": "16946",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Gerir a função \"Lançar dados\"",
-    "desc": "-"
-  },
-  {
-    "t": "13951",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Gestão do sistema de reputação / Botão obrigado",
-    "desc": "-"
-  },
-  {
-    "t": "14012",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Gerir o Sistema de pontos",
-    "desc": "-"
-  },
-  {
-    "t": "42976",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Gestão das páginas .JS (javascript)",
-    "desc": "-"
-  },
-  {
-    "t": "100134",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Interagir fórum com Redes Sociais",
-    "desc": "-"
-  },
-  {
-    "t": "7967",
-    "list": 1,
-    "cat": 3,
-    "subcat": 2,
-    "title": "Página HTML personalizada",
-    "desc": "-"
-  },
-    
- 
+    {
+      "t": "17182",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Excluir um Fórum",
+      "desc": "-"
+    },
+    {
+      "t": "22688",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Redirecionar um domínio para um fórum",
+      "desc": "-"
+    },
+    {
+      "t": "34199",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Segurança em Forumeiros",
+      "desc": "-"
+    },
+    {
+      "t": "115350",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Suprimindo e restaurando um fórum",
+      "desc": "A supressão de um fórum o tornará inacessível permanentemente (Condições implícitas no conteúdo da FAQ)."
+    },
+    {
+      "t": "23026",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Ativar/desativar supressão de cookies",
+      "desc": "Cookies são arquivos que contem informações de páginas da internet, tanto pode ser informações de login ou de sessão."
+    },
+    {
+      "t": "17751",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Utilizar as Ferramentas de Usuários",
+      "desc": "-"
+    },
+    {
+      "t": "45096",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Vínculos externos, anti-spam",
+      "desc": "-"
+    },
+    {
+      "t": "16003",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Gestão das estatísticas do fórum",
+      "desc": "-"
+    },
+    {
+      "t": "9293",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Censura de palavras",
+      "desc": "Aprenda"
+    },
+    {
+      "t": "108992",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Ativar e gerenciar as \"Publicações\" no fórum",
+      "desc": "-"
+    },
+    {
+      "t": "90299",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Ativar botão \"Curtir\" em tópicos",
+      "desc": "-"
+    },
+    {
+      "t": "1297",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Administração e instalação do portal / widgets",
+      "desc": "-"
+    },
+    {
+      "t": "9192",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Ativação do Chatbox do fórum",
+      "desc": "-"
+    },
+    {
+      "t": "30566",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Ativar conexão com Facebook Connect",
+      "desc": "-"
+    },
+    {
+      "t": "114324",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Configurar o progressive web app (PWA) no fórum",
+      "desc": "-"
+    },
+    {
+      "t": "1315",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Calendário",
+      "desc": "-"
+    },
+    {
+      "t": "109343",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Criação e gerenciamento dos Eventos do fórum",
+      "desc": "-"
+    },
+    {
+      "t": "7164",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Criar votação/enquete e adicionar ao Portal",
+      "desc": "-"
+    },
+    {
+      "t": "15885",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gerenciar os Widgets do Fórum",
+      "desc": "-"
+    },
+    {
+      "t": "22448",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gestão do widget \"Palavras-chave\"",
+      "desc": "-"
+    },
+    {
+      "t": "22904",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gestão do widget \"Novidades\"",
+      "desc": "-"
+    },
+    {
+      "t": "2010",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gerir a galeria do fórum",
+      "desc": "-"
+    },
+    {
+      "t": "829",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gerir as Fichas de personagem e o Módulo RPG",
+      "desc": "-"
+    },
+    {
+      "t": "16946",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gerir a função \"Lançar dados\"",
+      "desc": "-"
+    },
+    {
+      "t": "13951",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gestão do sistema de reputação / Botão obrigado",
+      "desc": "-"
+    },
+    {
+      "t": "14012",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gerir o Sistema de pontos",
+      "desc": "-"
+    },
+    {
+      "t": "42976",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gestão das páginas .JS (javascript)",
+      "desc": "-"
+    },
+    {
+      "t": "100134",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Interagir fórum com Redes Sociais",
+      "desc": "-"
+    },
+    {
+      "t": "7967",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Página HTML personalizada",
+      "desc": "-"
+    }
   ],
   "topic_count": 624
 }
