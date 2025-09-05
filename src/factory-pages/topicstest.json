@@ -1353,6 +1353,19 @@
       ]
     },
     {
+      "t": "15944",
+      "list": 2,
+      "cat": 6,
+      "subcat": 3,
+      "title": "Organizando categoria como \"Forumeiros e você\"",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
       "t": "108131",
       "list": 2,
       "cat": 6,
@@ -1549,6 +1562,12 @@
     },
     {
       "t": "114170",
+      "list": 2,
+      "cat": 7,
+      "title": "Destacar mensagens de moderador no chatbox"
+    },
+    {
+      "t": "113313",
       "list": 2,
       "cat": 7,
       "title": "Limitar o número de imagens na assinatura"
