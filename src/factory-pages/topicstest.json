@@ -1474,6 +1474,559 @@
         3,
         4
       ]
+    },
+    {
+      "t": "114170",
+      "list": 2,
+      "cat": 7,
+      "title": "Limitar o número de imagens na assinatura"
+    },
+    {
+      "t": "113739",
+      "list": 2,
+      "cat": 7,
+      "title": "Sugestões de membros ao mencionar"
+    },
+    {
+      "t": "113681",
+      "list": 2,
+      "cat": 7,
+      "title": "Sistema de medalhas com descrição ao passar o mouse"
+    },
+    {
+      "t": "113439",
+      "list": 2,
+      "cat": 7,
+      "title": "Como criar mensagens moderativas"
+    },
+    {
+      "t": "113331",
+      "list": 2,
+      "cat": 7,
+      "title": "Permitir que apenas administradores apagem tópicos"
+    },
+    {
+      "t": "113083",
+      "list": 2,
+      "cat": 7,
+      "title": "Alterar o ícone do tópico em modo AJAX"
+    },
+    {
+      "t": "112877",
+      "list": 2,
+      "cat": 7,
+      "title": "FancyBox nas imagens"
+    },
+    {
+      "t": "112824",
+      "list": 2,
+      "cat": 7,
+      "title": "Criar campos na criação do tópico"
+    },
+    {
+      "t": "112338",
+      "list": 2,
+      "cat": 7,
+      "title": "SCEditor habilitado no clique"
+    },
+    {
+      "t": "112054",
+      "list": 2,
+      "cat": 7,
+      "title": "Avatar no membro mencionado"
+    },
+    {
+      "t": "112033",
+      "list": 2,
+      "cat": 7,
+      "title": "Criar um botão da FontAwesome no SCEditor"
+    },
+    {
+      "t": "111841",
+      "list": 2,
+      "cat": 7,
+      "title": "Trancar o tópico na criação"
+    },
+    {
+      "t": "111840",
+      "list": 2,
+      "cat": 7,
+      "title": "Botão copiar código"
+    },
+    {
+      "t": "111839",
+      "list": 2,
+      "cat": 7,
+      "title": "Personalizar a paleta de cores do SCEditor"
+    },
+    {
+      "t": "110573",
+      "list": 2,
+      "cat": 7,
+      "title": "Tags nos tópicos"
+    },
+    {
+      "t": "110572",
+      "list": 2,
+      "cat": 7,
+      "title": "Sistema de prefixo nos tópicos"
+    },
+    {
+      "t": "108520",
+      "list": 2,
+      "cat": 7,
+      "title": "Limitar a altura de citações"
+    },
+    {
+      "t": "108132",
+      "list": 2,
+      "cat": 7,
+      "title": "Remover \"Última edição por...\" nos tópicos"
+    },
+    {
+      "t": "108128",
+      "list": 2,
+      "cat": 7,
+      "title": "Organizar os tópicospor separadores"
+    },
+    {
+      "t": "107420",
+      "list": 2,
+      "cat": 7,
+      "title": "Publicar na resposta rápida em ajax com avisos"
+    },
+    {
+      "t": "107135",
+      "list": 2,
+      "cat": 7,
+      "title": "Emoticons pessoaispor membro"
+    },
+    {
+      "t": "105897",
+      "list": 2,
+      "cat": 7,
+      "title": "Adicionar novas fontes no SCEditor"
+    },
+    {
+      "t": "105530",
+      "list": 2,
+      "cat": 7,
+      "title": "Bloquear tópico sem refresh"
+    },
+    {
+      "t": "98754",
+      "list": 2,
+      "cat": 7,
+      "title": "Esconder a primeira mensagem dos convidados"
+    },
+    {
+      "t": "98380",
+      "list": 2,
+      "cat": 7,
+      "title": "Salvamento de mensagens em progresso"
+    },
+    {
+      "t": "97785",
+      "list": 2,
+      "cat": 7,
+      "title": "Pesquisa com resultados automáticos"
+    },
+    {
+      "t": "96843",
+      "list": 2,
+      "cat": 7,
+      "title": "Aplicando foto de capa em tópicos"
+    },
+    {
+      "t": "80640",
+      "list": 2,
+      "cat": 7,
+      "title": "Ficha de personagem em lightbox"
+    },
+    {
+      "t": "86579",
+      "list": 2,
+      "cat": 7,
+      "title": "Auto embed em vídeos do youtube"
+    },
+    {
+      "t": "86559",
+      "list": 2,
+      "cat": 7,
+      "title": "Avatar na resposta rápida"
+    },
+    {
+      "t": "86580",
+      "list": 2,
+      "cat": 7,
+      "title": "Parar o redirecionamento ao votar em um tópico"
+    },
+    {
+      "t": "90655",
+      "list": 2,
+      "cat": 7,
+      "title": "Substituir conteúdo da mensagem pelos links de registo e login para visitantes"
+    },
+    {
+      "t": "90653",
+      "list": 2,
+      "cat": 7,
+      "title": "Visualizar tópico em modo hover"
+    },
+    {
+      "t": "92125",
+      "list": 2,
+      "cat": 7,
+      "title": "Confirmar antes de responder a um tópico"
+    },
+    {
+      "t": "92121",
+      "list": 2,
+      "cat": 7,
+      "title": "Context menu para ações nos tópicos"
+    },
+    {
+      "t": "91430",
+      "list": 2,
+      "cat": 7,
+      "title": "Citação mais eficaz e rápida"
+    },
+    {
+      "t": "61137",
+      "list": 2,
+      "cat": 7,
+      "title": "Usar JavaScript de sites externos"
+    },
+    {
+      "t": "115589",
+      "list": 2,
+      "cat": 7,
+      "title": "Som ao receber notificações"
+    },
+    {
+      "t": "115586",
+      "list": 2,
+      "cat": 7,
+      "title": "Apagar todas as mensagens de um membro"
+    },
+    {
+      "t": "114517",
+      "list": 2,
+      "cat": 7,
+      "title": "Página para alternar contas"
+    },
+    {
+      "t": "101589",
+      "list": 2,
+      "cat": 7,
+      "title": "Função Ajax ao banir um membro"
+    },
+    {
+      "t": "108902",
+      "list": 2,
+      "cat": 7,
+      "title": "Modificar os botões do SCEditor para ícones da FontAwesome"
+    },
+    {
+      "t": "110560",
+      "list": 2,
+      "cat": 7,
+      "title": "Lista de membros com AJAX ao final da página"
+    },
+    {
+      "t": "108519",
+      "list": 2,
+      "cat": 7,
+      "title": "Procurar membros em ordem alfabética"
+    },
+    {
+      "t": "108900",
+      "list": 2,
+      "cat": 7,
+      "title": "Entrar utilizando o e-mail"
+    },
+    {
+      "t": "108904",
+      "list": 2,
+      "cat": 7,
+      "title": "Botão SCEditor: Spotify"
+    },
+    {
+      "t": "108903",
+      "list": 2,
+      "cat": 7,
+      "title": "Botão SCEditor: melhoria tag code"
+    },
+    {
+      "t": "93903",
+      "list": 2,
+      "cat": 7,
+      "title": "Botão SCEditor: Fullscreen"
+    },
+    {
+      "t": "112338",
+      "list": 2,
+      "cat": 7,
+      "title": "SCEditor habilitado no clique"
+    },
+    {
+      "t": "101070",
+      "list": 2,
+      "cat": 8,
+      "title": "Photoshop: Dicas e conceitos",
+      "level": 2
+    },
+    {
+      "t": "103134",
+      "list": 2,
+      "cat": 8,
+      "title": "Photoshop: Vista geral das opções básicas",
+      "level": 2
+    },
+    {
+      "t": "98377",
+      "list": 2,
+      "cat": 8,
+      "title": "Photoshop: Ferramentas básicas",
+      "level": 2
+    },
+    {
+      "t": "107893",
+      "list": 2,
+      "cat": 8,
+      "title": "Photoshop: Adicionar fonte a ferramenta texto",
+      "level": 2
+    },
+    {
+      "t": "106369",
+      "list": 2,
+      "cat": 8,
+      "title": "Photoshop: Traduzir para português",
+      "level": 2
+    },
+    {
+      "t": "106395",
+      "list": 2,
+      "cat": 8,
+      "title": "Photoshop: Aplicar o ZOOM no botão de rolagem do mouse",
+      "level": 2
+    },
+    {
+      "t": "115594",
+      "list": 2,
+      "cat": 8,
+      "title": "Alterar cor de uma imagem com Matriz e saturação",
+      "level": 2
+    },
+    {
+      "t": "102611",
+      "list": 2,
+      "cat": 8,
+      "title": "Conceitos básicos sobre Smudge",
+      "level": 2
+    },
+    {
+      "t": "109700",
+      "list": 2,
+      "cat": 8,
+      "title": "Dupla Exposição",
+      "level": 2
+    },
+    {
+      "t": "109698",
+      "list": 2,
+      "cat": 8,
+      "title": "Efeito Distorção RGB",
+      "level": 2
+    },
+    {
+      "t": "103139",
+      "list": 2,
+      "cat": 8,
+      "title": "Textura de madeira",
+      "level": 2
+    },
+    {
+      "t": "103356",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia texto: animação GIF",
+      "level": 2
+    },
+    {
+      "t": "104238",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia texto: Preencher com uma imagem",
+      "level": 2
+    },
+    {
+      "t": "106011",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia texto: efeito sangue",
+      "level": 2
+    },
+    {
+      "t": "105025",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia texto: efeito ouro",
+      "level": 2
+    },
+    {
+      "t": "101567",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia texto: estilo \"God of War\"",
+      "level": 2
+    },
+    {
+      "t": "109697",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia texto: em 3D",
+      "level": 2
+    },
+    {
+      "t": "105318",
+      "list": 2,
+      "cat": 8,
+      "title": "Renderizar uma imagem",
+      "level": 2
+    },
+    {
+      "t": "106018",
+      "list": 2,
+      "cat": 8,
+      "title": "Criar um rank personalizado: Introdução",
+      "level": 2
+    },
+    {
+      "t": "102608",
+      "list": 2,
+      "cat": 8,
+      "title": "Criar um rank personalizado: Médio",
+      "level": 2
+    },
+    {
+      "t": "103348",
+      "list": 2,
+      "cat": 8,
+      "title": "Criar um rank personalizado: Avançado",
+      "level": 2
+    },
+    {
+      "t": "103357",
+      "list": 2,
+      "cat": 8,
+      "title": "Criar uma assinatura: Introdução",
+      "level": 2
+    },
+    {
+      "t": "106266",
+      "list": 2,
+      "cat": 8,
+      "title": "Criar uma assinatura: Médio",
+      "level": 2
+    },
+    {
+      "t": "100400",
+      "list": 2,
+      "cat": 8,
+      "title": "Criar uma assinatura: Avançado",
+      "level": 2
+    },
+    {
+      "t": "106240",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia assinatura: Staff",
+      "level": 2
+    },
+    {
+      "t": "101964",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia assinatura: Harry Potter",
+      "level": 2
+    },
+    {
+      "t": "106381",
+      "list": 2,
+      "cat": 8,
+      "title": "Pixlr: Criar um Favicon",
+      "level": 2
+    },
+    {
+      "t": "102605",
+      "list": 2,
+      "cat": 8,
+      "title": "Ícones com efeito Flat Design",
+      "level": 2
+    },
+    {
+      "t": "98733",
+      "list": 2,
+      "cat": 8,
+      "title": "Avatar: Simples sofisticado",
+      "level": 2
+    },
+    {
+      "t": "106271",
+      "list": 2,
+      "cat": 8,
+      "title": "Avatar: com borda",
+      "level": 2
+    },
+    {
+      "t": "102607",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia logotipo: Simples",
+      "level": 2
+    },
+    {
+      "t": "104254",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia logotipo: Assassin's Creed",
+      "level": 2
+    },
+    {
+      "t": "105320",
+      "list": 2,
+      "cat": 8,
+      "title": "Ideia logotipo: Ninja",
+      "level": 2
+    },
+    {
+      "t": "106012",
+      "list": 2,
+      "cat": 8,
+      "title": "Efeito Sharingan",
+      "level": 2
+    },
+    {
+      "t": "101036",
+      "list": 2,
+      "cat": 8,
+      "title": "Banner animado",
+      "level": 2
+    },
+    {
+      "t": "101578",
+      "list": 2,
+      "cat": 8,
+      "title": "Texto com animação reflexo",
+      "level": 2
+    },
+    {
+      "t": "106373",
+      "list": 2,
+      "cat": 8,
+      "title": "Capa do Grupo no WhatsApp",
+      "level": 2
     }
   ],
   "topic_count": 624
