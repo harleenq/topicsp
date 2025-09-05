@@ -250,16 +250,16 @@
       "list": 1,
       "cat": 3,
       "subcat": 1,
-      "title": "Ativar/desativar supressão de cookies",
+      "title": "Ativar ou desativar supressão de cookies",
       "desc": "Cookies são arquivos que contem informações de páginas da internet, tanto pode ser informações de login ou de sessão."
     },
-    {
-      "t": "17751",
+        {
+      "t": "20324",
       "list": 1,
       "cat": 3,
       "subcat": 1,
-      "title": "Utilizar as Ferramentas de Usuários",
-      "desc": "-"
+      "title": "Envio de nova senha para moderadores e administradores",
+      "desc": "Por motivos de segurança e para evitar invasões em nossos fóruns, pode ser impedido o uso da ferramenta \"Esqueci minha senha\" para os administradores e moderadores de um fórum. Esta senha pode ser recuperada por um administrador, no caso de um moderador e, em casos mais graves o administrador pode solicitar o envio de uma nova senha para si mesmo através deste fórum de suporte."
     },
     {
       "t": "45096",
