@@ -44,6 +44,10 @@
           "name": "Módulos"
         },
         {
+          "id": 5,
+          "name": "Categorias e sub-fóruns"
+        },
+        {
           "id": 3,
           "name": "Mensagens e e-mails"
         },
