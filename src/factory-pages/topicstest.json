@@ -727,6 +727,22 @@
       "desc": "A vista em grelha permite que a sua comunidade possa encontrar os tópicos de interesse de forma rápida e eficaz através de um design moderno e de destaque."
     },
     {
+      "t": "20094",
+      "list": 1,
+      "cat": 3,
+      "subcat": 5,
+      "title": "Gerir a função \"Blog\"",
+      "desc":  "A possibilidade de criamos um blog, altera completamente o estilo de apresentação dos assuntos, transformando a primeira mensagem do tópico no estilo artigo e as seguintes em comentários, assim como na lista de tópicos estará presente uma introdução ao tópico."
+    },
+        {
+      "t": "11750",
+      "list": 1,
+      "cat": 3,
+      "subcat": 5,
+      "title": "Visualizar e gerir as categorias, fóruns e sub-fóruns",
+      "desc":  "As categorias/fóruns/subfóruns representam o coração do seu fórum, pois com eles poderá organizar os assuntos discutidos no seu Fórum no modo que quiser, organizando da melhor forma essa discussão."
+    },
+    {
       "t": "114436",
       "list": 1,
       "cat": 3,
