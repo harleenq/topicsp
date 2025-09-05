@@ -98,6 +98,49 @@
           "name": "Hitskin"
         }
       ]
+    },
+    {
+      "key": "6",
+      "list": 2,
+      "name": "Melhore a aparência do fórum",
+      "rgba": "239, 51, 51",
+      "desc": "Dicas para explicar os princípios básicos da aparência de seus fóruns (cores, fundo, fontes, imagens...).",
+      "subcats": [
+        {
+          "id": 1,
+          "name": "Topo do fórum"
+        },
+        {
+          "id": 2,
+          "name": "Widgets e outros módulos"
+        },
+        {
+          "id": 3,
+          "name": "Categorias e sub-fóruns"
+        },
+        {
+          "id": 4,
+          "name": "Tópicos e mensagens"
+        },
+        {
+          "id": 5,
+          "name": "Diversos"
+        }
+      ]
+    },
+    {
+      "key": "7",
+      "list": 2,
+      "name": "Aperfeiçoe o fórum",
+      "rgba": "123, 185, 43",
+      "desc": "Utilize códigos para melhorar a utilização do fórum."
+    },
+    {
+      "key": "8",
+      "list": 2,
+      "name": "Aumente a criatividade e experiência",
+      "rgba": "120, 125, 234",
+      "desc": "Crie uma comunidade criativa."
     }
   ],
   "cat_count": 21
