@@ -158,13 +158,11 @@
       "cat": 2,
       "desc": "Em todos os tópicos do fórum agora aparece um novo link \"Compartilhar\", que abre um menu que lista todas as suas redes sociais favoritas. (54 serviços)"
     },
-
-    
-    {
+ {
     "t": "17182",
     "list": 1,
     "cat": 3,
-      "subcat": 1,
+    "subcat": 1,
     "title": "Excluir um Fórum",
     "desc": "-"
   },
@@ -232,6 +230,142 @@
     "title": "Censura de palavras",
     "desc": "Aprenda"
   },
+      {
+    "t": "108992",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Ativar e gerenciar as \"Publicações\" no fórum",
+    "desc": "-"
+  },
+  {
+    "t": "90299",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Ativar botão \"Curtir\" em tópicos",
+    "desc": "-"
+  },
+  {
+    "t": "1297",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Administração e instalação do portal / widgets",
+    "desc": "-"
+  },
+  {
+    "t": "9192",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Ativação do Chatbox do fórum",
+    "desc": "-"
+  },
+  {
+    "t": "30566",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Ativar conexão com Facebook Connect",
+    "desc": "-"
+  },
+  {
+    "t": "114324",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Configurar o progressive web app (PWA) no fórum",
+    "desc": "-"
+  },
+  {
+    "t": "1315",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Calendário",
+    "desc": "-"
+  },
+  {
+    "t": "109343",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Criação e gerenciamento dos Eventos do fórum",
+    "desc": "-"
+  },
+  {
+    "t": "7164",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Criar votação/enquete e adicionar ao Portal",
+    "desc": "-"
+  },
+  {
+    "t": "15885",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Gerenciar os Widgets do Fórum",
+    "desc": "-"
+  },
+  {
+    "t": "22448",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Gestão do widget \"Palavras-chave\"",
+    "desc": "-"
+  },
+  {
+    "t": "22904",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Gestão do widget \"Novidades\"",
+    "desc": "-"
+  },
+  {
+    "t": "2010",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Gerir a galeria do fórum",
+    "desc": "-"
+  },
+  {
+    "t": "829",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Gerir as Fichas de personagem e o Módulo RPG",
+    "desc": "-"
+  },
+  {
+    "t": "16946",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Gerir a função \"Lançar dados\"",
+    "desc": "-"
+  },
+  {
+    "t": "13951",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Gestão do sistema de reputação / Botão obrigado",
+    "desc": "-"
+  },
+  {
+    "t": "14012",
+    "list": 1,
+    "cat": 3,
+    "subcat": 2,
+    "title": "Gerir o Sistema de pontos",
+    "desc": "-"
+  },
   {
     "t": "42976",
     "list": 1,
@@ -244,345 +378,18 @@
     "t": "100134",
     "list": 1,
     "cat": 3,
+    "subcat": 2,
     "title": "Interagir fórum com Redes Sociais",
     "desc": "-"
   },
   {
-    "t": "114436",
+    "t": "7967",
     "list": 1,
     "cat": 3,
-    "title": "Redigir e enviar uma notificação push personalizada",
+    "subcat": 2,
+    "title": "Página HTML personalizada",
     "desc": "-"
   },
-  {
-    "t": "30498",
-    "list": 1,
-    "cat": 3,
-    "title": "Visualizar o botão resolvido",
-    "desc": "-"
-  },
-  {
-    "t": "16564",
-    "list": 1,
-    "cat": 3,
-    "title": "Configurações do e-mail do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "93909",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerenciar categorias para suas imagens Servimg",
-    "desc": "-"
-  },
-  {
-    "t": "20351",
-    "list": 1,
-    "cat": 3,
-    "title": "Utilizar o Servimg",
-    "desc": "-"
-  },
-  {
-    "t": "22974",
-    "list": 1,
-    "cat": 3,
-    "title": "Ativar Pesquisa avançada",
-    "desc": "-"
-  },
-  {
-    "t": "26831",
-    "list": 1,
-    "cat": 3,
-    "title": "Limitar o número de registro por dia com o mesmo endereço de IP",
-    "desc": "-"
-  },
-  {
-    "t": "41809",
-    "list": 1,
-    "cat": 3,
-    "title": "Links do rodapé",
-    "desc": "-"
-  },
-  {
-    "t": "110823",
-    "list": 1,
-    "cat": 3,
-    "title": "Configurar o arquivo de publicidade ads.txt do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "27173",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerenciar o espaço de armazenamento do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "1438",
-    "list": 1,
-    "cat": 3,
-    "title": "Gestão dos Créditos",
-    "desc": "-"
-  },
-  {
-    "t": "22974",
-    "list": 1,
-    "cat": 3,
-    "title": "Ativar Pesquisa avançada",
-    "desc": "-"
-  },
-  {
-    "t": "74971",
-    "list": 1,
-    "cat": 3,
-    "title": "Barra de ferramentas",
-    "desc": "Local de atalho para o perfil do membro e suas notificações."
-  },
-  {
-    "t": "22396",
-    "list": 1,
-    "cat": 3,
-    "title": "Caixa de conexão rápida",
-    "desc": "-"
-  },
-  {
-    "t": "110823",
-    "list": 1,
-    "cat": 3,
-    "title": "Configurar o arquivo de publicidade ads.txt do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "35484",
-    "list": 1,
-    "cat": 3,
-    "title": "Como funciona um backup?",
-    "desc": "-"
-  },
-  {
-    "t": "8411",
-    "list": 1,
-    "cat": 3,
-    "title": "Criar e modificar o Favicon",
-    "desc": "-"
-  },
-  {
-    "t": "22649",
-    "list": 1,
-    "cat": 3,
-    "title": "Comprar um domínio personalizado (por Forumeiros)",
-    "desc": "-"
-  },
-  {
-    "t": "26697",
-    "list": 1,
-    "cat": 3,
-    "title": "Configurar a página inicial do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "93908",
-    "list": 1,
-    "cat": 3,
-    "title": "Exibir avatar na coluna \"Última mensagem\" no fórum",
-    "desc": "-"
-  },
-  {
-    "t": "93961",
-    "list": 1,
-    "cat": 3,
-    "title": "Escolher um nome para o fórum",
-    "desc": "-"
-  },
-  {
-    "t": "87579",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerenciamento das balizas adicionais",
-    "desc": "-"
-  },
-  {
-    "t": "27173",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerenciar o espaço de armazenamento do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "15866",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerir a função \"Fórum em construção\"",
-    "desc": "-"
-  },
-  {
-    "t": "16354",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerir a função \"Lixeira\"",
-    "desc": "-"
-  },
-  {
-    "t": "16295",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerir a função \"Fórum de férias\"",
-    "desc": "-"
-  },
-  {
-    "t": "16325",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerir os botões do \"Menu de Navegação\"",
-    "desc": "-"
-  },
-  {
-    "t": "21652",
-    "list": 1,
-    "cat": 3,
-    "title": "Gestão do Painel de Segurança",
-    "desc": "-"
-  },
-  {
-    "t": "16218",
-    "list": 1,
-    "cat": 3,
-    "title": "Gestão das queixas assinaladas",
-    "desc": "-"
-  },
-  {
-    "t": "1438",
-    "list": 1,
-    "cat": 3,
-    "title": "Gestão dos Créditos",
-    "desc": "-"
-  },
-  {
-    "t": "95239",
-    "list": 1,
-    "cat": 3,
-    "title": "Recurso desativado devido a imposição do Paypal",
-    "desc": "-"
-  },
-  {
-    "t": "93909",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerenciar categorias para suas imagens Servimg",
-    "desc": "-"
-  },
-  {
-    "t": "22974",
-    "list": 1,
-    "cat": 3,
-    "title": "Ativar Pesquisa avançada",
-    "desc": "-"
-  },
-  {
-    "t": "26831",
-    "list": 1,
-    "cat": 3,
-    "title": "Limitar o número de registro por dia com o mesmo endereço de IP",
-    "desc": "-"
-  },
-  {
-    "t": "41809",
-    "list": 1,
-    "cat": 3,
-    "title": "Links do rodapé",
-    "desc": "-"
-  },
-  {
-    "t": "17374",
-    "list": 1,
-    "cat": 3,
-    "title": "Modificar o endereço do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "18396",
-    "list": 1,
-    "cat": 3,
-    "title": "Modificar idioma do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "26495",
-    "list": 1,
-    "cat": 3,
-    "title": "Nível mínimo para ver se o usuário está conectado",
-    "desc": "-"
-  },
-  {
-    "t": "86038",
-    "list": 1,
-    "cat": 3,
-    "title": "Principais números e limites dos fóruns Forumeiros",
-    "desc": "-"
-  },
-  {
-    "t": "13876",
-    "list": 1,
-    "cat": 3,
-    "title": "Pop-up de conexão",
-    "desc": "-"
-  },
-  {
-    "t": "21693",
-    "list": 1,
-    "cat": 3,
-    "title": "Referenciar o fórum nos motores de busca",
-    "desc": "-"
-  },
-  {
-    "t": "9256",
-    "list": 1,
-    "cat": 3,
-    "title": "Adicionar questões à FAQ do Fórum",
-    "desc": "-"
-  },
-  {
-    "t": "9235",
-    "list": 1,
-    "cat": 3,
-    "title": "Adicionar regras ao Regulamento do Fórum",
-    "desc": "-"
-  },
-  {
-    "t": "9396",
-    "list": 1,
-    "cat": 3,
-    "title": "Auto-exclusão",
-    "desc": "-"
-  },
-  {
-    "t": "20094",
-    "list": 1,
-    "cat": 3,
-    "title": "Gerir a função fórum tipo \"Blog\"",
-    "desc": "-"
-  },
-  {
-    "t": "49322",
-    "list": 1,
-    "cat": 3,
-    "title": "Regras do fórum",
-    "desc": "-"
-  },
-  {
-    "t": "11750",
-    "list": 1,
-    "cat": 3,
-    "title": "Criação e visualização de Categorias, Fóruns e Sub-fóruns",
-    "desc": "-"
-  },
-  {
-    "t": "26644",
-    "list": 1,
-    "cat": 3,
-    "title": "Restringir imagens e links de um fórum",
-    "desc": "-"
-  }
     
  
   ],
