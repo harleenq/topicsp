@@ -1774,21 +1774,21 @@
       "list": 2,
       "cat": 8,
       "title": "Photoshop: Dicas e conceitos",
-      "level": 2
+      "level": 1
     },
     {
       "t": "103134",
       "list": 2,
       "cat": 8,
       "title": "Photoshop: Vista geral das opções básicas",
-      "level": 2
+      "level": 1
     },
     {
       "t": "98377",
       "list": 2,
       "cat": 8,
       "title": "Photoshop: Ferramentas básicas",
-      "level": 2
+      "level": 1
     },
     {
       "t": "107893",
@@ -1893,7 +1893,7 @@
       "list": 2,
       "cat": 8,
       "title": "Renderizar uma imagem",
-      "level": 2
+      "level": 1
     },
     {
       "t": "106018",
@@ -1907,14 +1907,14 @@
       "list": 2,
       "cat": 8,
       "title": "Criar um rank personalizado: Médio",
-      "level": 2
+      "level": 4
     },
     {
       "t": "103348",
       "list": 2,
       "cat": 8,
       "title": "Criar um rank personalizado: Avançado",
-      "level": 2
+      "level": 3
     },
     {
       "t": "103357",
@@ -1928,14 +1928,14 @@
       "list": 2,
       "cat": 8,
       "title": "Criar uma assinatura: Médio",
-      "level": 2
+      "level": 4
     },
     {
       "t": "100400",
       "list": 2,
       "cat": 8,
       "title": "Criar uma assinatura: Avançado",
-      "level": 2
+      "level": 5
     },
     {
       "t": "106240",
@@ -1963,7 +1963,7 @@
       "list": 2,
       "cat": 8,
       "title": "Ícones com efeito Flat Design",
-      "level": 2
+      "level": 3
     },
     {
       "t": "98733",
@@ -2019,7 +2019,7 @@
       "list": 2,
       "cat": 8,
       "title": "Texto com animação reflexo",
-      "level": 2
+      "level": 3
     },
     {
       "t": "106373",
