@@ -28,6 +28,7 @@
       "key": "3",
       "list": 1,
       "name": "Geral",
+      "rgba": "245, 174, 66",
       "desc": "Configuração geral do fórum.",
       "subcats": [
         {
