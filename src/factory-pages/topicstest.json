@@ -971,6 +971,7 @@
       "list": 2,
       "cat": 6,
       "subcat": 1,
+          "status": 2,
       "title": "Adicionar opacidade aos ícones da barra de navegação",
       "versions": [
         1,
@@ -984,6 +985,7 @@
       "list": 2,
       "cat": 6,
       "subcat": 1,
+          "status": 1,
       "title": "Personalizar a caixa de pesquisa",
       "versions": [
         1,
