@@ -971,7 +971,7 @@
       "list": 2,
       "cat": 6,
       "subcat": 1,
-          "status": 2,
+      "status": 2,
       "title": "Adicionar opacidade aos ícones da barra de navegação",
       "versions": [
         1,
@@ -985,7 +985,7 @@
       "list": 2,
       "cat": 6,
       "subcat": 1,
-          "status": 1,
+      "status": 1,
       "title": "Personalizar a caixa de pesquisa",
       "versions": [
         1,
@@ -1299,6 +1299,175 @@
       "cat": 6,
       "subcat": 3,
       "title": "Mostrar a descrição do fórum ao passar o cursor",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "16049",
+      "list": 2,
+      "cat": 6,
+      "subcat": 4,
+      "title": "Personalizar o SCEditor",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "23170",
+      "list": 2,
+      "cat": 6,
+      "subcat": 4,
+      "title": "Adicionar estado \"Online\" e \"Offline\" nos tópicos",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "56961",
+      "list": 2,
+      "cat": 6,
+      "subcat": 4,
+      "title": "Retirar o \"Ver mais Smileys\"",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "17853",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Retirar o sublinhado da hiperligação",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "56712",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Efeito neon na hiperligação",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "52737",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Efeito no nome de usuário",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "35499",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Personalização do spoiler",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "30464",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Personalização do código",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "78603",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Encurtar o texto da hiperligação",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "29666",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Alterar a posição do rank e do avatar",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "73391",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Mostrar as opções da mensagem ao passar o cursor",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "93905",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Personalizar links de downloads externos",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "89460",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Cor na seleção de texto",
       "versions": [
         1,
         2,
