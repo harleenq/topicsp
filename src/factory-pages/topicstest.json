@@ -75,6 +75,54 @@
       "desc": "Permissões especiais são restrições de acesso aos quatro principais grupos de membros do fórum. Ao selecionar um grupo a uma opção está a tirar o acesso de visualização."
     },
     {
+      "t": "70923",
+      "list": 1,
+      "cat": 1,
+      "subcat": 3,
+      "title": "Pirataria nos fóruns",
+      "desc": "Muitas vezes nos é questionado sobre o assunto da pirataria. O que é? O que pode acarretar? O que é tão importante para mantemos nossos fóruns legais? Isso é o que essa FAQ lhe explicará."
+    },
+    {
+      "t": "92678",
+      "list": 1,
+      "cat": 1,
+      "subcat": 3,
+      "title": "Página AdFly ou domínio inacessível",
+      "desc": " Existem 4 casos que podem ocasionar a inexistência dum domínio."
+    },
+    {
+      "t": "30419",
+      "list": 1,
+      "cat": 1,
+      "subcat": 3,
+      "title": "Conteúdos ilícitos nos Fóruns Forumeiros",
+      "desc": "Os conteúdos ilegais que estão presentes em um fórum desrespeitam as condições gerais de uso podem penalizá-lo. Aqui tem algumas dicas de como fiscalizar a sua comunidade."
+    },
+    {
+      "t": "5209",
+      "list": 1,
+      "cat": 1,
+      "subcat": 3,
+      "title": "Serviço de litígios x Serviço de queixas",
+      "desc": "Compreenda as diferenças entre ambos os serviços e quando cada um deles deve ser utilizado!"
+    },
+    {
+      "t": "89473",
+      "list": 1,
+      "cat": 1,
+      "subcat": 3,
+      "title": "Online Guardian",
+      "desc": "Você já acessou seu fórum e do nada um aviso dado pelo site OnlineGuardian foi exibido? O que deve-se fazer quando um fórum não existe mais e a informação do Online Guardian é exibido? - Vamos esclarecer sua dúvida a respeito disso. "
+    },
+    {
+      "t": "98385",
+      "list": 1,
+      "cat": 1,
+      "subcat": 3,
+      "title": "Sobre Direitos Autorais",
+      "desc": "Aprenda a usar o Copyright, seus direitos autorais, na defesa de seu fórum."
+    },
+    {
       "t": "93961",
       "list": 1,
       "cat": 2,
