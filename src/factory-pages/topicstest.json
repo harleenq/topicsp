@@ -207,6 +207,13 @@
       "desc": "Em todos os tópicos do fórum agora aparece um novo link \"Compartilhar\", que abre um menu que lista todas as suas redes sociais favoritas. (54 serviços)"
     },
     {
+      "t": "35000",
+      "list": 1,
+      "title": "O que são bots e sua finalidade",
+      "cat": 2,
+      "desc": "Na maioria das vezes e na maioria dos fóruns aparecem os motores de busca nas estatísticas. Agora saberemos quem são e para que servem!"
+    },
+    {
       "t": "17182",
       "list": 1,
       "cat": 3,
@@ -431,11 +438,19 @@
       "desc": "-"
     },
     {
-      "t": "7967",
+      "t": "118081",
       "list": 1,
       "cat": 3,
       "subcat": 2,
       "title": "Página HTML personalizada",
+      "desc": "O widget Forumeiros permite incorporar os tópicos mais recentes do fórum em um site externo, ou numa página HTML. Assim, dando a possibilidade de exibir as últimas discussões do fórum em quaisquer sites: blogs, outros fóruns, etc."
+    },
+    {
+      "t": "7967",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Widget externo Forumeiros",
       "desc": "-"
     },
     {
@@ -703,6 +718,15 @@
       "desc": "-"
     },
     {
+      "t": "118075",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "status": 1,
+      "title": "Organize os tópicos com a vista em grelha",
+      "desc": "A vista em grelha permite que a sua comunidade possa encontrar os tópicos de interesse de forma rápida e eficaz através de um design moderno e de destaque."
+    },
+    {
       "t": "114436",
       "list": 1,
       "cat": 3,
@@ -901,6 +925,14 @@
       "subcat": 3,
       "title": "Gestão da Ficha de personagem e o Módulo RPG",
       "desc": "Este tutorial detalha o procedimento para ativar e configurar uma folha de personagem."
+    },
+        {
+      "t": "118077",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Seguimento entre membros no fórum",
+      "desc": "Membros a seguir são os membros que segues e queres receber notificações do conteúdo deles, como: novos tópicos e mensagens (dependendo das preferências do perfil). Uma forma interessante de descobrir cada publicação de um membro específico."
     },
     {
       "t": "25528",
