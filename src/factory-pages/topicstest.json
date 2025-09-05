@@ -50,6 +50,14 @@
       "title": "Registo da atividade do Administrador e Moderador",
       "desc": "Apresentação das várias mensagens de erro técnicas nos fóruns."
     },
+        {
+      "t": "4161",
+      "list": 1,
+      "cat": 1,
+      "subcat": 1,
+      "title": "Mensagens com ligação à plataforma Forumeiros",
+      "desc": "Se receber um e-mail ou qualquer outro modo que esteja relacionado com o Forumeiros, é melhor ficar esperto, pois isso pode não acabar bem. Muitas vezes estas são tentativas de hackers para que possam invadir o fórum."
+    },
     {
       "t": "118067",
       "list": 1,
