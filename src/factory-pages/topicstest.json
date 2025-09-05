@@ -965,6 +965,344 @@
       "subcat": 3,
       "title": "Instalar / criar um fórum com um tema do HitSkin",
       "desc": "-"
+    },
+    {
+      "t": "15695",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Adicionar opacidade aos ícones da barra de navegação",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "46958",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Personalizar a caixa de pesquisa",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "117332",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Decoração de Natal",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "117303",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Decoração de Halloween",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "115012",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Decoração para a Páscoa",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "56808",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Por a barra de navegação na vertical",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "56809",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Efeito ao passar o cursor em cima da imagem da barra de navegação",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "57330",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Alterar o texto dos itens da barra de navegação",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "105532",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Personalizar atalho do membro da barra de ferramentas",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "115593",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Efeito onda no cabeçalho do fórum",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "85270",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Mostrar o avatar do membro na barra de ferramentas",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "93901",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Criar sub-itens na barra de navegação",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "112612",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Remover menu fixo ao descer a página",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "32787",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Criar atalhos para os sub-fóruns na página inicial",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "104934",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Criar logos aleatórios",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "98382",
+      "list": 2,
+      "cat": 6,
+      "subcat": 1,
+      "title": "Transformar o fundo em um vídeo do youtube",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "110558",
+      "list": 2,
+      "cat": 6,
+      "subcat": 2,
+      "title": "Proteção contra owner e XSS nas mensagens e chat",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "18467",
+      "list": 2,
+      "cat": 6,
+      "subcat": 2,
+      "title": "Personalizar o cursor do mouse",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "21534",
+      "list": 2,
+      "cat": 6,
+      "subcat": 2,
+      "title": "Personalizar o fundo dos widgets",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "57067",
+      "list": 2,
+      "cat": 6,
+      "subcat": 2,
+      "title": "Substituir percentagem imagem por texto nos widgets predefinidos",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "61133",
+      "list": 2,
+      "cat": 6,
+      "subcat": 2,
+      "title": "Tornar o título das \"Novidades\" em hiperligação",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "93895",
+      "list": 2,
+      "cat": 6,
+      "subcat": 2,
+      "title": "Mostrar o avatar do membro nos \"Últimos assuntos\"",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "93862",
+      "list": 2,
+      "cat": 6,
+      "subcat": 2,
+      "title": "Adicionar um aviso no chat box",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "83644",
+      "list": 2,
+      "cat": 6,
+      "subcat": 2,
+      "title": "Alterar o prefixo dos moderadores do chat box",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "108131",
+      "list": 2,
+      "cat": 6,
+      "subcat": 3,
+      "title": "Colorir os fóruns com novas mensagens",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": "93959",
+      "list": 2,
+      "cat": 6,
+      "subcat": 3,
+      "title": "Mostrar a descrição do fórum ao passar o cursor",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ],
   "topic_count": 624
