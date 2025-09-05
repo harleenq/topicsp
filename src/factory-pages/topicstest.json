@@ -285,6 +285,22 @@
       "title": "Censura de palavras",
       "desc": "Aprenda"
     },
+        {
+      "t": "15866",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title":  "Gerir a função \"Fórum em construção\"",
+      "desc": "Esta função é muito útil quando desejamos fazer alguma modificação em nosso fórum, mesmo que a mesma seja pequena e, não desejamos que os usuários á vejam. Com este recurso sempre que ativado impedirá os membros de acederem as páginas do fórum, sendo exibida uma mensagem personalizável."
+    },
+            {
+      "t": "16295",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title":  "Gerir a função \"Em férias\"",
+      "desc": " Esta função é muito útil quando desejamos que o fórum fique parcialmente inativo. Ela permite cancelar a inscrição de membros e também define \"virtualmente\" as autorizações de responder e criar um novo tópico somente para os membros da administração."
+    },
     {
       "t": "108992",
       "list": 1,
