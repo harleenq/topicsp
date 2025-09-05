@@ -213,6 +213,13 @@
       "cat": 2,
       "desc": "Na maioria das vezes e na maioria dos fóruns aparecem os motores de busca nas estatísticas. Agora saberemos quem são e para que servem!"
     },
+   {
+      "t": "100134",
+      "list": 1,
+      "cat": 1,
+      "title": "Interagir fórum com Redes Sociais",
+      "desc": "-"
+    },
     {
       "t": "17182",
       "list": 1,
@@ -443,14 +450,6 @@
       "cat": 3,
       "subcat": 2,
       "title": "Gestão das páginas .JS (javascript)",
-      "desc": "-"
-    },
-    {
-      "t": "100134",
-      "list": 1,
-      "cat": 3,
-      "subcat": 2,
-      "title": "Interagir fórum com Redes Sociais",
       "desc": "-"
     },
     {
@@ -814,13 +813,21 @@
       "title": "Gerenciar o espaço de armazenamento do fórum",
       "desc": "-"
     },
+        {
+      "t": "112029",
+      "list": 1,
+      "cat": 3,
+      "subcat": 4,
+      "title": "Editar espaço de publicidade",
+      "desc": "-"
+    },
     {
       "t": "22649",
       "list": 1,
       "cat": 3,
       "subcat": 4,
       "title": "Comprar um domínio personalizado (por Forumeiros)",
-      "desc": "-"
+      "desc": "O espaço de monetização permite editar e exibir o conteúdo de seus patrocinadores, como por exemplo, publicidades diversas para rentabilizar sua comunidade, mostrando banners em diversos locais no fórum que podem ser descritos a seguir."
     },
     {
       "t": "41809",
