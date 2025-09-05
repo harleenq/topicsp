@@ -53,6 +53,7 @@
       "key": "4",
       "list": 1,
       "name": "Usuários e Grupos",
+      "rgba": "123, 185, 43",
       "desc": "Gerencie os grupos de usuários, administração dos ranks além das permissões para usuários especiais usando perfil personalizado e realizando as mudanças no perfil de um membro específico.",
       "subcats": [
         {
@@ -77,6 +78,7 @@
       "key": "5",
       "list": 1,
       "name": "Visualização",
+      "rgba": "120, 125, 234",
       "desc": "Instale e administre um tema no seu fórum, e saiba tudo sobre a nossa hospedagem de temas para fóruns Forumeiros.",
       "subcats": [
         {
