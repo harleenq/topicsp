@@ -821,6 +821,102 @@
       "subcat": 4,
       "title": "Moderadores: Como moderar",
       "desc": "Uma ferramenta para moderar o fórum eficazmente."
+    },
+    {
+      "t": "15664",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Alterar o logo do Fórum",
+      "desc": "Aprenda a alterar o logotipo do fórum para o seu."
+    },
+    {
+      "t": "49309",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "A folha de estilo CSS",
+      "desc": "Graças à folha CSS, tens a possibilidade de personalizar a exibição do seu fórum Forumeiros."
+    },
+    {
+      "t": "2156",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "As cores",
+      "desc": "Todas as cores são configuráveis, e este tutorial agrupa todos os lugares onde as escolhas do painel de administração atuam."
+    },
+    {
+      "t": "16480",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Temas temporários",
+      "desc": "O que são temas temporários e como usá-los?"
+    },
+    {
+      "t": "16113",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Exportar e importar um tema",
+      "desc": "Este tutorial explica como exportar e importar seu tema."
+    },
+    {
+      "t": "15900",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Versões do fórum",
+      "desc": "Este tutorial apresentará as diferentes versões oferecidas pelo Forumeiros, como reconhecê-las e alterá-las no seu fórum"
+    },
+    {
+      "t": "20295",
+      "list": 1,
+      "cat": 4,
+      "subcat": 1,
+      "title": "Ícones de mensagens",
+      "desc": "Os ícones de mensagem são imagens pequenas que ilustram - por exemplo - o estado do autor ou o status da mensagens."
+    },
+    {
+      "t": "16827",
+      "list": 1,
+      "cat": 4,
+      "subcat": 2,
+      "title": "Modifique os templates do fórum",
+      "desc": "O que são templates? Quem pode e como modificar os templates do fórum? Todas as resposta estão aqui."
+    },
+    {
+      "t": "8652",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Buscar um tema em HitSkin.com",
+      "desc": "-"
+    },
+    {
+      "t": "17239",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Criar uma conta em Hitskin.com",
+      "desc": "-"
+    },
+    {
+      "t": "17311",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Propor um tema em Hitskin.com",
+      "desc": "-"
+    },
+    {
+      "t": "17276",
+      "list": 1,
+      "cat": 4,
+      "subcat": 3,
+      "title": "Instalar / criar um fórum com um tema do HitSkin",
+      "desc": "-"
     }
   ],
   "topic_count": 624
