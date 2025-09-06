@@ -10,6 +10,14 @@
       "desc": "Conselhos agrupados desde a criação do fórum até a sua atividade para ter um fórum ativo!"
     },
     {
+      "t": "86029",
+      "list": 1,
+      "cat": 1,
+      "subcat": 1,
+      "title": "Conheça o Painel administrativo",
+      "desc": "Através do Painel administrativo, podemos controlar nosso fórum de uma forma geral. Podendo assim, adicionar, editar ou remover cada detalhe, de cada parte do fórum. Podemos melhorar a aparência, adicionar conteúdo, enfim, podemos fazer de tudo, com poucas restrições."
+    },
+    {
       "t": "93907",
       "list": 1,
       "cat": 1,
@@ -81,14 +89,6 @@
       "subcat": 2,
       "title": "Permissões especiais",
       "desc": "Permissões especiais são restrições de acesso aos quatro principais grupos de membros do fórum. Ao selecionar um grupo a uma opção está a tirar o acesso de visualização."
-    },
-        {
-      "t": "86029",
-      "list": 1,
-      "cat": 1,
-      "subcat": 2,
-      "title": "Conheça o Painel administrativo do fórum",
-      "desc": "Através do Painel administrativo, podemos controlar nosso fórum de uma forma geral. Podendo assim, adicionar, editar ou remover cada detalhe, de cada parte do fórum. Podemos melhorar a aparência, adicionar conteúdo, enfim, podemos fazer de tudo, com poucas restrições."
     },
     {
       "t": "70923",
@@ -231,8 +231,7 @@
     },
    {
       "t": "100134",
-      "list": 1,
-      "cat": 1,
+      "cat": 2,
       "title": "Interagir fórum com Redes Sociais",
       "desc": "-"
     },
