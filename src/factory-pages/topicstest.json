@@ -1124,6 +1124,14 @@
       "title": "Instalar / criar um fórum com um tema do HitSkin",
       "desc": "-"
     },
+   {
+      "t": "17730",
+      "list": 1,
+      "cat": 5,
+      "subcat": 3,
+      "title": "Publicaram o meu tema no HitSkin sem autorização",
+      "desc": "Apesar dos temas do Hitskin serem grátis, eles possuem direitos autorais. Por isso, você tem total direito de removê-lo caso não esteja acomodado de vê-lo publicado por outro usuário."
+    },
     {
       "t": "15695",
       "list": 2,
