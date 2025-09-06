@@ -979,7 +979,7 @@
       "subcat": 3,
       "title": "Seguimento entre membros no fórum",
       "desc": "Membros a seguir são os membros que segues e queres receber notificações do conteúdo deles, como: novos tópicos e mensagens (dependendo das preferências do perfil). Uma forma interessante de descobrir cada publicação de um membro específico.",
-      "versions": [10],
+      "versions": [10]
     },
     {
       "t": "25528",
