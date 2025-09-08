@@ -161,11 +161,11 @@
       "desc": "Através da descrição do fórum poderá atribuir a sua comunidade o tema simplificado do fórum para que os visitantes vejam."
     },
     {
-      "t": "27132",
+      "t": "118269",
       "list": 1,
       "cat": 2,
       "title": "Convidar amigos",
-      "desc": "Convide vários amigos a participar no fórum com poucos cliques."
+      "desc": "Promova a sua comunidade convidando amigos. Envie convites por e-mail e torne o fórum conhecido entre os seus contactos com poucos cliques."
     },
     {
       "t": "17785",
@@ -970,7 +970,8 @@
       "cat": 4,
       "subcat": 3,
       "title": "Gestão da Ficha de personagem e o Módulo RPG",
-      "desc": "Este tutorial detalha o procedimento para ativar e configurar uma folha de personagem."
+      "desc": "Este tutorial detalha o procedimento para ativar e configurar uma folha de personagem.",
+      "versions": [10]
     },
         {
       "t": "118077",
