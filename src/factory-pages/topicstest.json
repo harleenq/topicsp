@@ -1962,6 +1962,7 @@
       "list": 2,
       "cat": 8,
       "title": "Photoshop: Dicas e conceitos",
+      "desc": "Muitos usuários gostam do ramo de edição de imagens e criações gráficas mas não possuem conhecimento sobre os termos utilizados na área e acabam perdendo-se ao receberem o suporte de outrem mais experiente. Este tópico estará sanando todas, ou quase todas dúvidas que possam haver sobre o assunto.",
       "level": 1
     },
     {
@@ -1969,6 +1970,7 @@
       "list": 2,
       "cat": 8,
       "title": "Photoshop: Vista geral das opções básicas",
+      "desc": "Este é um breve tutorial que explica as funções básicas do Photoshop. São elas: criar um novo documento, salvá-lo e salvar um arquivo em ficheiro gif (animado).",
       "level": 1
     },
     {
@@ -1976,6 +1978,7 @@
       "list": 2,
       "cat": 8,
       "title": "Photoshop: Ferramentas básicas",
+      "desc": "O Adobe Photoshop é um editor gráfico que oferece diversos recursos para a edição e criação de imagens, e a base para tudo isso está nas ferramentas que o editor dispõe, nesse tutorial iremos falar um pouco sobre cada ferramenta e suas respectivas funções.",
       "level": 1
     },
     {
@@ -1983,6 +1986,7 @@
       "list": 2,
       "cat": 8,
       "title": "Photoshop: Adicionar fonte a ferramenta texto",
+      "desc": "Muitos designers procura estar personalizando seus textos com tipografia diferenciada ou até mesmo aquele pedido gráfico em que os usuários pede uma fonte diferente do comum, neste tutorial terá passo a passo de como instalar diversas fontes em seu photoshop.",
       "level": 2
     },
     {
@@ -1990,6 +1994,7 @@
       "list": 2,
       "cat": 8,
       "title": "Photoshop: Traduzir para português",
+      "desc": "Muitas vezes temos o PS6 em outro idioma que não é o Português, e isto atrapalha um pouco as edições de imagens, e por necessidades gostaria que fosse possível a tradução deste incrível editor, e sim, neste tutorial será explicado como traduzir para o idioma desejado.",
       "level": 2
     },
     {
@@ -1997,6 +2002,7 @@
       "list": 2,
       "cat": 8,
       "title": "Photoshop: Aplicar o ZOOM no botão de rolagem do mouse",
+      "desc": "Quando queremos dar o zoom em nossas criações gráficas teremos que fazer todo processo manual, mas, neste tutorial ensinara passo por passo para que possamos dar o zoom mais fácil e rápido, apenas utilizando o botão de rolagem do mouse para fazer o efeito.",
       "level": 2
     },
     {
@@ -2004,6 +2010,7 @@
       "list": 2,
       "cat": 8,
       "title": "Alterar cor de uma imagem com Matriz e saturação",
+      "desc": "Neste tutorial você ira aprender como alterar a cor de uma imagem pelas ferramentas matriz e saturação pelo Photoshop.",
       "level": 2
     },
     {
