@@ -297,15 +297,15 @@
       "cat": 3,
       "subcat": 1,
       "title": "Vínculos externos, anti-spam",
-      "desc": "-"
+      "desc": "O sistema anti-spam, ou seja, os vínculos externos permitem que se mantenha um controle automático sobre os membros em função das suas mensagens, evitando usuários recém-inscritos que enviem link's externos ou emails dentro de uma semana. Além da função de vínculos externos, podemos proibir visitantes de registrar-sem com nome de usuários spammers."
     },
     {
       "t": "16003",
       "list": 1,
       "cat": 3,
       "subcat": 1,
-      "title": "Gestão das estatísticas do fórum",
-      "desc": "-"
+      "title": "Gerir as estatísticas do fórum",
+      "desc": "As estatísticas do Fórum permiti-nos ter a noção da evolução detalhada do Fórum nos últimos meses, assim como as votações do Fórum, onde poderá saber as estatísticas das mais ativas e dos membros mais ativos."
     },
     {
       "t": "9293",
@@ -313,7 +313,7 @@
       "cat": 3,
       "subcat": 1,
       "title": "Censura de palavras",
-      "desc": "Aprenda"
+      "desc": "A censura é usada no sentido de impedir ou controlar as diferentes liberdades de expressão, antes e/ou depois do seu aparecimento, podem ser definidas censuras para determinadas palavras e para determinados nomes de usuários."
     },
         {
       "t": "15866",
@@ -337,7 +337,7 @@
       "cat": 3,
       "subcat": 1,
       "title": "Sistema anti-flood",
-      "desc": "-"
+      "desc": "O sistema anti-flood permite que se mantenha um controlo automatico sobre os membros em função das suas mensagens, evitando o envio de mensagens consecutivas poe período de tempo definido pelos administradores dos Fóruns."
     },
     {
       "t": "108992",
@@ -345,7 +345,7 @@
       "cat": 3,
       "subcat": 2,
       "title": "Ativar e gerenciar as \"Publicações\" no fórum",
-      "desc": "-"
+      "desc": "A seção de \"Publicações\" se diferencia do resto do seu fórum, por ter um design minimista e ergonômico. Com a seção de Publicações, seu fórum ficará mais interativo e completo, promovendo seu conteúdo por meio do design fantástico!"
     },
     {
       "t": "90299",
@@ -353,7 +353,7 @@
       "cat": 3,
       "subcat": 2,
       "title": "Ativar botão \"Curtir\" em tópicos",
-      "desc": "-"
+      "desc": "O botão \"Curtir\" permitirá que seus membros compartilhem seu conteúdo com seus contatos do Facebook sem sair do fórum. Isso irá permitir que você compartilhe seu fórum no Facebook no perfil de seus membros, aumentando a audiência e sucesso."
     },
     {
       "t": "1297",
@@ -361,15 +361,15 @@
       "cat": 3,
       "subcat": 2,
       "title": "Administração e instalação do portal / widgets",
-      "desc": "-"
+      "desc": "Aprenda aqui como criar e administrar o seu portal, com este tutorial irá bem mais fácil e pratico para fazer as modificações, e adequar melhor ainda para a melhor utilização do mesmo."
     },
     {
       "t": "9192",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Ativação do Chatbox do fórum",
-      "desc": "-"
+      "title": "Ativar o Chatbox do fórum",
+      "desc": "O ChatBox é um meio de comunicação instantânea que pode ser utilizado entre os membros do fórum, ele permite conversas em tempo real. Uma boa técnica para que não utilizar os denominados off-topic!"
     },
     {
       "t": "30566",
@@ -377,7 +377,7 @@
       "cat": 3,
       "subcat": 2,
       "title": "Ativar conexão com Facebook Connect",
-      "desc": "-"
+      "desc": " Vamos mostrar passo a passo de como ativar a conexão do Facebook Connect com seu fórum. Como se conectar no fórum através da nova ferramenta que o serviço Forumeiros nos proporciona: Facebook Connect."
     },
     {
       "t": "114324",
@@ -385,7 +385,7 @@
       "cat": 3,
       "subcat": 2,
       "title": "Configurar o progressive web app (PWA) no fórum",
-      "desc": "-"
+      "desc": "A aplicação web progressiva (PWA) permite revolucionar a maneira que seu fórum é visto na web. Usando HTML, CSS e Javascript, ele cria uma aplicação acessível tanto para a versão mobile quanto desktop."
     },
     {
       "t": "1315",
@@ -401,7 +401,7 @@
       "cat": 3,
       "subcat": 2,
       "title": "Criação e gerenciamento dos Eventos do fórum",
-      "desc": "-"
+      "desc": "Compartilhe os melhores momentos usando o recurso Eventos, que permite associar ao seu calendário do fórum anúncios de festas, reuniões, festivais, concertos, demonstrações e entre outros mais!"
     },
     {
       "t": "7164",
@@ -409,7 +409,7 @@
       "cat": 3,
       "subcat": 2,
       "title": "Criar votação/enquete e adicionar ao Portal",
-      "desc": "-"
+      "desc": "As votações permitem obter uma opinião dos usuários sem que seja necessária a postagem de uma mensagem. Apenas terão de exercer o seu voto! Torna-se muito útil para obter opiniões mais generalizadas, captando assim a opinião dos usuários que menos postam mensagens."
     },
     {
       "t": "15885",
