@@ -360,7 +360,7 @@
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Administração e instalação do portal / widgets",
+      "title": "Gerenciar o portal e widgets",
       "desc": "Aprenda aqui como criar e administrar o seu portal, com este tutorial irá bem mais fácil e pratico para fazer as modificações, e adequar melhor ainda para a melhor utilização do mesmo."
     },
     {
@@ -459,14 +459,6 @@
       "subcat": 2,
       "title": "Gerir o sistema de reputação e o botão \"Obrigado\"",
       "desc": "O sistema de reputação está enquadrado com o sistema de pontos, pois também funciona com pontos, através da avaliação das mensagens, e também com o botão de agradecimento: \"Obrigado\"."
-    },
-    {
-      "t": "14012",
-      "list": 1,
-      "cat": 3,
-      "subcat": 2,
-      "title": "Gerir o sistema de pontos",
-      "desc": "O sistema de pontos consiste em atribuir valores para postagem de mensagens, tópicos, dias desde a inscrição, amigos que o membro contém no perfil e por mensagens no perfil. O sistema de pontos está enquadrado com o sistema de reputação, através da avaliação das mensagens, e também com o botão de agradecimento: \"Obrigado\"."
     },
     {
       "t": "42976",
@@ -754,8 +746,8 @@
       "list": 1,
       "cat": 3,
       "subcat": 6,
-      "title": "Gerenciar categorias para suas imagens Servimg",
-      "desc": "-"
+      "title": "Gerenciar as categorias do Servimg",
+      "desc": "A criação de categorias faz com que suas imagens fiquem organizadas, e através do Painel de Controle você pode definir a categoria que receberá novas imagens que são enviadas a partir do Painel de controle do fórum."
     },
     {
       "t": "20351",
@@ -763,7 +755,7 @@
       "cat": 3,
       "subcat": 6,
       "title": "Utilizar o Servimg",
-      "desc": "-"
+      "desc": "O Servimg é um serviço de hospedam de imagens que está intimamente ligado aos sistemas dos nossos fóruns. Com ele poderemos fazer o envio de imagens diretamente do Painel de Controle por um método de ligação. Podemos também fazer uma hospedagem separada através do site. Nele não é necessário se registrar pois quando criamos um fórum a conta também é criada automaticamente."
     },
     {
       "t": "118075",
