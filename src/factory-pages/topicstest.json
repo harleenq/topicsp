@@ -14,7 +14,7 @@
       "list": 1,
       "cat": 1,
       "subcat": 1,
-      "title": "Conheça o Painel administrativo",
+      "title": "Conheça o painel administrativo",
       "desc": "Através do Painel administrativo, podemos controlar nosso fórum de uma forma geral. Podendo assim, adicionar, editar ou remover cada detalhe, de cada parte do fórum. Podemos melhorar a aparência, adicionar conteúdo, enfim, podemos fazer de tudo, com poucas restrições."
     },
     {
@@ -32,7 +32,7 @@
       "cat": 1,
       "subcat": 1,
       "title": "Segurança no Forumeiros",
-      "desc": "-"
+      "desc": "O seu fórum sempre protegido e seguro. Forumeiros é o único sitio na web com hospedagem de fóruns que combina qualidade profissional gratuita e capacidade de resposta, ouvindo diariamente os seus usuários."
     },
     {
       "t": "112365",
@@ -248,24 +248,24 @@
    {
       "t": "100134",
       "cat": 2,
-      "title": "Interagir fórum com Redes Sociais",
-      "desc": "-"
+      "title": "Interagir fórum com redes sociais",
+      "desc": "A dinâmica dos fóruns da #Forumeiros permite que o seu conteúdo seja compartilhado e interligado aos motores de busca de uma maneira fácil e automática. Com esta FAQ lhe ensinaremos a promover seu fórum nas redes sociais."
     },
     {
       "t": "17182",
       "list": 1,
       "cat": 3,
       "subcat": 1,
-      "title": "Excluir um Fórum",
-      "desc": "-"
+      "title": "Excluir o fórum",
+      "desc": "Através deste tutorial aprenderá como excluir o seu fórum. Esta ação somente deve ser tomada caso tenha certeza de que é o que realmente pretende fazer. Pois ao invés de removê-lo, você pode passar a administração para uma outra pessoa."
     },
     {
       "t": "22688",
       "list": 1,
       "cat": 3,
       "subcat": 1,
-      "title": "Redirecionar um domínio para um fórum",
-      "desc": "-"
+      "title": "Redirecionar um domínio para o fórum",
+      "desc": "Os fóruns Forumeiros permitem o redirecionamento de domínio externo ao serviço em sua comunidade. Somente usuários que aderirem à um pacote Avançado ou Premium podem usufruir do recurso para apontamento de domínio personalizado."
     },
     {
       "t": "115350",
