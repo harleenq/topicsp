@@ -26,6 +26,14 @@
       "title": "Aumente a segurança do fórum",
       "desc": "Sabia que é possível ter controle do fórum através do Painel administrativo? E existe riscos a quem dá acesso!"
     },
+        {
+      "t": "34199",
+      "list": 1,
+      "cat": 1,
+      "subcat": 1,
+      "title": "Segurança no Forumeiros",
+      "desc": "-"
+    },
     {
       "t": "112365",
       "list": 1,
@@ -260,14 +268,6 @@
       "desc": "-"
     },
     {
-      "t": "34199",
-      "list": 1,
-      "cat": 3,
-      "subcat": 1,
-      "title": "Segurança em Forumeiros",
-      "desc": "-"
-    },
-    {
       "t": "115350",
       "list": 1,
       "cat": 3,
@@ -330,6 +330,14 @@
       "subcat": 1,
       "title":  "Gerir a função \"Em férias\"",
       "desc": " Esta função é muito útil quando desejamos que o fórum fique parcialmente inativo. Ela permite cancelar a inscrição de membros e também define \"virtualmente\" as autorizações de responder e criar um novo tópico somente para os membros da administração."
+    },
+        {
+      "t": "13925",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Sistema anti-flood",
+      "desc": "-"
     },
     {
       "t": "108992",
@@ -666,14 +674,6 @@
       "cat": 3,
       "subcat": 3,
       "title": "Redimensionamento de imagens",
-      "desc": "-"
-    },
-    {
-      "t": "13925",
-      "list": 1,
-      "cat": 3,
-      "subcat": 3,
-      "title": "Sistema anti-flood",
       "desc": "-"
     },
     {
