@@ -1049,7 +1049,8 @@
       "cat": 4,
       "subcat": 4,
       "title": "Moderadores: Como moderar",
-      "desc": "Uma ferramenta para moderar o fórum eficazmente."
+      "desc": "Uma ferramenta para moderar o fórum eficazmente.",
+      "versions": [11]
     },
         {
       "t": "110577",
