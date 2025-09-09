@@ -393,14 +393,14 @@
       "cat": 3,
       "subcat": 2,
       "title": "Calendário",
-      "desc": "-"
+      "desc": "O calendário do fórum tem a função de nos ajudar quando desejamos adicionar um evento ao fórum. Com ele é mais fácil e simplificada a visualização além de conter uma agenda que mostra os eventos de cada dia cadastrados. Com ele também se pode exibir os membros que fazem aniversário."
     },
     {
       "t": "109343",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Criação e gerenciamento dos Eventos do fórum",
+      "title": "Criar e gerenciar os eventos do fórum",
       "desc": "Compartilhe os melhores momentos usando o recurso Eventos, que permite associar ao seu calendário do fórum anúncios de festas, reuniões, festivais, concertos, demonstrações e entre outros mais!"
     },
     {
@@ -408,7 +408,7 @@
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Criar votação/enquete e adicionar ao Portal",
+      "title": "Criar votação/enquete e adicionar ao portal",
       "desc": "As votações permitem obter uma opinião dos usuários sem que seja necessária a postagem de uma mensagem. Apenas terão de exercer o seu voto! Torna-se muito útil para obter opiniões mais generalizadas, captando assim a opinião dos usuários que menos postam mensagens."
     },
     {
@@ -416,39 +416,39 @@
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Gerenciar os Widgets do Fórum",
-      "desc": "-"
+      "title": "Gerenciar os Widgets do fórum",
+      "desc": "Os Widgets são espaços onde podemos adicionar todos os tipos de códigos HTML, sendo assim pode-se colocar quaisquer conteúdo. Neste modo, eles serão exibidos juntamente com todas as páginas do fórum, exerto o Portal."
     },
     {
       "t": "22448",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Gestão do widget \"Palavras-chave\"",
-      "desc": "-"
+      "title": "Gerenciar o widget \"Palavras-chave\"",
+      "desc": "Um recurso que nossos fóruns possuem é de exibir um widget que contenha as palavras chaves mais digitadas na caixa de busca. Algumas pessoas digitam palavras que não podem ser exibidas, para isso Forumeirtos tem uma funcionalidade que permite censurar as palavras que irão ser exibidas."
     },
     {
       "t": "22904",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Gestão do widget \"Novidades\"",
-      "desc": "-"
+      "title": "Gerenciar o widget \"Novidades\"",
+      "desc": "Um recurso que nossos fóruns possuem é de exibir um que possua parte de tópicos. Este widget é muito útil para a exibição de comunicados, notícias e outras coisas no portal, sendo que ele capta informações de um dos fóruns do fórum e as exibe."
     },
     {
       "t": "2010",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Gerir a galeria do fórum",
-      "desc": "-"
+      "title": "Gerenciar a galeria do fórum",
+      "desc": "A galeria de um fórum é um espço em que é permitido o compartilhamento de imagens públicas entre os usuários. Poderá enviar as imagens de seu computador para o servidor e dispõe de um espaço de 10Mb de espaço em um disco para estocar imagens. O fórum pode beneficiar de um aumento deste espaço de disco, para isso é necessário comprar créditos, seu fórum passa então a usar espaço na galeria além do que é oferecido, logo, é a galeria profissional."
     },
     {
       "t": "16946",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Gerir a função \"Lançar dados\"",
+      "title": "Gerenciar a função \"Lançar dados\"",
       "desc": "O sistema de dados está intimamente ligado as fichas de personagem e aos campos do módulo RPG. A sua função deve ser definida pelo administrador pelo que o mesmo pensa que seja a melhor utilidade. A sua função é um jogo de sorte ao fazer o lançamento de dados, como os mesmos são computados dependerá do modo como o administrador escolher.",
       "versions": [10]
     },
@@ -457,40 +457,40 @@
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Gestão do sistema de reputação / Botão obrigado",
-      "desc": "-"
+      "title": "Gerir o sistema de reputação e o botão \"Obrigado\"",
+      "desc": "O sistema de reputação está enquadrado com o sistema de pontos, pois também funciona com pontos, através da avaliação das mensagens, e também com o botão de agradecimento: \"Obrigado\"."
     },
     {
       "t": "14012",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Gerir o Sistema de pontos",
-      "desc": "-"
+      "title": "Gerir o sistema de pontos",
+      "desc": "O sistema de pontos consiste em atribuir valores para postagem de mensagens, tópicos, dias desde a inscrição, amigos que o membro contém no perfil e por mensagens no perfil. O sistema de pontos está enquadrado com o sistema de reputação, através da avaliação das mensagens, e também com o botão de agradecimento: \"Obrigado\"."
     },
     {
       "t": "42976",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Gestão das páginas .JS (javascript)",
-      "desc": "-"
+      "title": "Gerir os códigos JavaScript",
+      "desc": "Em muitos casos gostaríamos de adicionar pequenos scripts que podem nos auxiliar com personalização e com pequenas funções que com uma simples página HTML não suporta. É possível hospedar os seus arquivos \".js\" em seu fórum sem se preocupar com perdas."
+    },
+        {
+      "t": "7967",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Gerir as páginas HTML",
+      "desc": "A página HTML personalizada, tem duas finalidade, criar uma página de apresentação sobre o Fórum ou criar normalmente páginas HTML. Assim sendo, se utilizarmos uma página HTML, como página inicial, ela será a primeira página a ser exibida assim que se aceder ao endereço do Fórum."
     },
     {
       "t": "118081",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Página HTML personalizada",
-      "desc": "O widget Forumeiros permite incorporar os tópicos mais recentes do fórum em um site externo, ou numa página HTML. Assim, dando a possibilidade de exibir as últimas discussões do fórum em quaisquer sites: blogs, outros fóruns, etc."
-    },
-    {
-      "t": "7967",
-      "list": 1,
-      "cat": 3,
-      "subcat": 2,
       "title": "Widget externo Forumeiros",
-      "desc": "-"
+      "desc": "O widget Forumeiros permite incorporar os tópicos mais recentes do fórum em um site externo, ou numa página HTML. Assim, dando a possibilidade de exibir as últimas discussões do fórum em quaisquer sites: blogs, outros fóruns, etc."
     },
         {
       "t": "118085",
