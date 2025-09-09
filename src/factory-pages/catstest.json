@@ -32,7 +32,7 @@
       "key": "3",
       "list": 1,
       "name": "Geral",
-      "rgba": "245, 174, 66",
+      "rgba": "54, 159, 207",
       "desc": "Configuração geral do fórum.",
       "subcats": [
         {
@@ -111,7 +111,7 @@
       "key": "6",
       "list": 2,
       "name": "Melhore a aparência do fórum",
-      "rgba": "239, 51, 51",
+      "rgba": "255, 102, 0",
       "desc": "Dicas para explicar os princípios básicos da aparência de seus fóruns (cores, fundo, fontes, imagens...).",
       "subcats": [
         {
