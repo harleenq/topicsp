@@ -1137,32 +1137,32 @@
       "list": 1,
       "cat": 5,
       "subcat": 3,
-      "title": "Buscar um tema em HitSkin.com",
-      "desc": "-"
+      "title": "Procurar um tema no HitSkin",
+      "desc": "Quando desejamos encontrar um novo tema para os nossos fóruns, na maioria das vezes, recorremos ao serviço oferecido pelo Forumeiros, o HitSkin. Veremos como poderemos obter resultados satisfatórios nas buscas de temas e como podemos pesquisar um tema pelo nome."
     },
     {
       "t": "17239",
       "list": 1,
       "cat": 5,
       "subcat": 3,
-      "title": "Criar uma conta em Hitskin.com",
-      "desc": "-"
+      "title": "Criar uma conta no Hitskin",
+      "desc": "Para que possa desfrutar do direito de enviar temas para o site de temas Forumeiros é necessário que você possua uma conta no site. Veremos neste tutorial como criar uma conta e as ferramentas que ela nos oferece para a gestão dos temas que enviamos."
     },
     {
       "t": "17311",
       "list": 1,
       "cat": 5,
       "subcat": 3,
-      "title": "Propor um tema em Hitskin.com",
-      "desc": "-"
+      "title": "Propor um tema no Hitskin",
+      "desc": "Quando criamos um tema muito bom e desejamos compartilhar o mesmo com outras pessoas, podemos utilizar o serviço de disponibilização de temas do Forumeiros, o Hitskin. Veremos neste tutorial o que é necessário para que possamos enviar um tema criado por nós para o site."
     },
     {
       "t": "17276",
       "list": 1,
       "cat": 5,
       "subcat": 3,
-      "title": "Instalar / criar um fórum com um tema do HitSkin",
-      "desc": "-"
+      "title": "Instalar ou criar um fórum com um tema do Hitskin",
+      "desc": "Para facilitar a instalação de temas em nossos fóruns temos acesso ao Hitskin, site com mais de 3000 opções de temas para que possamos escolher e instalar em nosso fórum. Veremos neste tutorial como é simples, rápido e fácil instalar o tema perfeito."
     },
    {
       "t": "17730",
@@ -1177,8 +1177,8 @@
       "list": 2,
       "cat": 6,
       "subcat": 1,
-      "status": 2,
       "title": "Adicionar opacidade aos ícones da barra de navegação",
+      "desc": "Este tutorial irá lhe ensinar como poderá deixar a imagem do menu de navegação do seu fórum com diferentes níveis de cor, variando de uma cor total até uma cor mais opaca. Como o menu principal é um ponto onde muitos membros acedem, é interessante que seja feita algumas modificações no mesmo."
       "versions": [
         1,
         2,
@@ -1191,8 +1191,8 @@
       "list": 2,
       "cat": 6,
       "subcat": 1,
-      "status": 1,
       "title": "Personalizar a caixa de pesquisa",
+      "desc": "Através deste tutorial poderá personalizar a caixa de busca do Fórum, por exemplo, inserir diversas imagens na caixa e alterar a posição do mesmo.",
       "versions": [
         1,
         2,
@@ -1201,26 +1201,25 @@
       ]
     },
     {
-      "t": "117332",
+      "t": "118156",
       "list": 2,
       "cat": 6,
       "subcat": 1,
       "title": "Decoração de Natal",
+      "desc": "Para CELEBRAR o último mês do ano, Forumeiros propõe-lhe uma seleção de animações em forma de códigos para decorar a tua comunidade. Simples de instalar e mágico. Para isso, fizemos uma seleção das decorações mais mágicas para trazer o Natal à tua comunidade da maneira mais fácil possível Decora a tua comunidade para o Natal Icon_dwarf",
       "versions": [
        0
       ]
     },
     {
-      "t": "117303",
+      "t": "118127",
       "list": 2,
       "cat": 6,
       "subcat": 1,
       "title": "Decoração de Halloween",
+      "desc": "Para celebrar o Halloween ARREPIANTE, Forumeiros propõe-lhe uma seleção de animações em forma de códigos para decorar a tua comunidade. Simples de instalar e assustador. Para isso, fizemos uma seleção das decorações mais assustadoras ",
       "versions": [
-        1,
-        2,
-        3,
-        4
+       0
       ]
     },
     {
@@ -1229,11 +1228,9 @@
       "cat": 6,
       "subcat": 1,
       "title": "Decoração para a Páscoa",
+      "desc": "Para comemorar a Páscoa como deveria ser, o Forumeiros oferece uma seleção de decorações em forma de códigos - simples de instalar - para o seu Fórum!",
       "versions": [
-        1,
-        2,
-        3,
-        4
+       0
       ]
     },
     {
