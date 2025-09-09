@@ -26,7 +26,7 @@
       "title": "Aumente a segurança do fórum",
       "desc": "Sabia que é possível ter controle do fórum através do Painel administrativo? E existe riscos a quem dá acesso!"
     },
-        {
+    {
       "t": "34199",
       "list": 1,
       "cat": 1,
@@ -66,7 +66,7 @@
       "title": "Registo da atividade do Administrador e Moderador",
       "desc": "Apresentação das várias mensagens de erro técnicas nos fóruns."
     },
-        {
+    {
       "t": "4161",
       "list": 1,
       "cat": 1,
@@ -253,7 +253,7 @@
       "cat": 2,
       "desc": "Na maioria das vezes e na maioria dos fóruns aparecem os motores de busca nas estatísticas. Agora saberemos quem são e para que servem!"
     },
-   {
+    {
       "t": "100134",
       "cat": 2,
       "title": "Interagir fórum com redes sociais",
@@ -291,7 +291,7 @@
       "title": "Ativar ou desativar supressão de cookies",
       "desc": "Cookies são arquivos que contem informações de páginas da internet, tanto pode ser informações de login ou de sessão."
     },
-        {
+    {
       "t": "20324",
       "list": 1,
       "cat": 3,
@@ -323,23 +323,23 @@
       "title": "Censura de palavras",
       "desc": "A censura é usada no sentido de impedir ou controlar as diferentes liberdades de expressão, antes e/ou depois do seu aparecimento, podem ser definidas censuras para determinadas palavras e para determinados nomes de usuários."
     },
-        {
+    {
       "t": "15866",
       "list": 1,
       "cat": 3,
       "subcat": 1,
-      "title":  "Gerir a função \"Fórum em construção\"",
+      "title": "Gerir a função \"Fórum em construção\"",
       "desc": "Esta função é muito útil quando desejamos fazer alguma modificação em nosso fórum, mesmo que a mesma seja pequena e, não desejamos que os usuários á vejam. Com este recurso sempre que ativado impedirá os membros de acederem as páginas do fórum, sendo exibida uma mensagem personalizável."
     },
-            {
+    {
       "t": "16295",
       "list": 1,
       "cat": 3,
       "subcat": 1,
-      "title":  "Gerir a função \"Em férias\"",
+      "title": "Gerir a função \"Em férias\"",
       "desc": " Esta função é muito útil quando desejamos que o fórum fique parcialmente inativo. Ela permite cancelar a inscrição de membros e também define \"virtualmente\" as autorizações de responder e criar um novo tópico somente para os membros da administração."
     },
-        {
+    {
       "t": "13925",
       "list": 1,
       "cat": 3,
@@ -458,7 +458,9 @@
       "subcat": 2,
       "title": "Gerenciar a função \"Lançar dados\"",
       "desc": "O sistema de dados está intimamente ligado as fichas de personagem e aos campos do módulo RPG. A sua função deve ser definida pelo administrador pelo que o mesmo pensa que seja a melhor utilidade. A sua função é um jogo de sorte ao fazer o lançamento de dados, como os mesmos são computados dependerá do modo como o administrador escolher.",
-      "versions": [10]
+      "versions": [
+        10
+      ]
     },
     {
       "t": "13951",
@@ -476,7 +478,7 @@
       "title": "Gerir os códigos JavaScript",
       "desc": "Em muitos casos gostaríamos de adicionar pequenos scripts que podem nos auxiliar com personalização e com pequenas funções que com uma simples página HTML não suporta. É possível hospedar os seus arquivos \".js\" em seu fórum sem se preocupar com perdas."
     },
-        {
+    {
       "t": "7967",
       "list": 1,
       "cat": 3,
@@ -492,7 +494,7 @@
       "title": "Widget externo Forumeiros",
       "desc": "O widget Forumeiros permite incorporar os tópicos mais recentes do fórum em um site externo, ou numa página HTML. Assim, dando a possibilidade de exibir as últimas discussões do fórum em quaisquer sites: blogs, outros fóruns, etc."
     },
-        {
+    {
       "t": "118085",
       "list": 1,
       "cat": 3,
@@ -500,7 +502,7 @@
       "title": "Salas de bate-papo",
       "desc": "As salas de bate-papo, que lhe permitem organizar o Chatbox do seu fórum em diferentes espaços de conversação. As salas podem ser públicas ou organizadas por grupos, de acordo com as configurações de permissão no Painel administrativo."
     },
-            {
+    {
       "t": "118087",
       "list": 1,
       "cat": 3,
@@ -508,7 +510,7 @@
       "title": "Widgets no rodapé do fórum",
       "desc": "Widgets no rodapé é o complemento perfeito para o layout da sua comunidade. Criando uma segunda opção de apresentação das colunas dos widgets. Nas laterais (direita e/ou esquerda), no fundo do fórum (rodapé) ou em ambos."
     },
-                {
+    {
       "t": "118079",
       "list": 1,
       "cat": 3,
@@ -739,7 +741,9 @@
       "subcat": 3,
       "title": "Variáveis do fórum",
       "desc": "As variáveis são responsáveis por armazenar valores correspondentes a algo no fórum (os valores destas variáveis são actualizados automaticamente) e, podemos atravéz de códigos visualizar o valor contado por cada variável.",
-      "versions": [10]
+      "versions": [
+        10
+      ]
     },
     {
       "t": "16564",
@@ -774,7 +778,7 @@
       "title": "Organize os tópicos com a vista em grelha",
       "desc": "A vista em grelha permite que a sua comunidade possa encontrar os tópicos de interesse de forma rápida e eficaz através de um design moderno e de destaque."
     },
-        {
+    {
       "t": "118083",
       "list": 1,
       "cat": 3,
@@ -789,15 +793,15 @@
       "cat": 3,
       "subcat": 5,
       "title": "Gerir a função \"Blog\"",
-      "desc":  "A possibilidade de criamos um blog, altera completamente o estilo de apresentação dos assuntos, transformando a primeira mensagem do tópico no estilo artigo e as seguintes em comentários, assim como na lista de tópicos estará presente uma introdução ao tópico."
+      "desc": "A possibilidade de criamos um blog, altera completamente o estilo de apresentação dos assuntos, transformando a primeira mensagem do tópico no estilo artigo e as seguintes em comentários, assim como na lista de tópicos estará presente uma introdução ao tópico."
     },
-        {
+    {
       "t": "11750",
       "list": 1,
       "cat": 3,
       "subcat": 5,
       "title": "Visualizar e gerir as categorias, fóruns e sub-fóruns",
-      "desc":  "As categorias/fóruns/subfóruns representam o coração do seu fórum, pois com eles poderá organizar os assuntos discutidos no seu Fórum no modo que quiser, organizando da melhor forma essa discussão."
+      "desc": "As categorias/fóruns/subfóruns representam o coração do seu fórum, pois com eles poderá organizar os assuntos discutidos no seu Fórum no modo que quiser, organizando da melhor forma essa discussão."
     },
     {
       "t": "14012",
@@ -863,7 +867,7 @@
       "title": "Gerenciar o espaço de armazenamento do fórum",
       "desc": "-"
     },
-        {
+    {
       "t": "112029",
       "list": 1,
       "cat": 3,
@@ -910,7 +914,9 @@
       "subcat": 1,
       "title": "Permitir assinaturas e suas permissões",
       "desc": "Uma assinatura é uma mensagem personalizada que é exibida abaixo de cada mensagem do publicador. Como configurá-lo?",
-      "versions": [10]
+      "versions": [
+        10
+      ]
     },
     {
       "t": "25756",
@@ -943,7 +949,9 @@
       "subcat": 1,
       "title": "Escolha e configuração de avatares",
       "desc": "Quando regista-se em um fórum, tem a opção de adicionar um avatar no seu perfil.",
-      "versions": [10]
+      "versions": [
+        10
+      ]
     },
     {
       "t": "22010",
@@ -1008,16 +1016,20 @@
       "subcat": 3,
       "title": "Gestão da Ficha de personagem e o Módulo RPG",
       "desc": "Este tutorial detalha o procedimento para ativar e configurar uma folha de personagem.",
-      "versions": [10]
+      "versions": [
+        10
+      ]
     },
-        {
+    {
       "t": "118077",
       "list": 1,
       "cat": 4,
       "subcat": 3,
       "title": "Seguimento entre membros no fórum",
       "desc": "Membros a seguir são os membros que segues e queres receber notificações do conteúdo deles, como: novos tópicos e mensagens (dependendo das preferências do perfil). Uma forma interessante de descobrir cada publicação de um membro específico.",
-      "versions": [10]
+      "versions": [
+        10
+      ]
     },
     {
       "t": "25528",
@@ -1058,9 +1070,11 @@
       "subcat": 4,
       "title": "Moderadores: Como moderar",
       "desc": "Uma ferramenta para moderar o fórum eficazmente.",
-      "versions": [11]
+      "versions": [
+        11
+      ]
     },
-        {
+    {
       "t": "110577",
       "list": 1,
       "cat": 5,
@@ -1164,7 +1178,7 @@
       "title": "Instalar ou criar um fórum com um tema do Hitskin",
       "desc": "Para facilitar a instalação de temas em nossos fóruns temos acesso ao Hitskin, site com mais de 3000 opções de temas para que possamos escolher e instalar em nosso fórum. Veremos neste tutorial como é simples, rápido e fácil instalar o tema perfeito."
     },
-   {
+    {
       "t": "17730",
       "list": 1,
       "cat": 5,
@@ -1178,7 +1192,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Adicionar opacidade aos ícones da barra de navegação",
-      "desc": "Este tutorial irá lhe ensinar como poderá deixar a imagem do menu de navegação do seu fórum com diferentes níveis de cor, variando de uma cor total até uma cor mais opaca. Como o menu principal é um ponto onde muitos membros acedem, é interessante que seja feita algumas modificações no mesmo."
+      "desc": "Este tutorial irá lhe ensinar como poderá deixar a imagem do menu de navegação do seu fórum com diferentes níveis de cor, variando de uma cor total até uma cor mais opaca. Como o menu principal é um ponto onde muitos membros acedem, é interessante que seja feita algumas modificações no mesmo.",
       "versions": [
         1,
         2,
@@ -1208,7 +1222,7 @@
       "title": "Decoração de Natal",
       "desc": "Para CELEBRAR o último mês do ano, Forumeiros propõe-lhe uma seleção de animações em forma de códigos para decorar a tua comunidade. Simples de instalar e mágico. Para isso, fizemos uma seleção das decorações mais mágicas para trazer o Natal à tua comunidade da maneira mais fácil possível Decora a tua comunidade para o Natal Icon_dwarf",
       "versions": [
-       0
+        0
       ]
     },
     {
@@ -1219,7 +1233,7 @@
       "title": "Decoração de Halloween",
       "desc": "Para celebrar o Halloween ARREPIANTE, Forumeiros propõe-lhe uma seleção de animações em forma de códigos para decorar a tua comunidade. Simples de instalar e assustador. Para isso, fizemos uma seleção das decorações mais assustadoras ",
       "versions": [
-       0
+        0
       ]
     },
     {
@@ -1230,7 +1244,7 @@
       "title": "Decoração para a Páscoa",
       "desc": "Para comemorar a Páscoa como deveria ser, o Forumeiros oferece uma seleção de decorações em forma de códigos - simples de instalar - para o seu Fórum!",
       "versions": [
-       0
+        0
       ]
     },
     {
