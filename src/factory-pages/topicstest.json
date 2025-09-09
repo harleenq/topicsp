@@ -441,7 +441,8 @@
       "cat": 3,
       "subcat": 2,
       "title": "Gerir a função \"Lançar dados\"",
-      "desc": "-"
+      "desc": "O sistema de dados está intimamente ligado as fichas de personagem e aos campos do módulo RPG. A sua função deve ser definida pelo administrador pelo que o mesmo pensa que seja a melhor utilidade. A sua função é um jogo de sorte ao fazer o lançamento de dados, como os mesmos são computados dependerá do modo como o administrador escolher.",
+      "versions": [10]
     },
     {
       "t": "13951",
@@ -713,7 +714,8 @@
       "cat": 3,
       "subcat": 3,
       "title": "Variáveis do fórum",
-      "desc": "-"
+      "desc": "As variáveis são responsáveis por armazenar valores correspondentes a algo no fórum (os valores destas variáveis são actualizados automaticamente) e, podemos atravéz de códigos visualizar o valor contado por cada variável.",
+      "versions": [10]
     },
     {
       "t": "16564",
@@ -763,6 +765,14 @@
       "subcat": 5,
       "title": "Visualizar e gerir as categorias, fóruns e sub-fóruns",
       "desc":  "As categorias/fóruns/subfóruns representam o coração do seu fórum, pois com eles poderá organizar os assuntos discutidos no seu Fórum no modo que quiser, organizando da melhor forma essa discussão."
+    },
+    {
+      "t": "14012",
+      "list": 1,
+      "cat": 3,
+      "subcat": 5,
+      "title": "Sistema de pontos",
+      "desc": "O sistema de pontos permite atribuir pontos aos membros de acordo com o número de mensagens, data de inscrição, etc."
     },
     {
       "t": "114436",
@@ -866,7 +876,8 @@
       "cat": 4,
       "subcat": 1,
       "title": "Permitir assinaturas e suas permissões",
-      "desc": "Uma assinatura é uma mensagem personalizada que é exibida abaixo de cada mensagem do publicador. Como configurá-lo?"
+      "desc": "Uma assinatura é uma mensagem personalizada que é exibida abaixo de cada mensagem do publicador. Como configurá-lo?",
+      "versions": [10]
     },
     {
       "t": "25756",
@@ -898,7 +909,8 @@
       "cat": 4,
       "subcat": 1,
       "title": "Escolha e configuração de avatares",
-      "desc": "Quando regista-se em um fórum, tem a opção de adicionar um avatar no seu perfil."
+      "desc": "Quando regista-se em um fórum, tem a opção de adicionar um avatar no seu perfil.",
+      "versions": [10]
     },
     {
       "t": "22010",
@@ -939,14 +951,6 @@
       "subcat": 3,
       "title": "Posição do perfil nas mensagens (exceto em PhpBB2)",
       "desc": "Permite que você coloque seus perfis à direita ou à esquerda nos tópicos."
-    },
-    {
-      "t": "14012",
-      "list": 1,
-      "cat": 4,
-      "subcat": 3,
-      "title": "Sistema de pontos",
-      "desc": "O sistema de pontos permite atribuir pontos aos membros de acordo com o número de mensagens, data de inscrição, etc."
     },
     {
       "t": "118068",
