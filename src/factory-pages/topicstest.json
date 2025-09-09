@@ -492,6 +492,30 @@
       "title": "Widget externo Forumeiros",
       "desc": "-"
     },
+        {
+      "t": "118085",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Salas de bate-papo",
+      "desc": "As salas de bate-papo, que lhe permitem organizar o Chatbox do seu fórum em diferentes espaços de conversação. As salas podem ser públicas ou organizadas por grupos, de acordo com as configurações de permissão no Painel administrativo."
+    },
+            {
+      "t": "118087",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Widgets no rodapé do fórum",
+      "desc": "Widgets no rodapé é o complemento perfeito para o layout da sua comunidade. Criando uma segunda opção de apresentação das colunas dos widgets. Nas laterais (direita e/ou esquerda), no fundo do fórum (rodapé) ou em ambos."
+    },
+                {
+      "t": "118079",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Imagens compartilhadas nos tópicos",
+      "desc": "Com este recurso é fácil navegar pelas imagens publicadas, classificadas das mais recentes às mais antigas. Uma maneira simples de redescobrir as discussões de forma diferente!"
+    },
     {
       "t": "114436",
       "list": 1,
@@ -749,6 +773,15 @@
       "status": 1,
       "title": "Organize os tópicos com a vista em grelha",
       "desc": "A vista em grelha permite que a sua comunidade possa encontrar os tópicos de interesse de forma rápida e eficaz através de um design moderno e de destaque."
+    },
+        {
+      "t": "118083",
+      "list": 1,
+      "cat": 3,
+      "subcat": 3,
+      "status": 1,
+      "title": "Sistema de gostos e não gostos",
+      "desc": "Um sistema de feedback e avaliação \"Gosto\" e \"Não Gosto\" (ou se preferir, um sistema de Likes) que, além de simples, se adapta aos hábitos dos internautas."
     },
     {
       "t": "20094",
