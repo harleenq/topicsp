@@ -15,7 +15,7 @@ span.notification_time {
 [data-post-forum="41"] .tuto-off.ann .tuto-title,
 [data-post-forum="43"] .tuto-off.ann .tuto-title,
 [data-post-forum="70"] .tuto-off.ann .tuto-title,
-[data-post-forum="42"] .tuto-off.ann .tuto-title {
+[data-post-forum="44"] .tuto-off.ann .tuto-title {
     border-color: #57983a !important;    
     background: #89ba5b url(https://i.imgur.com/d8gCGFF.png) no-repeat scroll 0 -4px !important;    
 	text-shadow: 1px 0 0 #57983a !important;    
@@ -28,7 +28,7 @@ span.notification_time {
 [data-post-forum="41"] .tuto-fa,
 [data-post-forum="43"] .tuto-fa,
 [data-post-forum="70"] .tuto-fa,
-[data-post-forum="42"] .tuto-fa {
+[data-post-forum="44"] .tuto-fa {
     font-size: 0 !important;
 }
 
@@ -39,7 +39,7 @@ span.notification_time {
 [data-post-forum="41"] .faq-copy::before,
 [data-post-forum="43"] .faq-copy::before,
 [data-post-forum="70"] .faq-copy::before,
-[data-post-forum="42"] .faq-copy::before,
+[data-post-forum="44"] .faq-copy::before,
 [data-post-forum="42"] .faq-copy::before,
 [data-post-topic="117415"] .faq-ast-copy::before,
 [data-post-forum="28"] .faq-ast-copy::before,
