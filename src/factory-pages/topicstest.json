@@ -524,7 +524,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Redigir e enviar uma notificação push personalizada",
-      "desc": "-"
+      "desc": "O que são \"Notificações Push\"? É, em poucas palavras, um tipo de mensagem enviada para aplicativos (em um contexto geral). Com ela, é possível melhorar o SEO do site enviando informações precisas aos usuários."
     },
     {
       "t": "8479",
@@ -604,14 +604,6 @@
       "cat": 3,
       "subcat": 3,
       "title": "Criar e gerir a mensagem na Home Page",
-      "desc": "-"
-    },
-    {
-      "t": "16777",
-      "list": 1,
-      "cat": 3,
-      "subcat": 3,
-      "title": "Criar uma caixa de entrada para seus e-mails",
       "desc": "-"
     },
     {
@@ -751,7 +743,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Configurações do e-mail do fórum",
-      "desc": "-"
+      "desc": "Sempre que enviamos uma newsletter através do nosso Fórum, podemos definir um remetente, que poderá ser o email oficial do Fórum e podemos também definir uma assinatura que será anexada a todas as notificações que todos os membros recebem."
     },
     {
       "t": "93909",
@@ -812,20 +804,12 @@
       "desc": "O sistema de pontos permite atribuir pontos aos membros de acordo com o número de mensagens, data de inscrição, etc."
     },
     {
-      "t": "114436",
-      "list": 1,
-      "cat": 3,
-      "subcat": 4,
-      "title": "Redigir e enviar uma notificação push personalizada",
-      "desc": "-"
-    },
-    {
       "t": "16777",
       "list": 1,
       "cat": 3,
       "subcat": 4,
       "title": "Criar uma caixa de entrada para seus e-mails",
-      "desc": "-"
+      "desc": "Uma caixa de entrada é a sua caixa de envio e recepção de correios eletrônicos. Através dela você pode receber e enviar mensagens eletrônicas (e-mails). Forumeiros lhe disponibiliza uma caixa de entrada para o seu e-mail pessoal após ter adquirido um domínio personalizado para seu fórum."
     },
     {
       "t": "7165",
@@ -1757,12 +1741,6 @@
       "title": "Criar campos na criação do tópico"
     },
     {
-      "t": "112338",
-      "list": 2,
-      "cat": 7,
-      "title": "SCEditor habilitado no clique"
-    },
-    {
       "t": "112054",
       "list": 2,
       "cat": 7,
@@ -2001,6 +1979,14 @@
       "list": 2,
       "cat": 7,
       "title": "SCEditor habilitado no clique"
+    },
+    {
+      "t": "112338",
+      "list": 2,
+      "cat": 7,
+      "title": "Confirmar a saída da página caso exista uma mensagem no editor",
+      "desc": "O que parece ser improvável para alguns, para outros é um inconveniente de clicar acidentalmente em uma hiperligação, ser redirecionado e perder todo o conteúdo da mensagem existe no editor. Com este tutorial vamos dá-lhe a probabilidade de acabar este inconveniente através de uma confirmação a cada clique em uma hiperligação ou caso tente sair da página atual.",
+      "versions": [0]
     },
     {
       "t": "101070",
