@@ -532,7 +532,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Adicionar ícones de mensagens",
-      "desc": "-"
+      "desc": "Os ícones das mensagens, têm como finalidade demonstrar o espírito do tópico ou situação em que ele se encontra. Assim, pode ser usado para o criador do tópico se expressar, ou para definir situações dos tópicos, como por exemplo, coloca-los como \"resolvidos\" (como acontece aqui no Fórum dos Fóruns)!"
     },
     {
       "t": "17151",
@@ -540,7 +540,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Ativar a caixa de \"Resposta rápida\"",
-      "desc": "-"
+      "desc": "Através da resposta rápida, poderá levar uma caixa de envio de respostas abaixo de todas as mensagens do tópico, já no mesmo terá as opções básicas para o envio de novas mensagens ao tópico."
     },
     {
       "t": "13791",
@@ -548,7 +548,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Anúncios rotativos",
-      "desc": "-"
+      "desc": "Os anúncios rotativos, permitem adicionar vários informações do tipo texto e imagem no topo das páginas do seu Fórum, podendo criar inúmeros efeitos com os seus anúncios."
     },
     {
       "t": "22335",
@@ -564,7 +564,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Caixa de edição de mensagens",
-      "desc": "-"
+      "desc": "As caixas de mensagem estão presentes em todo o fórum, seja na resposta rápida, seja no envio de mensagens privadas e muitos outros locais. Por isso, é importante que algumas funções sobre esta sejam explicadas e que se note as diferenças entre as suas duas versões."
     },
     {
       "t": "14076",
@@ -572,7 +572,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Criar e gerir as Mensagens Privadas",
-      "desc": "-"
+      "desc": "As mensagens privadas permitem aos membros conversarem entre sí sem que os outros tomem conhecimento do que está sendo tratado. Ela pode ser enviada á vários membros ou, somente a um destinatário."
     },
     {
       "t": "16404",
@@ -580,7 +580,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Criar mensagem (MP) de boas-vindas",
-      "desc": "-"
+      "desc": "Com o envio de uma mensagem privada de boas-vindas o Fórum, através dum representante (frequentemente um administrador) poderá dar as boas vindas ao novo usuário assim que este se conete pela primeira vez no Fórum."
     },
     {
       "t": "16446",
@@ -588,7 +588,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Configurar a ferramenta \"Fale conosco\"",
-      "desc": "-"
+      "desc": "A função Fale connosco permite o envio de uma mensagem, que pode ser de email ou mensagem privada para um determinado grupo de usuários, os administradores ou os moderadores. Ela pode ser escrita por membros do fórum tanto pelos convidados. Ela pdoe ser encontrada no rodapé de todas as páginas do fórum."
     },
     {
       "t": "12427",
@@ -596,7 +596,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Como criar e gerir os Smileys",
-      "desc": "-"
+      "desc": "Os smileys são expressões que podemser utilizadas na forma de imagens para demonstrar algum sentimento. Podemos dividi-los em categorias e, utiliza-los para vários propósitos. Você pode adicionar, remover e editar os emoticons ou smileys que os usuários utilizam nas suas mensagens e nas mensagens privadas."
     },
     {
       "t": "17210",
