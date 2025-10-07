@@ -347,13 +347,21 @@
       "title": "Sistema anti-flood",
       "desc": "O sistema anti-flood permite que se mantenha um controlo automatico sobre os membros em função das suas mensagens, evitando o envio de mensagens consecutivas poe período de tempo definido pelos administradores dos Fóruns."
     },
-    {
+        {
       "t": "108992",
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Ativar e gerenciar as \"Publicações\" no fórum",
+      "title": "Atividade",
       "desc": "A seção de \"Publicações\" se diferencia do resto do seu fórum, por ter um design minimista e ergonômico. Com a seção de Publicações, seu fórum ficará mais interativo e completo, promovendo seu conteúdo por meio do design fantástico!"
+    },
+    {
+      "t": "118283",
+      "list": 1,
+      "cat": 3,
+      "subcat": 2,
+      "title": "Atividade",
+      "desc": "Atividade ou simplesmente \"Última atividade\" é um recurso ideal para descobrir e navegar facilmente por todas as interações e atividade da comunidade. Uma maneira simples de redescobrir a comunidade de forma diferente!"
     },
     {
       "t": "90299",
@@ -1483,7 +1491,7 @@
       "list": 2,
       "cat": 6,
       "subcat": 3,
-      "title": "Organizando categoria como \"Forumeiros e você\"",
+      "title": "Organizando categoria como \"Você e Forumeiros\"",
       "versions": [
         1,
         2,
@@ -1987,6 +1995,30 @@
       "title": "Confirmar a saída da página caso exista uma mensagem no editor",
       "desc": "O que parece ser improvável para alguns, para outros é um inconveniente de clicar acidentalmente em uma hiperligação, ser redirecionado e perder todo o conteúdo da mensagem existe no editor. Com este tutorial vamos dá-lhe a probabilidade de acabar este inconveniente através de uma confirmação a cada clique em uma hiperligação ou caso tente sair da página atual.",
       "versions": [0]
+    },
+   {
+      "t": "118292",
+      "list": 2,
+      "cat": 7,
+      "title": "Opção para \"Esconder assinatura\"",
+      "desc": "\"Esconder assinatura\" é um truque para tornar a sua comunidade prática e cômoda para todos que acham que a assinatura é pouco agradável visualmente. Uma simples seleção de \"Sim\" e \"Não\" aparece ao lado dos participantes do tópico para esconder ou mostrar as assinaturas dos tópicos. É compatível com todas as versões Forumeiros.",
+      "versions": [0, 1]
+    },
+    {
+      "t": "118294",
+      "list": 2,
+      "cat": 7,
+      "title": "Opção para escolher o modo escuro ou claro",
+      "desc": "Escolher entre modo escuro ou claro e dar a possibilidade de escolha a sua comunidade. É um ponto extra na parte visual do fórum. Alterar de forma simples e eficaz através de um seletor existe no fundo do fórum. É compatível com todas as versões Forumeiros.",
+      "versions": [0, 1]
+    },
+        {
+      "t": "118296",
+      "list": 2,
+      "cat": 7,
+      "title": "Carregar tópicos usando o Feed RSS",
+      "desc": "Carregar tópicos usando o Feed RSS dá a possibilidade de carregar todos os tópicos do fórum ou de um determinado subfórum em um módulo personalizado, página HTML ou outro local do fórum. Ótimo para quem quer destacar os anúncios, atualizações ou novidades da comunidade automaticamente.",
+      "versions": [0, 1]
     },
     {
       "t": "101070",
