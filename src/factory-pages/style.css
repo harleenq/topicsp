@@ -108,15 +108,16 @@ div.postbody .faq-off:first-child {
     font-size: 6em;
     margin-top:28px
 }
-li.thumb-msg span.thumb-up {
-    display: inline-block !important;
-    box-sizing: border-box;
-    background-color: #73BC4E !important;
-    height: 29px;
-    color: #DAEDD1;
-    border-radius: 24px;
-    padding: 6px 9px;
-    font-weight:700
+span.thumb-up {
+display: inline-flex;
+box-sizing: border-box;
+background-color: #73BC4E !important;
+height: 29px;
+color: #DAEDD1;
+border-radius: 24px;
+padding: 6px 9px;
+font-weight: 700;
+align-items: center;
 }
 
 li.thumb-msg span a {
@@ -131,6 +132,7 @@ justify-content: end;
 list-style: none;
 gap: .75rem;
 }
+.profile-icons li:empty,
 .topic-title {
 display: none;
 }
