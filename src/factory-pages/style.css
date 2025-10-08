@@ -1,4 +1,9 @@
-
+.author {
+position: absolute;
+top: 18px;
+margin: 0;
+width: max-content;
+}
 .tuto-off.ann .tuto-title, .tuto-off.news .tuto-title {
     background:#39c url(https://2img.net/i.imgur.com/l7s6MA7.png) no-repeat scroll 0 -4px !important
 }
