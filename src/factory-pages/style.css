@@ -14,6 +14,17 @@ li.thumb-msg span a {
     color:#FFF
 }
 
+.profile-icons {
+display: flex;
+width: 100%;
+justify-content: end;
+list-style: none;
+gap: .75rem;
+}
+.topic-title {
+display: none;
+}
+
 .tuto-ast-off, .tuto-jur, .tuto-jur-contain, .tuto-off {
     background-color: #f7f7f7;
     border-right: 1px solid #ddd;
