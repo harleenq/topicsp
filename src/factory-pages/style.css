@@ -1,0 +1,98 @@
+.tuto-ast-title, .tuto-jur-title, .tuto-title {
+    background: url(https://2img.net/i.imgur.com/d8gCGFF.png) 0 -4px no-repeat #39c;
+    border-radius: 0 10px 0 0;
+    border-top: 2px solid #17a;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    height: 100px;
+    padding-left: 100px;
+    text-shadow:1px 0 0 #17a
+}
+
+.tuto-jur-title {
+    background-color: #e34839;
+    border-top: 2px solid #dd2e20;
+    text-shadow:1px 0 0 #dd2e20
+}
+
+.tuto-ast-title {
+    background-color: #89ba5b;
+    border-color: #85ad5f !important;
+    text-shadow:1px 0 0 #57983a
+}
+
+.tuto-contain, .tuto-jur-contain td {
+    border-left: 75px solid #eee;
+    border-right: 20px solid #eee;
+    padding:10px 20px
+}
+
+.tuto-contain h2.post-content, .tuto-jur-contain td h2.post-content {
+    background-color: #eee;
+    border-bottom: 1px solid #ddd !important;
+    font-family: sans-serif;
+    font-size: 1.5em;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding: 10px;
+    margin-bottom: 15px;
+    counter-increment: chapter;
+    counter-reset: subpart;
+    color:#333 !important
+}
+
+.tuto-contain h3.post-content, .tuto-jur-contain td h3.post-content {
+    border-bottom: 1px solid #333;
+    color: #333;
+    counter-increment: subpart;
+    font-family: sans-serif;
+    padding-bottom: 5px;
+    text-transform:unset
+}
+
+.tuto-contain h2.post-content::before, .tuto-jur-contain td h2.post-content::before {
+    background-color: #333;
+    border-radius: 31px;
+    box-sizing: border-box;
+    color: #fff;
+    content: counter(chapter, decimal);
+    display: inline-block;
+    height: 33px;
+    margin-left: -50px;
+    margin-right: 15px;
+    text-align: center;
+    width:33px
+}
+
+.tuto-contain h3.post-content:before, .tuto-jur-contain td h3.post-content::before {
+    content: counter(chapter) "." counter(subpart) ". "
+}
+
+.tuto-contain.reset, .tuto-jur-contain.reset {
+    counter-reset:chapter
+}
+
+.tuto-ast-footer, .tuto-footer {
+    background-color: #333;
+    border-radius: 0 0 10px;
+    color: #fafafa;
+    font-family: sans-serif;
+    font-size: .9em;
+    margin-left: -10px;
+    margin-bottom: 15px;
+    width:100%
+}
+
+.tuto-ast-copy, .tuto-copy {
+    padding:10px 20px
+}
+
+.tuto-ast-copy::before, .tuto-copy::before {
+    content: "\f129";
+    float: right;
+    font-family: FontAwesome;
+    font-size: 6em;
+    margin-top: 28px
+}
