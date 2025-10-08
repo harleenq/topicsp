@@ -116,12 +116,12 @@ li.thumb-msg span.thumb-up {
     color: #DAEDD1;
     border-radius: 24px;
     padding: 6px 9px;
-    font-size: 1.4em;
     font-weight:700
 }
 
 li.thumb-msg span a {
-    color:#FFF
+    color:#FFF;
+    text-decoration: none;
 }
 
 .profile-icons {
