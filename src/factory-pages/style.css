@@ -54,8 +54,6 @@ div.postbody .faq-off:first-child {
     color: #fff;
     font-family: sans-serif;
     font-size: .9em;
-    margin-bottom: 15px;
-    margin-left: -10px;
     width:100%
 }
 
@@ -161,6 +159,7 @@ div.postbody .tuto-ast-off:first-child, div.postbody .tuto-jur, div.postbody .tu
     font-weight: 700;
     height: 100px;
     padding-left: 100px;
+    width: 100%;
     text-shadow:1px 0 0 #17a
 }
 
