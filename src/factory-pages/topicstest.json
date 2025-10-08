@@ -775,7 +775,6 @@
       "list": 1,
       "cat": 3,
       "subcat": 3,
-      "status": 1,
       "title": "Organize os tópicos com a vista em grelha",
       "desc": "A vista em grelha permite que a sua comunidade possa encontrar os tópicos de interesse de forma rápida e eficaz através de um design moderno e de destaque."
     },
@@ -784,7 +783,6 @@
       "list": 1,
       "cat": 3,
       "subcat": 3,
-      "status": 1,
       "title": "Sistema de gostos e não gostos",
       "desc": "Um sistema de feedback e avaliação \"Gosto\" e \"Não Gosto\" (ou se preferir, um sistema de Likes) que, além de simples, se adapta aos hábitos dos internautas."
     },
@@ -2003,7 +2001,7 @@
       "cat": 7,
       "title": "Opção para \"Esconder assinatura\"",
       "desc": "\"Esconder assinatura\" é um truque para tornar a sua comunidade prática e cômoda para todos que acham que a assinatura é pouco agradável visualmente. Uma simples seleção de \"Sim\" e \"Não\" aparece ao lado dos participantes do tópico para esconder ou mostrar as assinaturas dos tópicos. É compatível com todas as versões Forumeiros.",
-      "versions": [0, 1]
+      "versions": [0]
     },
     {
       "t": "118294",
@@ -2011,7 +2009,7 @@
       "cat": 7,
       "title": "Opção para escolher o modo escuro ou claro",
       "desc": "Escolher entre modo escuro ou claro e dar a possibilidade de escolha a sua comunidade. É um ponto extra na parte visual do fórum. Alterar de forma simples e eficaz através de um seletor existe no fundo do fórum. É compatível com todas as versões Forumeiros.",
-      "versions": [0, 1]
+      "versions": [0]
     },
         {
       "t": "118296",
@@ -2019,7 +2017,7 @@
       "cat": 7,
       "title": "Carregar tópicos usando o Feed RSS",
       "desc": "Carregar tópicos usando o Feed RSS dá a possibilidade de carregar todos os tópicos do fórum ou de um determinado subfórum em um módulo personalizado, página HTML ou outro local do fórum. Ótimo para quem quer destacar os anúncios, atualizações ou novidades da comunidade automaticamente.",
-      "versions": [0, 1]
+      "versions": [0]
     },
     {
       "t": "101070",
