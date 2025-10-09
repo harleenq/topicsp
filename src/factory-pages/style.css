@@ -1,3 +1,6 @@
+.profile-icons li:empty, .profile-icons img[onclick="togglePostMultiQuote(this);"], .profile-icons a[href$="mode=quote"], .profile-icons a[href$="mode=delete"], .profile-icons a[href*="mode=ip"], .profile-icons a[href$="mode=editpost"] {
+display: none !important;
+}
 .author {
 position: absolute;
 top: 18px;
