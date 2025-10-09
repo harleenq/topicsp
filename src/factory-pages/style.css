@@ -1,4 +1,15 @@
-.profile-icons li:empty, .profile-icons img[onclick="togglePostMultiQuote(this);"], .profile-icons a[href$="mode=quote"], .profile-icons a[href$="mode=delete"], .profile-icons a[href*="mode=ip"], .profile-icons a[href$="mode=editpost"] {
+[id^="p"].module dl.codebox, .content blockquote, .message-block .message-text blockquote, .message-block .message-text dl.codebox, .panel .content dl.codebox, .panel .postbody .content blockquote, .panel .table .row1 blockquote, .panel .table1 .row1 dl.codebox, .post .postbody .content blockquote, .post .postbody .content dl.codebox, .search .postbody blockquote, .search .postbody dl.codebox {
+background: #e7edf3 none repeat scroll 0 0;
+border: 0 none;
+border-radius: 3px;
+color: #7089a9;
+font-size: 1.1em;
+line-height: 1.7;
+margin: 1em 25px 1em 1em;
+padding: 7px 15px;
+}
+
+dl.codebox:not(.spoiler) dt, .profile-icons li:empty, .profile-icons img[onclick="togglePostMultiQuote(this);"], .profile-icons a[href$="mode=quote"], .profile-icons a[href$="mode=delete"], .profile-icons a[href*="mode=ip"], .profile-icons a[href$="mode=editpost"] {
 display: none !important;
 }
 .author {
