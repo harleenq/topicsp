@@ -178,7 +178,8 @@ div.postbody .tuto-ast-off:first-child, div.postbody .tuto-jur, div.postbody .tu
 .tuto-contain, .tuto-jur-contain td {
     border-left: 75px solid #eee;
     border-right: 20px solid #eee;
-    padding:10px 20px
+    padding:10px 20px;
+    word-wrap: anywhere;
 }
 
 .tuto-contain h2.post-content, .tuto-jur-contain td h2.post-content {
@@ -232,8 +233,6 @@ div.postbody .tuto-ast-off:first-child, div.postbody .tuto-jur, div.postbody .tu
     color: #fafafa;
     font-family: sans-serif;
     font-size: .9em;
-    margin-left: -10px;
-    margin-bottom: 15px;
     width:100%
 }
 
@@ -246,5 +245,4 @@ div.postbody .tuto-ast-off:first-child, div.postbody .tuto-jur, div.postbody .tu
     float: right;
     font-family: FontAwesome;
     font-size: 6em;
-    margin-top: 28px
 }
