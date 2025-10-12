@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Nox Icons';
+    src: url('https://forumeirospt.github.io/assets/src/fonts/Nox_Icons.eot');
+    src: url('https://forumeirospt.github.io/assets/src/fonts/Nox_Icons.eot?#iefix') format('embedded-opentype'),
+         url('https://forumeirospt.github.io/assets/src/fonts/Nox_Icons.woff') format('woff'),
+         url('https://forumeirospt.github.io/assets/src/fonts/Nox_Icons.ttf') format('truetype'),
+         url('https://forumeirospt.github.io/assets/src/fonts/Nox_Icons.svg#NoxIcons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class*='ni-']:before{
+	display: inline-block;
+	font-family: 'Nox Icons';
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
