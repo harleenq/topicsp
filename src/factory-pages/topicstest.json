@@ -1211,6 +1211,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Por a barra de navegação na vertical",
+      "desc": "Adiciona o menu na lateral, igual a versão AwesomeBB"
       "versions": [
         1,
         2,
