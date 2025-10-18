@@ -1206,21 +1206,6 @@
       ]
     },
     {
-      "t": "118256",
-      "list": 2,
-      "cat": 6,
-      "subcat": 1,
-      "title": "Por a barra de navegação na vertical",
-      "desc": "Adiciona o menu na lateral, igual a versão AwesomeBB",
-      "versions": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
-    },
-    {
       "t": "56809",
       "list": 2,
       "cat": 6,
@@ -1988,6 +1973,20 @@
       "title": "Carregar tópicos usando o Feed RSS",
       "desc": "Carregar tópicos usando o Feed RSS dá a possibilidade de carregar todos os tópicos do fórum ou de um determinado subfórum em um módulo personalizado, página HTML ou outro local do fórum. Ótimo para quem quer destacar os anúncios, atualizações ou novidades da comunidade automaticamente.",
       "versions": [0]
+    },
+        {
+      "t": "118256",
+      "list": 2,
+      "cat": 7,
+      "title": "Menu na vertical igual AwesomeBB",
+      "desc": "Adiciona o menu na lateral, igual a versão AwesomeBB",
+      "versions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "t": "101070",
