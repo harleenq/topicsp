@@ -140,11 +140,30 @@ margin: 1em 25px 1em 1em;
 padding: 7px 15px;
 }
 dl.codebox:not(.spoiler) {
+    position: relative;
 background-color: #272822 !important;
 padding-right: 0 !important;
 text-shadow: 1px 1px 0 #1B1C18;
 }
-
+            .prettyprint * {
+               color: #fafafa !important;
+            }
+            .copy-btn {
+                position: absolute;
+                top: 8px;
+                right: 8px;
+                padding: 4px 8px;
+                font-size: 12px;
+                border: none;
+                border-radius: 4px;
+                background: #39C;
+                color: #fff;
+                cursor: pointer;
+                z-index: 100;
+            }
+            .copy-btn.copied {
+                background: #28a745;
+            }
 dl.codebox code {
     overflow: auto;
     display: block;
