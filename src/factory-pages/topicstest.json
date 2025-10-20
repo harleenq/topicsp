@@ -629,7 +629,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Gerenciamento do BBcode H2, H3 e H4",
-      "desc": "No HTML usamos o código [b]font[/b] para atribuir tamanhos e cores a caracteres em texto específico ou geral. Outro elemento básico do HTML que permite aumentar o tamanho da fonte da letra é o h2, h3 ou h4. Vamos através deste tutorial compreender o seu funcionamento e como personalizá-lo de acordo com as cores do seu fórum."
+      "desc": "No HTML usamos o código \"Font\" para atribuir tamanhos e cores a caracteres em texto específico ou geral. Outro elemento básico do HTML que permite aumentar o tamanho da fonte da letra é o h2, h3 ou h4. Vamos através deste tutorial compreender o seu funcionamento e como personalizá-lo de acordo com as cores do seu fórum."
     },
     {
       "t": "27247",
@@ -653,7 +653,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Limitar o número de citações numa mensagem",
-      "desc": "-"
+      "desc": "Com esta função, podemos definir um limite de citações (quotes) numa mensagem. Por exemplo, se definimos como três, não podem haver mais de três citações, numa mensagem em que eu cito o membro A, B, C e D, nessa ordem, somente aparecerão as citações das mensagens dos membros D, C e B."
     },
     {
       "t": "13842",
@@ -661,7 +661,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Multi citação",
-      "desc": "-"
+      "desc": "A multi-citação permite ao usuário citar várias mensagens dum mesmo tópico, através de método de marcação ou desmarcação do botão de selecção que cada mensagem do tópico contém."
     },
     {
       "t": "21858",
@@ -669,7 +669,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Permitir / Proibir a mudança do título dos tópicos",
-      "desc": "-"
+      "desc": "Em algumas situações e dependendo do tipo e do objetivo do fórum, é importante que os autores dos tópicos possam editar o título mesmo após haver respotas. Mas em outras isso já não trás vantagens. Para resolver estas desavenças pode-se escolher se um membro poderá ou não editar o título do tópico após haver uma resposta"
     },
     {
       "t": "7165",
@@ -677,7 +677,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Redigir e enviar uma newsletter ou e-mail em massa",
-      "desc": "-"
+      "desc": "Através da Newsletter, Boletim Informativo ou Email em Massa, poderá enviar uma mensagem para a caixa electrónica de cada usuário, ou para determinado grupo de usuários. Esta função torna-se muito útil, para por exemplo, dar a conhecer aos membros as novidades do Fórum, podendo assim contactar os mais ausentes."
     },
     {
       "t": "99009",
@@ -685,7 +685,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Redigir e enviar uma Mensagem Privada (MP) em massa",
-      "desc": "-"
+      "desc": "A mensagem privada em massa é como um tipo de \"boletim informativo\" ou mensagem que você envia para os seus membros. A única diferença é que não é um e-mail, mas uma mensagem privada (PM) aos membros do grupo."
     },
     {
       "t": "9444",
@@ -693,7 +693,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Relatório de alerta",
-      "desc": "-"
+      "desc": "A função do relatório de alertas serve para que os membros e grupos seleccionados possam alertar um administrador ou moderador sobre uma determinada mensagem de um tópico."
     },
     {
       "t": "26431",
@@ -701,7 +701,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Redimensionamento de imagens",
-      "desc": "-"
+      "desc": "Em algumas mensagens dos nossos fóruns existem imagens cuja a dimensão altera a aparência dos tópicos, causando problemas visuais devido à sua grande dimensão. Com esta funcionalidade isso não será mais um problema, com ela poderá definir as dimensões máximas de uma imagem, ao ser atingida ela será redimensionada proporcionalmente."
     },
     {
       "t": "22211",
@@ -709,7 +709,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Tempo limite para editar uma mensagem",
-      "desc": "-"
+      "desc": "Em alguns tipos de fóruns, se faz necessário que um membro possa postar uma mensagem e também possa a editar. Mas em alguns tipos de fórum, ele tem um tempo máximo para isso, o que é a função do Painel de controle que estudaremos neste tutorial. Ela lhe permite definir um tempo máximo para editar mensagens."
     },
     {
       "t": "27207",
@@ -717,7 +717,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Tópicos especiais: Anúncio global",
-      "desc": "-"
+      "desc": "Em \"Colocar o tópico como\", durante a criação/edição de uma mensagem, existirá também a opção \"Anúncio Global\"! Ela lhe permite que o tópico seja exibido em todos os fóruns automaticamente. Diferentemente de um tópico normal, importante ou \"a ler\"! Como em um tópico especial, esta opção é customizável pelo Painel de controle."
     },
     {
       "t": "27813",
@@ -725,7 +725,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Utilização de spoilers",
-      "desc": "-"
+      "desc": "A função spoiler permite ao usuário ocultar um determinado conteúdo, que somente passa a ser visto quando ele clica no termo spoiler (termo que pode ser modificado, como veremos neste tutorial). Muito útil para quando desejamos acelerar o carregamento da página ou para que algo não ocupe muito espaço."
     },
     {
       "t": "30498",
@@ -733,7 +733,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Visualizar o botão resolvido",
-      "desc": "-"
+      "desc": "Com esta opção, quando algum tópico estiver resolvido, poderemos colocar a tag [Resolvido] antes do título do tópico em questão. Com este tutorial, aprenderá a ativar esse botão!"
     },
     {
       "t": "9204",
@@ -819,20 +819,12 @@
       "desc": "Uma caixa de entrada é a sua caixa de envio e recepção de correios eletrônicos. Através dela você pode receber e enviar mensagens eletrônicas (e-mails). Forumeiros lhe disponibiliza uma caixa de entrada para o seu e-mail pessoal após ter adquirido um domínio personalizado para seu fórum."
     },
     {
-      "t": "7165",
-      "list": 1,
-      "cat": 3,
-      "subcat": 4,
-      "title": "Redigir e enviar uma newsletter ou e-mail em massa",
-      "desc": "-"
-    },
-    {
       "t": "22974",
       "list": 1,
       "cat": 3,
       "subcat": 4,
       "title": "Ativar \"Pesquisa avançada\"",
-      "desc": "-"
+      "desc": "A pesquisa avançada permite que o motor de busca de seu fórum se torne mais poderoso, realizando consultas mais profundas em relação aos resultados procurados pelos usuários no sistema de busca do fórum."
     },
     {
       "t": "110823",
@@ -840,7 +832,7 @@
       "cat": 3,
       "subcat": 4,
       "title": "Configurar o arquivo de publicidade ads.txt do fórum",
-      "desc": "-"
+      "desc": "O arquivo ADS.txt permite que você possa adicionar ao seu fórum os vendedores (anunciantes) autorizados a emitir certa publicidade em sua comunidade. Configurando este arquivo, será possível permitir que estas sejam mostradas nas páginas de seu fórum."
     },
     {
       "t": "1438",
@@ -848,7 +840,7 @@
       "cat": 3,
       "subcat": 4,
       "title": "Gestão dos Créditos",
-      "desc": "-"
+      "desc": "A gestão dos créditos possibilita ao seu fórum vantagens adicionais como: a remoção das publicidades, a compra de um domínio personalizado pelo Forumeiros com direito à uma conta de e-mail e também aumentar o espaço de armazenamento da galeria. A interface dos créditos é totalmente segura."
     },
     {
       "t": "27173",
@@ -856,7 +848,7 @@
       "cat": 3,
       "subcat": 4,
       "title": "Gerenciar o espaço de armazenamento do fórum",
-      "desc": "-"
+      "desc": "Nossos fóruns possuem duas funcionalidades que usam seu espaço de armazenamento, os anexos e a galeria. Temos como padrão 20mb de armazenamento, que podem aumentar caso compremos espaço suplementar. Veremos como podemos dividir este espaço entre a galeria e os anexos."
     },
     {
       "t": "112029",
@@ -864,7 +856,7 @@
       "cat": 3,
       "subcat": 4,
       "title": "Editar espaço de publicidade",
-      "desc": "-"
+      "desc": "O espaço de monetização permite editar e exibir o conteúdo de seus patrocinadores, como por exemplo, publicidades diversas para rentabilizar sua comunidade, mostrando banners em diversos locais no fórum que podem ser descritos a seguir."
     },
     {
       "t": "22649",
@@ -880,7 +872,7 @@
       "cat": 3,
       "subcat": 4,
       "title": "Hiperligações do rodapé",
-      "desc": "-"
+      "desc": "Agora com a nova ferramenta podemos editar/adicionar links no rodapé da página do seu fórum. Aprenda como fazer."
     },
     {
       "t": "118297",
@@ -1767,7 +1759,7 @@
       "t": "108128",
       "list": 2,
       "cat": 7,
-      "title": "Organizar os tópicospor separadores"
+      "title": "Organizar os tópicos por separadores"
     },
     {
       "t": "107420",
@@ -1779,7 +1771,7 @@
       "t": "107135",
       "list": 2,
       "cat": 7,
-      "title": "Emoticons pessoaispor membro"
+      "title": "Emoticons pessoais por membro"
     },
     {
       "t": "105897",
