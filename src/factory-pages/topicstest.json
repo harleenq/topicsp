@@ -565,7 +565,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Colorir o título dos tópicos",
-      "desc": "-"
+      "desc": "As vezes para destacarmos um tópico colocamos-o como fixo ou como um anúncio, mas junto com ele existem vários outros, então, para que um tópico possa ter mais destaque, é possível colorir o título do mesmo com diversas cores predefinidas."
     },
     {
       "t": "384",
@@ -613,7 +613,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Criar e gerir a mensagem na Home Page",
-      "desc": "-"
+      "desc": "A mensagem da Home Page é exibida no ínidice (página inicial) do seu fórum. Ela pode conter algumas infromações relevantes para o funcionamento do fórum, avisos e todos os outros tipos de conteúdos que desejar. Ela funciona como uma mensagem mas também pode ser escrita utilizando HTML, o que possibilita mais funções."
     },
     {
       "t": "9649",
@@ -621,7 +621,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Fixar / anunciar um tópico e personalizar post-it e anúncio",
-      "desc": "-"
+      "desc": "Através dos tópicos especiais, poderá destacar a posição de um determinado tópico, chamando assim a atenção dos usuários para a sua leitura! Pois a principal função que os tópicos especiais têm para os membros, é que estes os devem ler assim que surjam nos fóruns!"
     },
     {
       "t": "95433",
