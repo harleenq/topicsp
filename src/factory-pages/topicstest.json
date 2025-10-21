@@ -1634,29 +1634,20 @@
       "versions": [0]
     },
     {
-      "t": "89460",
+      "t": "113313",
       "list": 2,
-      "cat": 6,
-      "subcat": 5,
-      "title": "Cor na seleção de texto",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "cat": 7,
+      "title": "Destacar mensagens de moderador no chatbox",
+      "desc": "Por vezes torna-se difícil conseguir ter algum destaque nas milhões de mensagens que são enviadas no seu chatbox! Ao seguir este tutorial, todos as mensagens dos moderadores do chatbox serão coloridas consoante ao grupo que pertencem.",
+      "versions": [0]
     },
     {
       "t": "114170",
       "list": 2,
       "cat": 7,
-      "title": "Destacar mensagens de moderador no chatbox"
-    },
-    {
-      "t": "113313",
-      "list": 2,
-      "cat": 7,
-      "title": "Limitar o número de imagens na assinatura"
+      "title": "Limitar o número de imagens na assinatura",
+      "desc": "Com este tutorial aprenderemos a especificar um limite de imagens em assinaturas.",
+      "versions": [0]
     },
     {
       "t": "113739",
