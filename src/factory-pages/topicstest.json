@@ -353,7 +353,7 @@
       "list": 1,
       "cat": 3,
       "subcat": 2,
-      "title": "Atividade",
+      "title": "Gerenciar o sistema de Publicações do fórum",
       "desc": "A seção de \"Publicações\" se diferencia do resto do seu fórum, por ter um design minimista e ergonômico. Com a seção de Publicações, seu fórum ficará mais interativo e completo, promovendo seu conteúdo por meio do design fantástico!"
     },
     {
@@ -1211,6 +1211,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Efeito ao passar o cursor em cima da imagem da barra de navegação",
+      "desc": "Este tutorial ensina um efeito interessante que podemos fazer nas imagens de nossos fóruns. O efeito é bem simples e compacto, por isso o mesmo funciona em todas as versões. Basicamente, ele \"sobe\" as imagens dos menus dos fóruns!",
       "versions": [
         1,
         2,
@@ -1224,6 +1225,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Alterar o texto dos itens da barra de navegação",
+      "desc": "Com a criação de várias sugestões, os administradores de fóruns não gostam do modo que os links de navegação estão expostos em seus fóruns. Um código que vamos adicionar na folha de estilo .JS vai ajudar-lhe a mudar isso.",
       "versions": [
         1,
         2,
@@ -1237,6 +1239,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Personalizar atalho do membro da barra de ferramentas",
+      "desc": "Por muitas vezes, queremos chamar atenção com códigos inovados, nesse tutorial iremos aprender a como personalizar a aparência dos itens do atalho do membro da barra de ferramentas.",
       "versions": [
         1,
         2,
@@ -1250,6 +1253,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Efeito onda no cabeçalho do fórum",
+      "desc": "Nos dias atuais, os usuários da internet têm a tendência de se fascinar com efeitos e detalhes inovadores jamais vistos em execução. Este tutorial tem como objetivo adicionar a animação ondas no topo do seu fórum.",
       "versions": [
         1,
         2,
@@ -1263,6 +1267,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Mostrar o avatar do membro na barra de ferramentas",
+      "desc": "Com esse tutorial você vai aprender a exibir o avatar do usuário de seu fórum na barra de ferramentas com dois códigos muito rápidos.",
       "versions": [
         1,
         2,
@@ -1276,6 +1281,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Criar sub-itens na barra de navegação",
+      "desc": "Uma lista de links torna-se fundamental para o desenvolvimento do website, porque através desta lista o internauta pode acessar várias páginas rapidamente, gerando conforto e principalmente tráfego. Neste tutorial, vamos aplicar de forma elegante de menu com links em lista.",
       "versions": [
         1,
         2,
@@ -1289,12 +1295,8 @@
       "cat": 6,
       "subcat": 1,
       "title": "Remover menu fixo ao descer a página",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "desc": "Como sabemos na versão ModernBB, a barra de navegação é fixa no topo quando descemos a página. Se não deseja ter esse efeito no seu fórum siga este tutorial.",
+      "versions": [5]
     },
     {
       "t": "32787",
@@ -1302,6 +1304,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Criar atalhos para os sub-fóruns na página inicial",
+      "desc": "A lista de seções é um sistema que destaca as seções que o fórum possui na mensagem da home-page, fazendo com que todos os usuários que acessarem poderão ver o que existe no fórum e, ao passar o mouse sobre a imagem de cada uma das seções ver uma breve descrição dela.",
       "versions": [
         1,
         2,
@@ -1315,6 +1318,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Criar logos aleatórios",
+      "desc": "Este tutorial vai ajudar a ensinar-lhe como transformar seu banner fórum em uma apresentação de slides, para que você possa exibir vários banners de uma só vez, em vez de um.",
       "versions": [
         1,
         2,
@@ -1328,6 +1332,7 @@
       "cat": 6,
       "subcat": 1,
       "title": "Transformar o fundo em um vídeo do youtube",
+      "desc": "Com este tutorial, poderá saber como adicionar um vídeo do youtube como fundo do fórum, como se fosse uma imagem normal. Pode ser mais apelativo para fóruns, como por exemplo para fóruns de jogos e animes.",
       "versions": [
         1,
         2,
@@ -1341,6 +1346,7 @@
       "cat": 6,
       "subcat": 2,
       "title": "Proteção contra owner e XSS nas mensagens e chat",
+      "desc": "Impede que usuários enviem mensagens de \"owner\" nos tópicos e chat.",
       "versions": [
         1,
         2,
@@ -1354,6 +1360,7 @@
       "cat": 6,
       "subcat": 2,
       "title": "Personalizar o cursor do mouse",
+      "desc": "Com este tutorial aprenderemos a modificar o cursor do mouse nos nossos fóruns. Para alguns o cursor padrão do computador não agrada, por isso existe a possibilidade de o modificar por meio de códigos. Somente tenha atenção pois terá de tê-lo salvo em alguns formatos diferentes para que possa funcionar com todos os navegadores.",
       "versions": [
         1,
         2,
@@ -1367,8 +1374,8 @@
       "cat": 6,
       "subcat": 2,
       "title": "Personalizar o fundo dos widgets",
+      "desc": "Com a tendência cada vez maior de se ter um tema modificado, se faz necessário algumas modificações simples, como adicionar uma imagem de fundo aos Widgets. Este código irá substituir uma cor de fundo por uma imagem por meio de códigos CSS, mas caso queira poderá explorar muito mais as diversas opções que os códigos CSS nos disponibilizam.",
       "versions": [
-        1,
         2,
         3,
         4
@@ -1380,6 +1387,7 @@
       "cat": 6,
       "subcat": 2,
       "title": "Substituir percentagem imagem por texto nos widgets predefinidos",
+      "desc": "Esse tutorial tem como objetivo substituir a barra de porcentagem que alguns Widgets predefinidos utilizam pela porcentagem escrita. O tutorial funciona para todos os tipos de fóruns.",
       "versions": [
         1,
         2,
@@ -1393,6 +1401,7 @@
       "cat": 6,
       "subcat": 2,
       "title": "Tornar o título das \"Novidades\" em hiperligação",
+      "desc": "Atualmente, para acessarmos um tópico listado nas novidades do Portal, devemos clicar nos comentários, no link \"Ler Tudo\" (para tópico com um determinado número de caracteres), ou contar com a presença de um link dentro do próprio tópico, que o redirecione para lá. Neste tutorial aprenderemos como tornar o título das novidades em um link, que o levará da mesma forma para o tópico, porém, tornando a função muito mais prática.",
       "versions": [
         1,
         2,
@@ -1406,6 +1415,7 @@
       "cat": 6,
       "subcat": 2,
       "title": "Mostrar o avatar do membro nos \"Últimos assuntos\"",
+      "desc": "A elegância é um dom que a maioria dos Administradores tem com seus fóruns, e com o código a seguir poderemos adicionar o avatar dos usuários em todas as versões no widget de \"Últimos assuntos\".",
       "versions": [
         1,
         2,
@@ -1419,6 +1429,7 @@
       "cat": 6,
       "subcat": 2,
       "title": "Adicionar um aviso no chat box",
+      "desc": "Este CSS permite-nos adicionar uma mensagem no fundo das mensagens do chat. Com ela, podemos colocar breve regras sobre o funcionamento do mesmo ou então outra mensagem ao gosto.",
       "versions": [
         1,
         2,
@@ -1432,6 +1443,7 @@
       "cat": 6,
       "subcat": 2,
       "title": "Alterar o prefixo dos moderadores do chat box",
+      "desc": "Neste tutorial iremos ensinar como destacar os moderadores do chatbox, retirando o famoso arroba do Nickname e colocando um pré-fixo personalizado para que, desta forma, os moderadores recebam um destaque maior.",
       "versions": [
         1,
         2,
@@ -1444,13 +1456,9 @@
       "list": 2,
       "cat": 6,
       "subcat": 3,
-      "title": "Organizando categoria como \"Você e Forumeiros\"",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "title": "Organizando categoria como \"Forumeiros e Você\"",
+      "desc": "Este tipo de fórum tem como utilidade diminuir o tamanho do índice, comprimindo ao máximo os fóruns. Além desta vantagem possui muitas outras, como a divisão de fóruns em duas colunas. Com um novo método, será possível criar mais de quatro fóruns, sendo expandido para o número que o limite de caracteres permitir.",
+      "versions": [0]
     },
     {
       "t": "108131",
@@ -1458,6 +1466,7 @@
       "cat": 6,
       "subcat": 3,
       "title": "Colorir os fóruns com novas mensagens",
+      "desc": "Esse tutorial irá ensinar como colorir os fóruns quando uma nova mensagem é postada. Segue um exemplo do resultado na versão PhpBB3.",
       "versions": [
         1,
         2,
@@ -1471,6 +1480,7 @@
       "cat": 6,
       "subcat": 3,
       "title": "Mostrar a descrição do fórum ao passar o cursor",
+      "desc": "Com um código simples, podemos visualizar as descrições dos fóruns apenas quando passa o cursor em cima do tal fórum.",
       "versions": [
         1,
         2,
@@ -1484,6 +1494,7 @@
       "cat": 6,
       "subcat": 4,
       "title": "Personalizar o SCEditor",
+      "desc": "As caixas de texto (escrita de uma mensagem) do Fórum, são o ponto de passagem de todos os participantes, desta feita, este tutorial, irá ajudar a tornar as caixas de texto do teu Fórum, mais personalizadas, ao estilo do teu Fórum, tornando-as mais atrativas!",
       "versions": [
         1,
         2,
@@ -1497,12 +1508,8 @@
       "cat": 6,
       "subcat": 4,
       "title": "Adicionar estado \"Online\" e \"Offline\" nos tópicos",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "desc": "Muitas vezes gostariamos de visualizar se um usuário está online no fórum sem ter que olhar nas estatísticas. Agora poderemos adicionar os ícones para diferenciar o status dos usuários. Devido a aplicação das classes CSS nas versões, este código somente foi satisfatório para a versão PhpBB 3, logo, somente existe neste tutorial um código para modificar esta versão.",
+      "versions": [2]
     },
     {
       "t": "56961",
@@ -1510,6 +1517,7 @@
       "cat": 6,
       "subcat": 4,
       "title": "Retirar o \"Ver mais Smileys\"",
+      "desc": "Neste tutorial, vamos retirar a caixa de seleção que mostra os outros smilieys que há em seu fórum, com o uso de uma classe e propriedades em CSS.",
       "versions": [
         1,
         2,
@@ -1523,12 +1531,8 @@
       "cat": 6,
       "subcat": 5,
       "title": "Retirar o sublinhado da hiperligação",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "desc": "Quando clicamos em endereços de ligação (link's) aparecem bordas tracejadas, talvez em alguns casos elas não nos agrade como por exemplo quando clicamos em imagens que contém um link inserido, a imagem fica com uma borda em volta, neste tutorial iremos aprender como retira-la.",
+      "versions": [0]
     },
     {
       "t": "56712",
@@ -1536,12 +1540,8 @@
       "cat": 6,
       "subcat": 5,
       "title": "Efeito neon na hiperligação",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "desc": "Neste tutorial você irá aprender à colocar um contorno Neon envolta dos links, o efeito é ativado ao passar o Mouse em cima do link.",
+      "versions": [0]
     },
     {
       "t": "52737",
@@ -1549,12 +1549,8 @@
       "cat": 6,
       "subcat": 5,
       "title": "Efeito no nome de usuário",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "desc": "Em alguns casos gostaríamos de destacar o nome de um usuário no fórum, mudar de cor, fazer qualquer alteração, mas não em todos, só em um, este tutorial se trata exatamente disto.",
+      "versions": [0]
     },
     {
       "t": "35499",
@@ -1562,6 +1558,7 @@
       "cat": 6,
       "subcat": 5,
       "title": "Personalização do spoiler",
+      "desc": "Ás vezes quando estamos editando um tema queremos arrumar também o spoiler, assim como a caixa de código e citação. Aqui veremos como fazer isto!",
       "versions": [
         1,
         2,
@@ -1575,6 +1572,7 @@
       "cat": 6,
       "subcat": 5,
       "title": "Personalização do código",
+      "desc": "As vezes gostaríamos de adicionar algum efeito com imagens, cores ou bordas para assim personalizar a aparência da baliza BBCode código. Neste tutorial irá ver com quais códigos irá se utilizar para obter o efeito desejado, para qualquer que seja a versão em questão.",
       "versions": [
         1,
         2,
@@ -1588,12 +1586,8 @@
       "cat": 6,
       "subcat": 5,
       "title": "Encurtar o texto da hiperligação",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "desc": "Com base neste tutorial você poderá encurtar os links grandes que os usuários postam com um código muito simples.",
+      "versions": [0]
     },
     {
       "t": "29666",
@@ -1601,11 +1595,10 @@
       "cat": 6,
       "subcat": 5,
       "title": "Alterar a posição do rank e do avatar",
+      "desc": "Em alguns layouts prontos o rank vem acima do avatar e muitos usuários e administradores têm o costume do uso com o rank abaixo do avatar, neste tutorial veremos como fazer tais alterações utilizando a personalização de templates.",
       "versions": [
         1,
-        2,
-        3,
-        4
+        3
       ]
     },
     {
@@ -1614,6 +1607,7 @@
       "cat": 6,
       "subcat": 5,
       "title": "Mostrar as opções da mensagem ao passar o cursor",
+      "desc": "Neste tutorial, ficarão dispostos códigos CSS que concedem opacidade nos botões da postagem, tais como editar, citar e afins.",
       "versions": [
         1,
         2,
@@ -1627,12 +1621,17 @@
       "cat": 6,
       "subcat": 5,
       "title": "Personalizar links de downloads externos",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "desc": "Pensando mais em você, administrador que tem seu fórum e disponibiliza download de arquivos demos licenciados estamos apresentando um tutorial que personalizará mais seu fórum com um simples código CSS. Com ele, será possível adicionar uma imagem definida para todo link com a extensão adicionada ao CSS.",
+      "versions": [0]
+    },
+    {
+      "t": "89460",
+      "list": 2,
+      "cat": 6,
+      "subcat": 5,
+      "title": "Cor na seleção de texto",
+      "desc": "Com base neste tutorial podemos alterar a cor da seleção de texto, tanto do fundo do texto como da própria cor do texto, envolvendo apenas códigos CSS.",
+      "versions": [0]
     },
     {
       "t": "89460",
